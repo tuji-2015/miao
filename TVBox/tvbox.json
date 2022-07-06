@@ -1,6 +1,6 @@
 
 {
-"spider":"https://raw.fastgit.org/tuji-2015/miao/main/TVBox/jar/qiaoji0706.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/qiaoji0706.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jaHVhbnNodW8xMjMyMDAuZ2l0aHViLmlvLzAvdHMudHh0"]}]}],
 

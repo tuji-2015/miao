@@ -45,7 +45,7 @@
 {"key":"csp_DY1990","name":"📀1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"if101资源","name":"✈️if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://422678320.github.io/320/TVBox/MaooXB/lgys.json"}
+//{"key":"csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://422678320.github.io/320/TVBox/MaooXB/lgys.json"}
 {"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/hdmoli.json"},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},

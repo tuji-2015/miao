@@ -225,8 +225,15 @@
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆
+{"key":"csp_appysv2_米来影视","name":"⭐️未来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
+{"key":"ganggang","name":"⭐杠杠影视️","type":1,"api":"http://mov.fuqizhishi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "csp_AppYs_秒播","name": "⭐️绿色影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_appysv2_独优影视","name":"⭐️独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_夕阳影视","name":"⭐️夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_小七影视","name":"小七影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xiaoqi0.cn/cuican_api.php/v1.vod"},
 {"key":"csp_appys_美剧虫","name":"🐼美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
+{"key":"csp_appysv2_全球星","name":"⭐️全球星(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.mzok.cn/api.php/v1.vod"},
+{"key":"csp_appysv2_诺诺影视","name":"⭐️诺诺影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_追剧TV","name":"追剧TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
 {"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"key":"csp_appysv2_余生影视","name":"余生影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yu.cuicanys.cn/lvdou_api.php/v1.vod"},

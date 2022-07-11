@@ -466,46 +466,213 @@
       "url": "Sequence"
     },
     {
-      "name": "龙虾",
-      "type": 1,
-      "url": "http://106.55.234.91:4433/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dalvik/2.1.0"
+            "name": "01",
+            "type": 1,
+            "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "qiyi",
+                    "mgtv",
+                    "youku",
+                    "letv",
+                    "sohu",
+                    "xigua",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "Dart/2.14 (dart:io)"
+                }
+            }
+        },
+        {
+            "name": "网络搜集02",
+            "type": 1,
+            "url": "https://json.pangujiexi.com/json.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集03",
+            "type": 1,
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            "ext": {
+                "flag": [
+                    "Itnb",
+                    "wuduzy"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集04",
+            "type": 1,
+            "url": "http://api.vip123kan.vip/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "qq",
+                    "xigua",
+                    "奇艺"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集05",
+            "type": 1,
+            "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "芒果",
+                    "mgtv",
+                    "xigua",
+                    "wuduzy",
+                    "bilibili",
+                    "pptv",
+                    "leduo",
+                    "Clk4",
+                    "哔哩",
+                    "renrenmi",
+                    "ltnb",
+                    "rx"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集06",
+            "type": 1,
+            "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "芒果",
+                    "mgtv",
+                    "xigua",
+                    "wuduzy",
+                    "bilibili",
+                    "pptv",
+                    "leduo",
+                    "Clk4",
+                    "哔哩",
+                    "renrenmi",
+                    "ltnb",
+                    "rx"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集07",
+            "type": 1,
+            "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+            "ext": {
+                "flag": [
+                    "ltnb"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集08",
+            "type": 1,
+            "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "renrenmi",
+                    "优酷",
+                    "芒果"
+                ]
+            }
+        },
+        {
+            "name": "网络搜集10",
+            "type": 1,
+            "url": "https://json.5lp.net/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "renrenmi",
+                    "Itnb"
+                ]
+            }
         }
-      }
-    },
-    {
-      "name": "Web解析",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    }
-  ],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "letv",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "leduo",
+        "fq3",
+        "fq4",
+        "xueren",
+        "duoduo",
+        "duoduozy",
+        "miaoparty",
+        "miaoparty2",
+        "miaoparty3",
+        "renrenmi",
+        "优酷",
+        "芒果",
+        "腾讯",
+        "爱奇艺",
+        "奇艺",
+        "ltnb",
+        "rx",
+        "CL4K",
+        "xfyun",
+        "wuduzy"
+    ],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},

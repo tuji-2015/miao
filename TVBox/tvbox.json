@@ -231,7 +231,6 @@
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆
-{"key":"csp_appysv2_4K屋","name":"⭐️4K屋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},  
 {"key":"csp_appysv2_米来影视","name":"⭐️未来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
 {"key":"ganggang","name":"⭐杠杠影视️","type":1,"api":"http://mov.fuqizhishi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "csp_AppYs_秒播","name": "⭐️绿色影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},

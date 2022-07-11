@@ -319,7 +319,6 @@
 
 ## 广大侠 资源网采集
 #官方解析
-{"key":"4K屋","name":"4K屋(官)","type":1,"api":"http://app.269w.com/api.php/v1.vod","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},

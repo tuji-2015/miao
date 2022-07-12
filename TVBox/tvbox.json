@@ -409,6 +409,12 @@
 //{"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 #三方聚合
+{"key":"MX影院2","name":"⭐️MX影院2(聚)","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"电视家","name":"⭐️电视家(聚)","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"九狐影视","name":"⭐️九狐影视(聚)","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"幻风影视","name":"幻风影视(聚)","type":1,"api":"http://vip857.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"白嫖影视","name":"⭐️白嫖影视(聚)","type":1,"api":"http://yingshi.qq120.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"猪猪影院","name":"猪猪影院(聚)","type":1,"api":"https://www.2zdyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"美剧星球","name":"美剧星球(聚)","type":1,"api":"https://www.meijuxq.tv/inc/apijson_vod.php","searchable":0,"quickSearch":0},

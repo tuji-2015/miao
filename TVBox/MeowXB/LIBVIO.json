@@ -16,13 +16,18 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "lazyload\"",
-  "jiequshuzuhou": "<span",
+  "jiequshuzuhou": "class=\"pic-tag",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span",
+
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
@@ -49,13 +54,13 @@
   "bfjiequshuzuqian": "class=\"stui-content__playlist",
   "bfjiequshuzuhou": "</ul>",
 
-  "zhuangtaiqian": "class=\"data\">总集数：",
-  "zhuangtaihou": "</p>",
-  "daoyanqian": "class=\"data\">类型：",
+  "zhuangtaiqian": "最后更新：",
+  "zhuangtaihou": "</a>",
+  "daoyanqian": "导演：",
   "daoyanhou": "</p>",
-  "zhuyanqian": "class=\"data\">主演：",
-  "zhuyanhou": "</p>",
-  "juqingqian": "class=\"detail-content\"",
+  "zhuyanqian": "主演：",
+  "zhuyanhou": "/",
+  "juqingqian": "style=\"display: none;\">",
   "juqinghou": "</span>",
 
   "bfyshifouercijiequ": "0",

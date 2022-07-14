@@ -18,7 +18,7 @@
 {"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Bili","name": "🅱️B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"spider_IKan","name": "✨爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "小宝影院","name": "👑小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "小宝影院","name": "👑小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Olevod","name": "💿Olevod","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Nfyun","name": "🍷Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},

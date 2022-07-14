@@ -202,7 +202,7 @@
 {"key":"csp_biubiu_影视之光","name":"🐛影视之光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/影视之光.json"},
 {"key":"csp_biubiu_克拉TV","name":"🐛克拉TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/克拉TV.json"},
 //{"key":"csp_biubiu_不开VIP","name":"🐛不开VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/不开VIP.json"},
-//{"key":"csp_biubiu_小猫咪","name":"🐛小猫咪","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/小猫咪.json"},
+{"key":"csp_biubiu_小猫咪","name":"🐛小猫咪","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/小猫咪.json"},
 //{"key":"csp_biubiu_耐看点播","name":"🐛耐看点播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/耐看点播.json"},
 //{"key":"csp_biubiu_TVB云播","name":"🐛TVB云播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/TVB云播.json"},
 //{"key":"csp_biubiu_98播播网","name":"🐛98播播网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/98播播网.json"},

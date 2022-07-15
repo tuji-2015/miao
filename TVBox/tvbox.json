@@ -74,7 +74,7 @@
 {"key":"csp_xpath_网络搜集库108","name":"🐻小熊","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-xiaoxiong.json"},
 //{"key":"csp_xpath_网络搜集库62","name":"嘀哩","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-dili.json"},
 {"key":"csp_xpath_网络搜集库80","name":"🐇兔子","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-tuzi.json"},
-{"key":"csp_xpath_网络搜集库03","name":"🎥影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-yingba.json"},
+//{"key":"csp_xpath_网络搜集库03","name":"🎥影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-yingba.json"},
 //{"key":"csp_XPathMacFilter_网络搜集源01-js","name":"VOD","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-vod.json"},
 {"key":"csp_xpath_网络搜集库72","name":"🔨钉钉","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/519-dingzidy.json"},
 {"key":"csp_xpath_网络搜集源21","name":"🌸樱花","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXP/605-yhdm.js"},

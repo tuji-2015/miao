@@ -153,7 +153,7 @@
 {"key":"csp_XPath_bidiys","name":"🦋哔嘀影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/bidiys2.json"},
 //{"key":"csp_xpath_kuqimv","name":"🦋酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/kuqimv.json"},
 //{"key":"csp_xpath_yyotv","name":"🦋小太阳","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/yyotv.json"},
-{"key":"csp_xpath_auete","name":"🦋Auete影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/auete.json"},
+//{"key":"csp_xpath_auete","name":"🦋Auete影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/auete.json"},
 {"key":"csp_xpath_6d","name":"🦋六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/6d.json"},
 {"key":"csp_xpath_348z","name":"🦋348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/348z.json"},
 //{"key":"csp_xpath_dandanzan10","name":"🦋蛋蛋赞","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/dandanzan10.json"},

@@ -84,7 +84,8 @@
 {"key":"csp_biubiu_风车动漫","name":"🌀风车","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXB/d05-fcdm.js"},
 //{"key":"csp_biubiu_森屋新番","name":"森屋","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXB/d02-swxf.js"},
 {"key":"csp_biubiu_维奇动漫","name":"🎸维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MaoXB/d03-wqdm.js"},
-  
+{"key":"Tkys_spider","name":"⚡TK影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},  
+
 //{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://yosakoi.tk:5716/d/Alist/tvbox/MaooXB/douyu.json"},
@@ -110,15 +111,15 @@
 {"key":"csp_xpath_lkvod","name":"📺️耐看点播(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/lkvod.json"},
 //{"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/cerrd.json"},
 {"key":"csp_xpath_so2","name":"🦆淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/so2.json"},  
-{"key":"csp_xpath_yyotv","name":"小太阳(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/yyotv.json"},
-{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/jiujiukanpian.josn"},
-{"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
-{"key":"csp_xpath_zzzlike","name":"周末电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zzzlike.json"},
-{"key":"csp_xpath_135kan","name":"135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
-{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xfeiji.json"},
-{"key":"csp_xpath_osx3","name":"达达兔(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/osx3.json"},
-{"key":"csp_xpath_dianyingn","name":"电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dianyingn.json"},
-{"key":"csp_xpath_newfii","name":"奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/newfii.json"},  
+//{"key":"csp_xpath_yyotv","name":"🌞小太阳(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/yyotv.json"},
+//{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/jiujiukanpian.josn"},
+{"key":"csp_xpath_zaixiandianying8","name":"🉑在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
+//{"key":"csp_xpath_zzzlike","name":"周末电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zzzlike.json"},
+{"key":"csp_xpath_135kan","name":"🌐135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
+{"key":"csp_xpath_xfeiji","name":"🎺小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xfeiji.json"},
+//{"key":"csp_xpath_osx3","name":"达达兔(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/osx3.json"},
+{"key":"csp_xpath_dianyingn","name":"🐮电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dianyingn.json"},
+{"key":"csp_xpath_newfii","name":"🍃奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/newfii.json"},  
 
  
 {"key":"csp_xpath_libv","name":"🦋LIBVIO(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/libv.json"},
@@ -181,9 +182,9 @@
 {"key":"csp_xpath_lranc","name":"🦋天天影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/lranc.json"},
 {"key":"csp_xpath_dmntv","name":"🦋弹幕影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXP/dmntv.json"},
 
-{"key":"csp_biubiu_麻衣高清","name":"⚾麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/麻衣高清.json"},
-{"key":"csp_biubiu_4K电影网","name":"⚾4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/4K电影网.json"},
-{"key":"csp_biubiu_悟空影视","name":"⚾悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/悟空影视.json"},
+{"key":"csp_biubiu_麻衣高清","name":"🍁麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/麻衣高清.json"},
+{"key":"csp_biubiu_4K电影网","name":"🍁4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/4K电影网.json"},
+{"key":"csp_biubiu_悟空影视","name":"🍁悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/悟空影视.json"},
   
 //{"key":"csp_biubiu_LIBVIO","name":"🐛LIBVIO(BIU)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/LIBVIO.json"},
 //{"key":"csp_biubiu_影视工厂","name":"🐛影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/tuji-2015/miao@main/TVBox/MeowXB/影视工厂.json"},

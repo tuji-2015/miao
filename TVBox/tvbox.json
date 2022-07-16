@@ -21,7 +21,7 @@
 //{"key": "小宝影院","name": "👑小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Olevod","name": "💿Olevod","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Nfyun","name": "🍷Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/555电影.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/骚火电影.json"},

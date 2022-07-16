@@ -634,7 +634,7 @@ C芒果4kTV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?se
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 💘央视蓝光,#genre#
-综合1,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
+综合1台,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
 综合1台,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv1/1.m3u8?IASHttpSessionId=OTT?zzhongd
 财经2台,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv2/1.m3u8?IASHttpSessionId=OTT?zzhongd
 综艺3台,http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv3/1.m3u8?IASHttpSessionId=OTT?zzhongd

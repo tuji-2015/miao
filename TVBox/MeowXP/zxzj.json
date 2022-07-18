@@ -1,7 +1,7 @@
-{
+﻿{
   "author": "takagen99",
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "homeUrl": "https://www.zxzjtv.com/",
+  "homeUrl": "https://zxzj.vip/",
   "cateManual": {
     "电影": "1",
     "美剧": "2",
@@ -18,7 +18,7 @@
   "homeVodImg": "/a/@data-original",
   "homeVodMark": "/a/span[@class='pic-text text-right']/text()",
   // Category Summary ================================================    
-  "cateUrl": "https://www.zxzjtv.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+  "cateUrl": "https://zxzj.vip/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
   "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/div[@class='stui-vodlist__box']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -26,7 +26,7 @@
   "cateVodImg": "/a/@data-original",
   "cateVodMark": "/a/span[@class='pic-text text-right']/text()",
   // Category Details ================================================    
-  "dtUrl": "https://www.zxzjtv.com/detail/{vid}.html",
+  "dtUrl": "https://zxzj.vip/detail/{vid}.html",
   "dtNode": "//div[@class='stui-pannel__bd']",
   "dtName": "//div[@class='stui-content__thumb']/a/@title",
   "dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
@@ -48,10 +48,10 @@
   "dtUrlId": "/@href",
   "dtUrlIdR": "/video/(\\S+).html",
   "dtUrlName": "/text()",
-  "playUrl": "https://www.zxzjtv.com/video/{playUrl}.html",
+  "playUrl": "https://zxzj.vip/video/{playUrl}.html",
   "playUa": "",
   // Search Results ================================================         
-  "searchUrl": "https://www.zxzjtv.com/search/-------------.html?wd={wd}&submit=",
+  "searchUrl": "https://zxzj.vip/search/-------------.html?wd={wd}&submit=",
   "scVodNode": "//div[@class='stui-vodlist__box']",
   "scVodName": "/a/@title",
   "scVodId": "/a/@href",

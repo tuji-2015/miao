@@ -54,7 +54,7 @@
   "dtUrlIdR": "/video/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://www.zxzjtv.com/video/{playUrl}.html",
+  "playUrl": "https://zxzj.vip/video/{playUrl}.html",
   "playUa": "",
   "searchUrl": "https://zxzj.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",

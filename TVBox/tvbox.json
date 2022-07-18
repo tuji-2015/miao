@@ -126,7 +126,6 @@
 {"key":"csp_xpath_newfii","name":"🍃奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/newfii.json"},  
 
 {"key":"csp_biubiu_LIBVIO","name":"🦋LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"}, 
-{"key":"csp_xpath_libv","name":"🦋LIBVIO(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/libv.json"},
 {"key":"csp_xpath_zxzj2","name":"🦋在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/zxzj2.json"},
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/789kp.json"},
 {"key":"csp_xpath_Gimy","name": "🦋Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/Gimy2.json"},

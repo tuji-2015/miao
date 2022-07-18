@@ -57,7 +57,7 @@
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/lgys.json"}, 
-//{"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/ikan6.json"},
+{"key":"csp_xpath_ikan6","name":"❤️爱看影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/ikan6.json"},
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/特狗影视.json"},
 {"key":"csp_appysv2_9e国语","name":"9️⃣9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_xpath_网络搜集库112","name":"👷工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-gongreng.json"},

@@ -195,6 +195,7 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+CCTV1113M1080,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
 
 🗼港澳,#genre#
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8

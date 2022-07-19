@@ -3,10 +3,10 @@
     "ua": "",
     "homeUrl": "https://www.dandanzan10.top/",
     "cateManual": {
-        "电影": "dianying",
-        "电视剧": "dianshiju",
-        "综艺": "zongyi",
-        "动漫": "dongman"
+        "电影": "dianying"
+        //"电视剧": "dianshiju",
+        //"综艺": "zongyi",
+        //"动漫": "dongman"
     },
     "homeVodNode": "//div[contains(@class,'lists')]/ul/li/a",
     "homeVodName": "/img/@alt",
@@ -86,8 +86,8 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"},       
-            {"n": "伦理","v": "伦理"}
+            {"n": "武侠","v": "武侠"}       
+            
           ]},
         {
           "key": "area",
@@ -180,8 +180,8 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"},
-            {"n": "伦理","v": "伦理"}         
+            {"n": "武侠","v": "武侠"}
+                      
           ]},
         {
           "key": "area",

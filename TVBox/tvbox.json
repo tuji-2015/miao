@@ -79,7 +79,7 @@
 {"key":"csp_xpath_网络搜集库80","name":"🐇莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-tuzi.json"},
 //{"key":"csp_xpath_网络搜集库03","name":"🎥影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-yingba.json"},
 //{"key":"csp_XPathMacFilter_网络搜集源01-js","name":"VOD","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-vod.json"},
-{"key":"csp_xpath_网络搜集库72","name":"🔨钉钉","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-dingzidy.json"},
+{"key":"csp_xpath_网络搜集库72","name":"🔨钉钉电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-dingzidy.json"},
 {"key":"csp_xpath_网络搜集源21","name":"🌸樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/605-yhdm.js"},
 {"key":"csp_xpath_A32","name":"🏝动漫岛","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/604-dmd.js"},
 {"key":"csp_xpath_网络搜集源22","name":"🚌巴士动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/604-dm84.js"},

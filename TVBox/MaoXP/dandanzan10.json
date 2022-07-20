@@ -1,12 +1,12 @@
 {
-    "author": "vx:bktx123",
+    "author": "lsh",
     "ua": "",
     "homeUrl": "https://www.dandanzan10.top/",
     "cateManual": {
-        "电影": "dianying"
-        //"电视剧": "dianshiju",
-        //"综艺": "zongyi",
-        //"动漫": "dongman"
+        "电影": "dianying",
+        "电视剧": "dianshiju",
+        "综艺": "zongyi",
+        "动漫": "dongman"
     },
     "homeVodNode": "//div[contains(@class,'lists')]/ul/li/a",
     "homeVodName": "/img/@alt",
@@ -19,11 +19,11 @@
     "cateVodNode": "//div[contains(@class,'lists-content')]/ul/li/a",
     "cateVodName": "/img/@alt",
     "cateVodId": "/@href",
-    "cateVodIdR": "/(\\S+).html",
+    "cateVodIdR": "/(\\w+).html",
     "cateVodImg": "/img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/div/span/text()",
-    "dtUrl": "https://www.dandanzan10.top/{vid}.html",
+    "dtUrl": "https://www.dandanzan10.top/{cateId}/{vid}.html",
     "dtNode": "//body",
     "dtName": "//h1[contains(@class,'product-title')]/text()",
     "dtNameR": "",
@@ -43,13 +43,13 @@
     "dtDirectorR": "",
     "dtDesc": "//div[contains(text(), '剧情简介')]/span/text()",
     "dtDescR": "",
-    "dtFromNode": "//footer[contains(@class,'footer')]/div/a",
+    "dtFromNode": "//div[@id='slider']/header/dl/dt",
     "dtFromName": "/text()",
-    "dtUrlNode": "//head",
-    "dtUrlSubNode": "//head",
-    "dtUrlId": "//meta[@property='og:url']/@content",
+    "dtUrlNode": "//div[@class='playlist clearfix']",
+    "dtUrlSubNode": "/ul/li",
+    "dtUrlId": "/a/@href",
     "dtUrlIdR": "/(\\S+).html",
-    "dtUrlName": "/text()",
+    "dtUrlName": "/a/text()",
     "dtUrlNameR": "",
     "playUrl": "https://www.dandanzan10.top/{playUrl}.html",
     "playUa": "",
@@ -86,8 +86,8 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"}       
-            
+            {"n": "武侠","v": "武侠"},
+            {"n": "伦理","v": "伦理"}
           ]},
         {
           "key": "area",
@@ -180,8 +180,8 @@
             {"n": "奇幻","v": "奇幻"},
             {"n": "冒险","v": "冒险"},
             {"n": "灾难","v": "灾难"},
-            {"n": "武侠","v": "武侠"}
-                      
+            {"n": "武侠","v": "武侠"},
+            {"n": "伦理","v": "伦理"}
           ]},
         {
           "key": "area",

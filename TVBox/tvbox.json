@@ -200,7 +200,7 @@
 //{"key":"csp_biubiu_LIBVIO","name":"🐛LIBVIO(BIU)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"},
 //{"key":"csp_biubiu_影视工厂","name":"🐛影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/影视工厂.json"},
 //{"key":"csp_biubiu_小宝影院","name":"🐛小宝影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/小宝影院.json"},
-{"key":"csp_biubiu_喜鹊视频","name":"🐛喜鹊视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/biubiu/喜鹊视频.json"}
+{"key":"csp_biubiu_喜鹊视频","name":"🐛喜鹊视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/biubiu/喜鹊视频.json"},
 {"key":"csp_biubiu_锐行加速" ,"name":"🐛锐行加速","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/锐行加速.json"},
 {"key":"csp_biubiu_Lgyy","name":"🐛蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/lgyy.json"},
 //{"key":"csp_biubiu_AB影院","name":"🐛AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/AB影院.json"},

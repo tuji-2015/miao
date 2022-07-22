@@ -590,7 +590,7 @@
 //{"name":"群鑫影视","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=","ext":{"flag":["youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯"]}},
 {"name":"MuX蓝光解析（辉夜）","type":1,"url":"https://vvip.funsline.cn/api/?key=8vMzuXb87MWtyJeECE&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua","rongxing","rx","xfy","xueren"]}},
 {"name":"hfyrw","type":1,"url":"https://www.hfyrw.com/json.php?url="},
-{"name":"快云影音","type":1,"url":"https://jhjx.kuanjv.com/newky/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
+//{"name":"快云影音","type":1,"url":"https://jhjx.kuanjv.com/newky/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua"]}},
 {"name":"2080kk","type":1,"url":"https://v.2080kk.com/home/api?type=ys&uid=1308653&key=behnpstwxBCHJMQ029&url="},
 //{"name":"parwix1","type":1,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"江湖解析2","type":1,"url":"http://jx.vipmv.co/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},

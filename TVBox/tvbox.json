@@ -113,7 +113,7 @@
 //{"key":"csp_appysv2_300看世界","name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 //{"key":"csp_appysv2_钟特影视","name":"🐌钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 {"key":"csp_xml___8090","name":"8️⃣8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-//{"key":"csp_xml___小猫咪","name":"🐈小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
+{"key":"csp_xml___小猫咪","name":"🐈小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},  
 {"key":"csp_xpath_jpys","name":"💯极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/jpys.json"},
 {"key":"csp_xpath_dmw","name":"🏯动漫岛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/dmw.json"},
 {"key":"csp_xpath_ysjdm","name":"🏯异世界动漫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/ysjdm.json"},

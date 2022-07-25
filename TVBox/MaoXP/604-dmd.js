@@ -2,7 +2,7 @@
 {
   "author":"takagen99",
   "ua": "",
-  "homeUrl": "http://www.88dmw.com",
+  "homeUrl": "http://www.dmd85.com",
   "cateManual": {
     "新番连载": "1", 
     "完结日漫": "3",

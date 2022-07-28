@@ -286,7 +286,7 @@
 {"key":"csp_biubiu_七年影视","name":"📗七年影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/七年影视.json"},
 {"key":"csp_biubiu_大象TV","name":"📗大象TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/大象TV.json"},
 {"key":"csp_biubiu_4kan电影网","name":"📗4kan电影网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/4kan电影网.json"},
-//{"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/蓝莓影视.json"},
+{"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/蓝莓影视.json"},
 //{"key":"csp_biubiu_影渣渣","name":"影渣渣","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/影渣渣.json"},
 {"key":"csp_biubiu_牛马TV","name":"📗牛马TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/牛马TV.json"},
 //{"key":"csp_biubiu_飘花播播","name":"飘花播播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/飘花播播.json"},

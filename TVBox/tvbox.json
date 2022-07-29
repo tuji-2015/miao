@@ -79,7 +79,7 @@
 {"key":"csp_xpath_网络搜集源03","name":"🎱在线","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/zxzj2.json"},  
 {"key":"csp_XBiubiubiubiu_city","name":"🏙️城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/city.js"},
 {"key":"csp_XPath_猫群首发","name":"📮哔嘀影视2(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-bidi.json"},  
-{"key":"csp_xpath_网络搜集库29","name":"🐢达达龟(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/519-dadagui.json"},
+{"key":"csp_biubiu_达达龟","name":"🐢达达龟(XP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/dadagui.json"},
 {"key":"csp_XPathMacFilter_网络搜集源02","name":"💯极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/jp"},
 //{"key":"csp_xpath_网络搜集库naikan","name":"耐看","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/516-naikan.js"},
 {"key":"csp_appysv2_爱酷影视","name":"😎爱酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},

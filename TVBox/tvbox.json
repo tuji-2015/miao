@@ -8,7 +8,7 @@
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Ekan_spider","name":"👁️‍🗨️Ekan(SP)","type":3,"api": "csp_Ekan","searchable":1,"quickSearch":1,"filterable":1,"plugin":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/0728.zip"},
+{"key":"Ekan_spider","name":"👁️‍🗨️Ekan(SP)","type":3,"api": "csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":0,"plugin":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/0728.zip"},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},

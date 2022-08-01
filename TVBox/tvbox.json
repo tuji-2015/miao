@@ -23,7 +23,7 @@
 {"key":"csp_Cokemv","name":"🚗Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Buka","name":"📒经常卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_BBB","name":"🅱哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Bili","name": "🅱️B站(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/bili2.json"},
+{"key": "Bili","name": "🅱️B站(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/bili2.json"},
 {"key":"spider_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"小宝影院","name":"⛄️小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},  
 //{"key": "Olevod","name": "💿Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},

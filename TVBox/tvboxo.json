@@ -40,7 +40,7 @@
 //{"key":"csp_Buka","name":"⛄真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name": "🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar"},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"spider_Bttoo","name":"📚2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar"},
 {"key":"csp_LiteApple","name":"🍎小苹果(ljk播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar"},
 {"key":"Tkys_spider","name":"⚡TK影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar"},  
 {"key":"csp_DY1990","name":"📀1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar"},

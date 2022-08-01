@@ -1,5 +1,5 @@
 {
-"spider":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy91.jar",
+"spider":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
 

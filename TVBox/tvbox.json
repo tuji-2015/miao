@@ -27,7 +27,7 @@
 {"key":"spider_IKan","name": "✨爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小宝影院","name":"⛄️小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},  
 {"key": "Olevod","name": "💿Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Nfyun","name": "🍷Nf云(SP)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "Nfyun","name": "🍷Nf云(SP)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🌈看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"3EDY","name":"3️⃣3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},

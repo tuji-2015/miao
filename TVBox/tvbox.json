@@ -42,7 +42,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(ljk播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"Tkys_spider","name":"⚡TK影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_DY1990","name":"📀1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/nfy.jar"},
-{"key":"csp_QQ","name":"🧿腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
+{"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
 {"key":"csp_IQIYI","name":"🥎爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
 {"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
 {"key":"csp_XBiubiu_foxcup","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/upfox.json"},

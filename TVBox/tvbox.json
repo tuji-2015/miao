@@ -55,7 +55,6 @@
 {"key": "csp_xpath_miao","name": "🐹喵喵(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/miaomiao.json"},
 {"key":"csp_biubiu_搜狗影院","name":"🐶搜狗影院(官)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/搜狗影院.txt"},
 {"key":"csp_biubiu_饭团","name":"🍙饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/饭团影院.txt"},
-{"key": "csp_xpath_ftys","name":"🍙饭团影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/tjl/xpath/raw/branch/main/fantuan.json"},
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/555电影.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/骚火电影.json"},
 {"key":"csp_biubiu_大米星球","name":"⭐️大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/大米星球.json"},

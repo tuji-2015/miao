@@ -421,7 +421,7 @@
 
 ## 广大侠 资源网采集
 #官方解析
-{"key":"csp_gc","name":"📺官采资源","type":1,"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"parse:解析聚合","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
+{"key":"csp_gc","name":"📺官采资源","type":1,"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
 {"key":"诺讯资源","name":"📺诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"6U资源","name":"📺6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},

@@ -107,7 +107,7 @@
 {"key":"csp_xpath_网络搜集源22","name":"🚌巴士动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/604-dm84.js"},
 {"key":"csp_xpath_网络搜集源23","name":"🅰AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/604-age.js"},
 {"key":"csp_biubiu_风车动漫","name":"🌀风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/d05-fcdm.js"},
-//{"key":"csp_biubiu_森屋新番","name":"森屋","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/d02-swxf.js"},
+{"key":"csp_biubiu_打驴动漫","name":"🍀打驴动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/打驴动漫2.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🎸维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js"},
 {"key":"旋风","name":"💸旋风[EXO]","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/", "playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   

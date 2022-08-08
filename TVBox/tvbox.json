@@ -154,6 +154,7 @@
 {"key":"csp_xpath_newfii","name":"🍃奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/newfii.json"},  
 
 //{"key":"csp_xpath_1090","name":"90影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/mys202299/mao/main/sub/xpath/1090.json"},
+{"key":"csp_Xpath_bttwoo","name":"2BT〔XPM〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kvymin.github.io/CatVod/Xpath/bttwoo.json"},
 {"key":"csp_桔子TV","name":"📕桔子TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/桔子TV.json"},
 {"key": "csp_xpath_2BT","name": "📕两个BT","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/bttwoo.json"}, 
 {"key":"csp_xpath_wmkk","name":"📕完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/wanmeikk.json"}, 
@@ -613,6 +614,7 @@
 {"name":"线路1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"刚刚视频","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"魏晓芳","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
+{"name":"腾梦","type": 1,"url": "https://app.iminna.com/jx/?url=","ext": {"flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]},
 {"name":"苍蓝","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name":"晓成","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
 {"name":"TS","type": 1,"url": "https://json.tothis.pw/?url="},

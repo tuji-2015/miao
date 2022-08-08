@@ -154,7 +154,7 @@
 {"key":"csp_xpath_newfii","name":"🍃奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/newfii.json"},  
 
 //{"key":"csp_xpath_1090","name":"90影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/mys202299/mao/main/sub/xpath/1090.json"},
-//{"key":"csp_Xpath_bttwoo","name":"2BT〔XPM〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kvymin.github.io/CatVod/Xpath/bttwoo.json"},
+{"key":"csp_Xpath_bttwoo","name":"2BT(XPM)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kvymin.github.io/CatVod/Xpath/bttwoo.json"},
 {"key":"csp_桔子TV","name":"📕桔子TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1, "filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/桔子TV.json"},
 {"key": "csp_xpath_2BT","name": "📕两个BT","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXP/bttwoo.json"}, 
 {"key":"csp_xpath_wmkk","name":"📕完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/wanmeikk.json"}, 

@@ -48,7 +48,6 @@
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
 {"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/jar/yatp.jar"},
-{"key":"csp_XBiubiu_foxcup","name":"🦊茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/upfox.json"},
 {"key":"csp_xb_miao","name":"🐈追喵(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/zjmiao.json"}, 
 {"key":"csp_biubiu_蓝莓影视","name":"🫐蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/蓝莓影视.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"},
@@ -115,6 +114,9 @@
 {"key":"csp_biubiu_维奇动漫","name":"🎸维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js"},
 {"key":"旋风","name":"💸旋风[EXO]","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/", "playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   
+{"key":"csp_biubiu_夜空蓝光","name":"🎆夜空蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://github.com/heroaku/TVboxo/raw/main/MaooXB/%E5%A4%9C%E7%A9%BA%E8%93%9D%E5%85%89.json"},
+{"key":"csp_XBiubiu_foxcup","name":"🦊茶杯狐(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXB/upfox.json"},
+{"key":"csp_chinady","name":"🔍中国电影(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/chinady.json"}, 
 {"key":"csp_xpath_喵乐","name":"🐈喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXP/喵乐.json"},
 {"key":"csp_biubiu_橘子tv","name":"🍊橘子TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/juzi.json"},
 {"key":"csp_biubiu_宝仙HD","name":"🌵宝仙HD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/tuji-2015/miao/main/TVBox/MaoXB/宝仙HD.json"},  

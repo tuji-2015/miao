@@ -1,4 +1,4 @@
-❤️央视频道流畅,#genre#
+❤️央视频道,#genre#
 CCTV-1,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?
 CCTV-2,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?
 CCTV-3,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?

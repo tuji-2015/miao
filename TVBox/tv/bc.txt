@@ -1,3 +1,11 @@
+斗鱼,#genre#
+
+斗鱼4K,http://tc-tct.douyucdn2.cn/dyliveflv3a/9970646rFJHBCWxh.flv?wsAuth=f7b29191ea8ba68b428718294f4d0d32&token=cpn-androidmpro-0-9970646-cc24b81228a15d478d33c82faa131c90ccdaec7acdfd9936&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+斗鱼云旅行,http://tc-tct.douyucdn2.cn/dyliveflv3a/6563725rIKQojlZD.flv?wsAuth=87880adfead5889fe3d1304476cee416&token=cpn-androidmpro-0-6563725-2e822525b55b02f86dd0a75a32f953d80da42ba189aa56a3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+斗鱼云旅行2,http://tc-tct.douyucdn2.cn/dyliveflv3/1668562r0hr7urS0.flv?wsAuth=f209a1e096206cea23d2e0c9b3dbfe34&token=cpn-androidmpro-0-1668562-a91cfa0d112e4de15ae80db9b1101a2562ce48fe91b90089&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼云旅行3,http://tc-tct.douyucdn2.cn/dyliveflv3a/9511092rvDUqM8MX.flv?wsAuth=79a70220f5a04fe861674075c797bf6f&token=cpn-androidmpro-0-9511092-14464ab3f0c2f98a230c9bca0873eadfd7bc6ead691628a3&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+斗鱼云旅行4,http://tc-tct.douyucdn2.cn/dyliveflv3/9358196r8RyJTSJj.flv?wsAuth=35c9736d199842e17e9a628a7ee0b23c&token=cpn-androidmpro-0-9358196-d5bfbbd9a49d733ea244d6b02056351f3c10a113b1ebbb5b&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
 💘央视蓝光,#genre#
 中央1台,http://111.40.196.33/PLTV/88888888/224/3221225769/index.m3u8?$移动高清720P
 中央1台,http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8?$移动高清720P

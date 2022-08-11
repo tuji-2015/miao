@@ -382,12 +382,32 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 
 👶少儿频道,#genre#
-动漫秀场[1920*1080],http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-南京少儿[1280*720],http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-浙江少儿[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-福州少儿[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
+小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
+14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
+14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+北京卡酷少儿,http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8?zbeid
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
+江西少儿家庭,http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?zjiangxd
+江西少儿家庭,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
+甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
+黑龙江少儿,http://39.134.65.151/PLTV/88888888/224/3221226002/1.m3u8?zheild
+黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
+河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
+韩国EBS少儿童,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 
-🗼港澳,#genre#
+🗼港澳频道,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
@@ -421,7 +441,7 @@ CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/enco
 澳门综艺,http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8 
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
 
-🎡台湾,#genre#
+📡台湾频道,#genre#
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
@@ -429,27 +449,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
-中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 
-星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2 
 纬来戏剧,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8 
-东森新闻,http://iptv.tvfix.org/hls/dsxw.m3u8
-東森財經新聞,rtmp://59.124.75.157/sat/tv571
-東森超視,rtmp://59.124.75.157/sat/tv521
-东森电影,http://120.84.96.115:808/hls/32/index.m3u8
-东森洋片,http://120.84.96.115:808/hls/33/index.m3u8
-龙翔时代,http://120.84.96.115:808/hls/35/index.m3u8
-三立都会台,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
-緯來育樂,rtmp://59.124.75.157/sat/tv701
-緯來體育,rtmp://59.124.75.157/sat/tv721
-ELEVEN1,rtmp://59.124.75.157/sat/tv731
-ELEVEN2,rtmp://59.124.75.157/sat/tv741
-緯來日本,rtmp://59.124.75.157/sat/tv771
-MOMO綜合,rtmp://59.124.75.157/sat/tv761
-ELTA體育2,rtmp://59.124.75.157/sat/md011
-ELEVEN2,rtmp://59.124.75.157/sat/md021
-博斯網球,rtmp://59.124.75.157/sat/md031
-ELTA體育3,rtmp://59.124.75.157/sat/md041
-ELTA體育1,rtmp://59.124.75.157/sat/md051
 民視,rtmp://59.124.75.138/sat/tv051
 台視,rtmp://59.124.75.138/sat/tv071
 中視,rtmp://59.124.75.138/sat/tv091
@@ -473,9 +473,6 @@ ELTA體育1,rtmp://59.124.75.138/sat/md051
 大愛二臺,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 健康煮流,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
-GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
-GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 
 💝4K台,#genre#
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
@@ -690,8 +687,7 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 【科幻Fans】精彩科幻影视，解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 
-📺江西移动,#genre#
-纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+📒江西移动,#genre#
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8

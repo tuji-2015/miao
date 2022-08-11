@@ -67,10 +67,87 @@ CCTV-17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 精品體育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-新視覺HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
+Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport2 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
+Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+MG1,http://39.135.46.102:6610/PLTV/77777777/224/3221225935/index.m3u8?hls
+MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
+0MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225851/index.m3u8?hls
+1MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225849/index.m3u8?hls
+2MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225848/index.m3u8?hls
+3MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225846/index.m3u8?hls
+4MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225845/index.m3u8?hls
+5MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225843/index.m3u8?hls
+6MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225842/index.m3u8?hls
+7MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225840/index.m3u8?hls
+8MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225839/index.m3u8?hls
+9MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225837/index.m3u8?hls
+10MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225834/index.m3u8?hls
+11MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225820/index.m3u8?hls
+12MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225817/index.m3u8?hls
+14MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225811/index.m3u8?hls
+15MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225808/index.m3u8?hls
+16MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225805/index.m3u8?hls
+17MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225802/index.m3u8?hls
+18MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225799/index.m3u8?hls
+19MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225796/index.m3u8?hls
+20MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225793/index.m3u8?hls
+21MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225792/index.m3u8?hls
+22MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225789/index.m3u8?hls
+23MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225786/index.m3u8?hls
+24MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225783/index.m3u8?hls
+25MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225780/index.m3u8?hls
+26MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225777/index.m3u8?hls
+27MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225774/index.m3u8?hls
+28MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225771/index.m3u8?hls
+29MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225769/index.m3u8?hls
+31MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225920/index.m3u8?hls
+32MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225917/index.m3u8?hls
+33MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225914/index.m3u8?hls
+34MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225911/index.m3u8?hls
+35MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225908/index.m3u8?hls
+36MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225905/index.m3u8?hls
+37MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225902/index.m3u8?hls
+38MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225899/index.m3u8?hls
+39MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225896/index.m3u8?hls
+40MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225893/index.m3u8?hls
+41MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225871/index.m3u8?hls
+42MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225868/index.m3u8?hls
+43MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225865/index.m3u8?hls
+44MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225862/index.m3u8?hls
+45MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225861/index.m3u8?hls
+46MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225860/index.m3u8?hls
+47MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225859/index.m3u8?hls
+48MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225858/index.m3u8?hls
+49MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225857/index.m3u8?hls
+50MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225856/index.m3u8?hls
+51MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225855/index.m3u8?hls
+52MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225854/index.m3u8?hls
+53MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225853/index.m3u8?hls
+54MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls
 
 📺卫视蓝光,#genre#
 东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8

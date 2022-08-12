@@ -4431,3 +4431,196 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 阿拉伯半岛电视新闻网AlHurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+P2P频道,#genre#
+VIU SIX,p2p://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c	
+J5無線財經新聞,p2p://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e	
+明珠台,p2p://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
+互動新聞,p2p://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+翡翠台,p2p://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
+翡翠台,p2p://fccs.word-tv.com:9906/62d69c28000d0fc119896ef02f8afd00
+J2,p2p://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
+RHK31,p2p://fccs.word-tv.com:9906/62b98dad0001c89807518b63233fc2e4
+RHK32,p2p://fccs.word-tv.com:9906/62b98df6000aa94b0752aad18d7e36ce
+香港有線新聞,p2p://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
+有線18台,p2p://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784	
+有線財經資訊,p2p://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6	
+有線603高清,p2p://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d	
+香港有線電影,p2p://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75	
+有線綜合娛樂,p2p://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b	
+有線衛視電影台,p2p://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
+TVB星河高清頻道,p2p://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
+澳門蓮花,p2p://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
+鳳凰中文,p2p://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
+鳳凰資訊,p2p://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
+鳳凰香港,p2p://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
+
+
+民視 HD,p2p://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
+民視 HD,p2p://fccs.word-tv.com:9906/62df5a780000887707dbedd0ce643763
+人間衛視  ,p2p://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
+台視HD,p2p://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87	
+大愛,p2p://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1	
+中視HD,p2p://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a	
+霹靂台灣台  ,p2p://fccs.word-tv.com:9906/625835a900047b550f3bba39e271ea6f
+華視HD,p2p://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb	
+公視,p2p://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
+公視台語台,p2p://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
+好消息,p2p://fccs.word-tv.com:9906/62584be3000a4ec30f928e473488ad44
+原民台,p2p://fccs.word-tv.com:9906/6257e9ca0002ec200e135abbe97ac8ab	
+客家電視台 ,p2p://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2	
+國家地理國際頻道,p2p://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
+探索頻道,p2p://fccs.word-tv.com:9906/62541db9000483b809827e6fdf85c22c
+TLC旅遊 ,p2p://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
+動物星球,p2p://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
+Boomerang,p2p://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
+CN卡通,p2p://fccs.word-tv.com:9906/62584e2d00015cde0f9b7d0de69c85e4
+MOMO親子台 ,p2p://fccs.word-tv.com:9906/62584e6b000b41810f9c71c51bf958ec
+東森幼幼台,p2p://fccs.word-tv.com:9906/62584f92000033490fa0ef49c819efa3
+緯來綜合 ,p2p://fccs.word-tv.com:9906/62584fd10006d72b0fa1e71495ef5024
+八大第一 ,p2p://fccs.word-tv.com:9906/6258517d000953940fa86f978caa56ae
+八大綜合 ,p2p://fccs.word-tv.com:9906/625851bd000e8a2d0fa96aec6397d1ea
+三立台湾,p2p://fccs.word-tv.com:9906/625851fa000d44170faa58e136d727dc
+三立都會,p2p://fccs.word-tv.com:9906/62585240000566d20fab684d64808ca0
+衛視中文台 ,p2p://fccs.word-tv.com:9906/625853fa000f1f080fb2295a047a36dc
+東森綜合 ,p2p://fccs.word-tv.com:9906/6258543f000be6350fb3360fed87de8b
+東森超視,p2p://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
+Eleven Sports 1,p2p://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d
+Eleven Sports 2 ,p2p://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13
+中天綜合,p2p://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
+東風衛視,p2p://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
+年代MUCH,p2p://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
+中天娛樂,p2p://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
+東森戲劇,p2p://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
+八大戲劇,p2p://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
+TVBS歡樂台,p2p://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
+緯來戲劇,p2p://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
+高點綜合,p2p://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
+JET 綜合台,p2p://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
+ETtoday綜合台,p2p://fccs.word-tv.com:9906/6258604e000c87130fe250d0bb957895
+
+寰宇新聞,p2p://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
+寰宇新聞台灣台,p2p://fccs.word-tv.com:9906/6258370a000e53840f411fa6b1f19ad7
+寰宇新聞台灣台,p2p://fccs.word-tv.com:9906/62dbd3b70005e62613d75e66a1fcb160
+壹新聞,p2p://fccs.word-tv.com:9906/62541b7c0007f8c30979c109c2ede6a3
+年代新聞,p2p://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
+東森新聞,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+中天新聞,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+民視新聞,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+三立新聞,p2p://fccs.word-tv.com:9906/62dbcd58000a9a1c13be7c8205b126bd
+TVBS新聞,p2p://fccs.word-tv.com:9906/62bc5630000d8b431230ce1e9b2441a1
+TVBS HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
+東森財經,p2p://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
+非凡新聞台,p2p://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
+非凡商業,p2p://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
+三立財經,p2p://fccs.word-tv.com:9906/62614b9c0008ec3518c675877b79b6ea
+台視新聞HD,p2p://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3	
+台視財經,p2p://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba	
+中視新聞HD,p2p://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
+華視體育文化教育,p2p://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736	
+華視資訊,p2p://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a	
+新加坡新聞,p2p://fccs.word-tv.com:9906/6261934a0007e00f19de74f21e2709b
+
+
+
+衛視電影台,p2p://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582	
+龍祥電影台,p2p://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1	
+東森電影,p2p://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+緯來電影,p2p://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
+HBO HD,p2p://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+東森洋片,p2p://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
+AXN,p2p://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
+好萊塢電影,p2p://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af	
+STAR MOVIES,p2p://fccs.word-tv.com:9906/6258d58f000430fa11ac54962a5c2d42
+CINEMAX,p2p://fccs.word-tv.com:9906/6258d81f000a40aa11b658a3fe101246
+緯來育樂,p2p://fccs.word-tv.com:9906/6256bd41000a7a7c097d6582fe044cc4	
+緯來體育,p2p://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565
+緯來體育,p2p://fccs.word-tv.com:9906/62dbbd45000a0aa0137fb226e5d4fbce
+MOMO綜合台,p2p://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
+緯來日本,p2p://fccs.word-tv.com:9906/62637c010003ce15074fddf26f0135da
+國興衛視,p2p://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
+中天亞洲,p2p://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e	
+STAR Word,p2p://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
+HBO HITS,p2p://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
+HBO家庭,p2p://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
+HBO原创,p2p://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+狼谷娛樂,p2p://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
+MTV,p2p://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
+八大娛樂,p2p://fccs.word-tv.com:9906/6258e45a000845a611e61e9a50bc5e3e
+Z頻道,p2p://fccs.word-tv.com:9906/6258e492000691dc11e6f8eac01761d4
+生命電視臺,p2p://fccs.word-tv.com:9906/6258e612000a9c7511ecd5f381cd413f
+時尚瘋高清頻道,p2p://fccs.word-tv.com:9906/6258e626000f104a11ed2537d42ef8a8
+華藏衛星電視臺,p2p://fccs.word-tv.com:9906/6258e84a000a4dcb11f5809f32a54f53
+全大,p2p://fccs.word-tv.com:9906/62614c730008668f18c9bd3d40261639
+信大,p2p://fccs.word-tv.com:9906/62614ca00005778f18ca6c44cdea2031
+信吉,p2p://fccs.word-tv.com:9906/6258e362000ea49c11e2577b5ee3ce53
+
+國家地理高畫質野生頻道,p2p://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
+Discovery Asia,p2p://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
+探索動力,p2p://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
+探索科學高清頻道,p2p://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
+EVE健康,p2p://fccs.word-tv.com:9906/6258ec270004be301204967a3d33f14a
+EYE TV旅遊台,p2p://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222	
+亞洲旅遊台,p2p://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18	
+愛爾達綜合,p2p://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482	
+愛爾達影劇台,p2p://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7	
+采昌影劇台,p2p://fccs.word-tv.com:9906/62d7d647000e88970441631c444875bf	
+愛爾達體育1台,p2p://fccs.word-tv.com:9906/62596cd0000349b813fb2a4367d31141	
+愛爾達體育2台,p2p://fccs.word-tv.com:9906/62596cee000e512213fba2460c39ef10	
+愛爾達體育3台,p2p://fccs.word-tv.com:9906/62596d0a0009c5b313fc0e7cd12205f2	
+博斯高球一台,p2p://fccs.word-tv.com:9906/62596d9e000e5b6c13fe51c8c1ca116c	
+博斯高球二台,p2p://fccs.word-tv.com:9906/6259b7ea000cad1415208a3ab972be5a	
+博斯運動一台,p2p://fccs.word-tv.com:9906/6260e5500006db331736dc200a9d70bc
+博斯運動二台,p2p://fccs.word-tv.com:9906/6261364f000a426f187341173b92f79b	
+博斯魅力網,p2p://fccs.word-tv.com:9906/6260e5df0005c49317390a70b64c7b9b
+博斯網球台,p2p://fccs.word-tv.com:9906/6259b8080009f08a1520feb706074e92
+星衛娛樂台,p2p://fccs.word-tv.com:9906/6259b4eb0005f6251514d46a93c04eb3	
+TVBS精采台,p2p://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f	
+DreamWorks,p2p://fccs.word-tv.com:9906/6259b527000085d61515bd669d7ec89a	
+medici-arts,p2p://fccs.word-tv.com:9906/6260e56600092796173732a63095dc7a
+mezzo live,p2p://fccs.word-tv.com:9906/6259b5420005dbab1516283bb17231c9	
+古典音樂台CLASSICA HD,p2p://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
+LUXE TV Channel,p2p://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185	
+三立戲劇,p2p://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044	
+三立綜合,p2p://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0	
+亞洲旅遊台,p2p://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
+Travel Channel,p2p://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0	
+龍華經典,p2p://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563	
+龍華戲劇,p2p://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華偶像,p2p://fccs.word-tv.com:9906/6260e4e9000627b41735499a8a2abd33
+龍華影劇,p2p://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
+靖天戲劇台,p2p://fccs.word-tv.com:9906/62d7dd4200024e12045ca473ea3b8d8e
+靖天映畫,p2p://fccs.word-tv.com:9906/62d7d7de000c430e0447985fcb4c96e2
+靖天資訊,p2p://fccs.word-tv.com:9906/62680bf30004db8219222787aaffbf79	
+靖天卡通台,p2p://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20	
+晴天日本,p2p://fccs.word-tv.com:9906/6260e53d0006302e173691bcb1337e0a
+KLT-靖天國際台,p2p://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee	
+幸福空間居家台,p2p://fccs.word-tv.com:9906/6260e5930002f4ee1737e0d8c16e8abc
+LOVE NATURE,p2p://fccs.word-tv.com:9906/6260e5a4000e4c4817382627a71c329e
+靖天綜合,p2p://fccs.word-tv.com:9906/62d7e0810008edd30469543d517e58cf
+tvN,p2p://fccs.word-tv.com:9906/6260e5b8000664c11738724174984fec
+靖洋卡通台Nice Bingo,p2p://fccs.word-tv.com:9906/6260e5f00006cfff17394d1df9bdf95d
+靖洋戲劇台,p2p://fccs.word-tv.com:9906/6260e602000b292d1739948a4e6140fe
+Warner TV　,p2p://fccs.word-tv.com:9906/6260fa2e000ad4fb17886054ef6e4e06
+天映經典電影,p2p://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
+韓國娛樂台KMTV,p2p://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
+歷史頻道,p2p://fccs.word-tv.com:9906/6261294500077fb31840515220a0a636
+HISTORY 2,p2p://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
+BBC Earth,p2p://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684	
+BBC Lifestyle,p2p://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e	
+美食星球頻道,p2p://fccs.word-tv.com:9906/626139fa00036cff1881934f1fc1ae06	
+罪案偵緝頻道,p2p://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf	
+星衛HD電影台,p2p://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5	
+美亞電影台,p2p://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c	
+寰宇財經台,p2p://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5	
+寰宇綜合,p2p://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6	
+影迷數位紀實台,p2p://fccs.word-tv.com:9906/62674e25000e7546163cbd4c2de58212	
+影迷數位電影台,p2p://fccs.word-tv.com:9906/626a074600072a2c06db6c8c9af16e70
+壹電影台,p2p://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943	
+amc最愛電影,p2p://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b	
+CinemaWorld,p2p://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458	
+民視第一台,p2p://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3	
+民視台灣台,p2p://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438	
+台視綜合,p2p://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b	
+中視經典,p2p://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741	
+中視菁采,p2p://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca	
+公視3,p2p://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d	

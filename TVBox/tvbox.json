@@ -515,6 +515,7 @@
 //{"key":"看看资源","name":"看看资源(优)","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 //{"key":"一帆资源(VPN)","name":"一帆资源(VPN)(优)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","searchable":0,"quickSearch":0},
+{"key":"映迷","name":"🧱映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"🧱789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"旋风云","name":"🧱旋风云(优)","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"https://app.netflixmi.com/ruifenglb_api.php/provide/vod/","searchable":1,"quickSearch":1},

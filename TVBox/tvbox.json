@@ -634,7 +634,7 @@
 {"name":"腾梦","type": 1,"url": "https://app.iminna.com/jx/?url=","ext": {"flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "奇艺"]}},
 //{"name":"苍蓝","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name":"晓成","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
-//{"name":"TS","type": 1,"url": "https://json.tothis.pw/?url="},
+{"name":"OKJX","type": 1,"url": "https://okjx.cc/?url="},
 //{"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
 {"name":"低清","type": 1,"url": "https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url="},
 {"name":"爱酷解析","type":1,"url":"https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},

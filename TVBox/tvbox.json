@@ -624,7 +624,7 @@
 {"name":"手动1","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"手动2","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"手动3","type":0,"url":"http://1.117.152.239:39000/?url="},
-{"name":"手工4","type":0,"url":"https://okjx.cc/?url="},
+{"name":"手工4","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"手工5","type":0,"url":"https://1717.ntryjd.net/yunapi/?url="},
 {"name":"手工6","type":0,"url":"https://api.jiexi.la/?url="},
 {"name":"手工7","type":0,"url":"https://www.administratorw.com/video.php?url="},

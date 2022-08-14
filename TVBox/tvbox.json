@@ -621,7 +621,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 # type1 聚合.并发.轮询
-{"name":"蓝影解析","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
+{"name":"全网VIP","type":1,"url":"https://www.administratorw.com/video.php?url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 {"name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"7Z","type":0,"url":"https://www.mgtv.com.7zl.me/player/?url="},
 {"name":"盘古1","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},

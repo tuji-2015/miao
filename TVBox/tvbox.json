@@ -597,7 +597,7 @@
 {"key":"艾旦影视","name":"🎬艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"VV影视","name":"VV影视(聚)","type":1,"api":"https://vvdy.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"迅播影院","name":"迅播影院(聚)","type":1,"api":"https://www.qgvod.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-//{"key":"剧大神","name":"剧大神(聚)","type":1,"api":"http://judashen.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"剧大神","name":"🎬剧大神(聚)","type":1,"api":"http://judashen.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"8K影视","name":"8K影视(聚)","type":1,"api":"http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"嗨哆咪影视","name":"🎬嗨哆咪影视(聚)","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"橘猫影视","name":"🎬橘猫影视(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},

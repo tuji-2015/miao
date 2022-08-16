@@ -227,10 +227,9 @@
 {"key":"csp_xpath_HOHO","name":"📕HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXP/Hoho.json"}, 
 {"key":"csp_xpath_tootw","name":"📕托乌影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/tootw.json"}, 
 {"key":"csp_xpath_电影牛","name":"📕电影牛","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/电影牛.json"},  
-{"key":"csp_xpath_555dy","name":" 🌾555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/555dy.json"},
-{"key":"csp_xpath_555dy1","name":" 🌾555电影Ⅱ","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXP/555dy(1).json"},
 
-  
+{"key":"csp_xpath_555dy","name":"🍁555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXP/555dy.json"},
+{"key":"csp_xpath_555dy1","name":"🍁555电影Ⅱ","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXP/555dy(1).json"},
 {"key":"csp_biubiu_麻衣高清","name":"🍁麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXB/麻衣高清.json"},
 {"key":"csp_biubiu_4K电影网","name":"🍁4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXB/4K电影网.json"},
 {"key":"csp_biubiu_悟空影视","name":"🍁悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontentS.com/tuji-2015/miao/main/TVBox/MaoXB/悟空影视.json"},

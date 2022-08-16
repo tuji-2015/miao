@@ -71,8 +71,8 @@
     "searchUrl": "https://www.bttwoo.com/xssearch?q={wd}",
     "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
     "scVodName": "/h3/a/text()",
-    "scVodId": "/@href",
-    "scVodIdR": "https://www.bttwoo.com/(\\S+).html",
+    "scVodId": "/a/@href",
+    "scVodIdR": "https://www.bttwoo.com/movie/(\\S+).html",
     "scVodImg": "//img/@data-original",
     "scVodMark": ""
 }

@@ -287,7 +287,7 @@
 {"key":"csp_biubiu_黑洞影视","name":"📗黑洞影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/黑洞影视.json"},
 {"key": "csp_biubiu_神马dyy","name":"📗神马dyy","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/神马接口.json"},
 //{"key": "csp_biubiu_神马kan","name":"神马kan","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/神马kan.json"},
-{"key": "csp_biubiu_神马tv8","name":"神马tv8","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/神马tv8.json"},
+{"key": "csp_biubiu_神马tv8","name":"神马TV","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/神马tv8.json"},
 //{"key":"csp_biubiu_融兴影视","name":"融兴影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/融兴影视.json"},
 {"key":"csp_biubiu_花猫TV","name":"📗花猫TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/花猫TV.json"},
 {"key":"csp_biubiu_VIP1280","name":"📗VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/VIP1280.json"},

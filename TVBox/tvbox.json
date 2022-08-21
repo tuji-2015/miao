@@ -118,7 +118,7 @@
 {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/yinfans.json"},
 {"key":"csp_xpath_Grab4K","name":"🎤Grab4K(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/Grab4K.json"},  
 {"key":"csp_xpath_片吧影院","name":"🎤片吧影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/片吧影院.json"},
-{"key":"csp_xpath_hyingku","name":"🎤嗨影库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/hyingku.json"}, 
+{"key":"csp_xpath_hyingku","name":"9️⃣久久看片(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/hyingku.json"}, 
 {"key":"csp_biubiu_阿里影视","name":"🅰阿里影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/阿里影视.json"},
 
 {"key":"csp_biubiu_夜空蓝光","name":"🎆夜空蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/夜空蓝光.json"},

@@ -1,7 +1,7 @@
 {
   "author":"Tangsan99999",
   "ua": "",
-  "homeUrl": "https://www.hyingku.com/",
+  "homeUrl": "https://www.jiujiukanpian.com/",
   "cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",
   "cateName": "/text()",
   "cateNameR": "热门(.+)",

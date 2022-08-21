@@ -56,7 +56,7 @@
 {"key":"csp_xb_miao","name":"🐈追喵(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/zjmiao.json"}, 
 {"key":"csp_biubiu_蓝莓影视","name":"🫐蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/蓝莓影视.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"},
-{"key":"csp_biubiu_完美看看影视","name":"💧完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/完美看看影视.json"},
+{"key":"csp_biubiu_完美看看影视","name":"💧完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/完美看看影视.json"},
 {"key":"csp_biubiu_去看吧","name":"🥪去看吧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/去看吧.json"},
 {"key":"csp_VOFLIX","name":"🐷VOFLIX","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/voflix.json"},
 {"key":"csp_biubiu_真不卡kan8","name":"📇真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json"},
@@ -243,7 +243,7 @@
 {"key":"csp_XBiubiu_600dvd","name":"🍁600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/600dvd.json"},  
 {"key":"csp_XBiubiu_1080KKK","name":"🍁1080KKK(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/1080Kkk.json"},
 {"key":"csp_xbb_jiumeng","name":"🍁旧梦影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/旧梦影视.json"}, 
-//{"key":"csp_xbb_milai","name":"🍁米来影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/qdytv.json"},
+{"key":"csp_xbb_milai","name":"🍁米来影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/qdytv.json"},
 
 //{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(BIU)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"},
 //{"key":"csp_biubiu_影视工厂","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/影视工厂.json"},

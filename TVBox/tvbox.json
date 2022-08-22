@@ -223,7 +223,7 @@
 //{"key":"csp_xpath_独播库","name":"独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/duboku.json"},
 {"key":"csp_xpath_ttsp","name":"📕天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/ttsp.json"},
 //{"key":"csp_xpath_Ole","name":"欧乐(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/olevod.json"},
-//{"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/chongtmtv.json"},
+{"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/chongtmtv.json"},
 //{"key":"csp_xpath_汉城影院","name":"汉城影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/hancheng.json"},
 //{"key":"csp_xpath_4kpianku","name":"4k片库网","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/4kpianku.json"},
 {"key":"csp_xpath_Jumi","name":"📕剧迷TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/Jumi.json"},

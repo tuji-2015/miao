@@ -1,7 +1,7 @@
 {
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.ikan6.vip/vodshow/1-----------/",
-  "cateManual": {"電影": "1","連續劇": "2","綜藝": "3","動漫": "4"},
+  "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4","日韩剧": "15","美剧": "16","港台剧": "14"},
   "homeVodNode": "//div[@class='module-items']/div[@class='module-item']",
   "homeVodName": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@title",
   "homeVodId": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@href",

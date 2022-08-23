@@ -29,7 +29,7 @@
 {"key":"Olevod","name":"💿Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nfyun","name":"🍷NF云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1},
-{"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/tkys.jar"},
 {"key":"KanSJ_spider","name":"🌈看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"3EDY","name":"3️⃣3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍋293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},

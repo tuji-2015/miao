@@ -147,7 +147,7 @@
 {"key":"考拉直链","name":"🐨考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 //{"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"if101资源","name":"✈️if101(海外)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":0,"filterable":0}, 
-{"key":"renrenmizy","name":"人人迷资源","type":1,"api":"https://zy.renrenmi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"人人迷","name":"人人迷","type":1,"api":"https://zy.renrenmi.cc/api.php/provide/vod/?ac=list","playUrl":"https://zy.renrenmi.cc/?url=","categories":["动作片","喜剧片","爱情片","科幻片","剧情片","战争片","恐怖片","国产剧","港台剧","日韩剧","欧美剧","其他剧","综艺","动漫"]},
 {"key":"csp_appysv2_M2_暖光影视","name":"💽暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_biubiu_晗剧","name":"🌡️晗剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/a14-hanju.js"},
 {"key":"csp_XBiu_4kan电影网","name":"🍀4K网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/b11-4Kkan.js"},

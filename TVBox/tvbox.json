@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/0822.jar",
+"spider":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/gc.jar",
   
 "wallpaper":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/bg/purple.jpg",
 
@@ -17,7 +17,7 @@
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"💧完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"FindZY","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/gc.jar"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"YiSou","name":"1️⃣易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent2","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},

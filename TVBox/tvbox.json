@@ -494,6 +494,7 @@
 {"key":"非凡采集","name":"📺非凡采集(官)","type":1,"api":"http://cms.feifan12.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 #切片资源
+{"key":"天堂资源","name":"🆘天堂资源","type":0,"api":"https://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"极速BT资源","name":"🆘极速BT资源(切)","type":1,"api":"https://api.jisubt.com/videos","searchable":1,"quickSearch":1},
 {"key":"步步高资源","name":"🆘步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"🆘金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},

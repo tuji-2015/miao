@@ -1,0 +1,18 @@
+{
+	"libv": "http://39.96.174.234:2025/iphones/libvio.php?url=",
+	"zxzj": "http://39.96.174.234:2025/iphones/zxzj.php?url=",
+	"4kjx": "http://39.96.174.234:2025/iphones/100.php?url=",
+	"jsjx": "http://39.96.174.234:2025/iphones/100.php?url=",
+	"rrjx": "http://39.96.174.234:2025/iphones/400.php?url=",
+	"rxjx": "http://39.96.174.234:2025/iphones/rongxing.php?url=",
+	"zbjx": "http://39.96.174.234:2025/iphones/huya.php?id=",
+	"gqjx": "http://39.96.174.234:2025/iphones/100.php?url=",
+	"xxjx": "http://39.96.174.234:2025/iphones/xinxin.php?url=",
+	"appid": "10000",
+	"version": "1.2.8",
+	"host": "39.96.174.234:2025",
+	"headers": {
+		"host": "39.96.174.234:2025",
+		"User-Agent": "laji"	
+}
+}

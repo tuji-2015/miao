@@ -270,6 +270,7 @@
 //{"key":"csp_biubiu_电影盒子","name":"电影盒子(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/电影盒子.json"},
 //{"key":"csp_biubiu_naifeiyins","name":"NF云视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/ynf.json"},
 //{"key":"csp_XBiubiu_600dvd","name":"600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/MaooXB/600dvd.json"},
+{"key":"csp_biubiu_段友影院xb","name":"📗段友影院","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/段友影院.json"},
 {"key":"csp_xb_kanpian","name":"📗看片网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/看片网.json"},
 {"key":"csp_biubiu_歪片星球","name":"📗歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/歪片星球.json"},
 {"key":"csp_biubiu_OmoFun动漫","name":"📗OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chiguren.github.io/MeowXB/OmoFun动漫.json"},

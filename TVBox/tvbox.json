@@ -229,7 +229,7 @@
 {"key":"csp_xpath_dy888","name":"📕电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/dy888.json"},
 //{"key":"csp_xpath_aidi","name":"爱迪影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/aidi.json"},
 {"key":"csp_xpath_lezhutv","name":"📕乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/lezhutv.json"},
-//{"key":"csp_xpath_juhuang","name":"剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/juhuang.json"},
+{"key":"csp_xpath_juhuang","name":"📕剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/juhuang.json"},
 {"key":"csp_xpath_doujiaow","name":"📕豆角网","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/doujiaow.json"},
 {"key":"csp_xpath_duboku","name":"📕独播库","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/duboku2.json"},
 {"key":"csp_xpath_pianba","name":"📕片吧影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/pianba.json"},

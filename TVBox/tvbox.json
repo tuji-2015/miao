@@ -190,7 +190,7 @@
 //{"key": "csp_Alist7","name": "🚩Alist Jlbx","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.jlbx.xyz/"},
 //{"key": "csp_Alist8","name": "🚩Alist Feifwp","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://www.feifwp.top/"},
 //{"key": "csp_Alist9","name": "🚩Alist 52qy","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co/"},
-//{"key": "csp_Alist10","name":"🚩Alist 10","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
+{"key": "csp_Alist10","name":"🚩Alist 10","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
 
 #Xpath系列
 //{"key":"csp_xpath_1090","name":"90影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/mys202299/mao/main/sub/xpath/1090.json"},

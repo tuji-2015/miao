@@ -93,9 +93,9 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
 
 #优质站点2
-{"key":"csp_XYQBiu_wnys","name":"🧬万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/万能影视.json"},
-{"key":"csp_XYQBiu_e9","name":"🍃e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/e9视频.json"},
-{"key":"csp_XYQBiu_lyys","name":"🛸凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/凌云影视.json"},
+{"key":"csp_XYQBiu_wnys","name":"🧬万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},
+{"key":"csp_XYQBiu_e9","name":"🍃e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/e9视频.json"},
+{"key":"csp_XYQBiu_lyys","name":"🛸凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/凌云影视.json"},
 {"key":"csp_xpath_biditdcl","name":"🧲哔嘀(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 {"key":"csp_xpath_mp4dycl","name":"🧲MP4电影(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key":"csp_xpath_cls","name":"🧲磁力搜索(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/cls.json"},   

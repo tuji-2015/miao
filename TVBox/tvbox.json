@@ -179,7 +179,6 @@
 {"key":"csp_xpath_xfeiji","name":"🎺小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/xfeiji.json"},
 //{"key":"csp_xpath_osx3","name":"达达兔(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/osx3.json"},
 {"key":"csp_xpath_dianyingn","name":"🐮电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/dianyingn.json"},
-//{"key":"旋风","name":"💸旋风[EXO]","type":1,"api":"http://appimg.ssxmall.cn/api.php/provide/vod/","playUrl":"json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","searchable":1, "quickSearch":1, "filterable":1},
 
 #Alist系列
 //{"key": "csp_Alist1","name": "🚩Alist Hikerfans","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
@@ -268,7 +267,6 @@
 {"key":"csp_xpath_tootw","name":"📕托乌影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/tootw.json"}, 
 {"key":"csp_xpath_电影牛","name":"📕电影牛","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/MaooXP/电影牛.json"},
 {"key":"csp_xpath_555dy","name":"📕555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/555dy.json"},
-{"key":"csp_xpath_555dy1","name":"📕555电影Ⅱ","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/555dy(1).json"},
 
 #Xbiubiu系列
 {"key":"csp_biubiu_美剧星球","name":"📗美剧星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},

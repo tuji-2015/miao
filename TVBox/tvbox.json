@@ -275,7 +275,6 @@
 {"key":"csp_biubiu_秋千影视","name":"💫秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/秋千影视.json"},
 {"key":"csp_biubiu_蓝豆TV","name":"💫蓝豆TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/蓝豆TV.json"},
 {"key":"csp_biubiu_速搜影视","name":"💫速搜影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/速搜影视.json"},
-{"key":"csp_biubiu_迷你库","name":"💫迷你库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB/miniku.json"},
 {"key":"csp_biubiu_麻衣高清","name":"📗麻衣高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/麻衣高清.json"},
 {"key":"csp_biubiu_4K电影网","name":"📗4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/4K电影网.json"},
 {"key":"csp_biubiu_悟空影视","name":"📗悟空影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/悟空影视.json"},

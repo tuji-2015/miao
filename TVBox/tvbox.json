@@ -269,6 +269,7 @@
 {"key":"csp_xpath_555dy","name":"📕555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/555dy.json"},
 
 #Xbiubiu系列
+{"key":"csp_biubiu_akmeiju","name":"爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/akmeiju.json"},
 {"key":"csp_biubiu_美剧星球","name":"📗美剧星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},
 {"key":"csp_biubiu_秋千影视","name":"📗秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/秋千影视.json"},
 {"key":"csp_biubiu_蓝豆TV","name":"📗蓝豆TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/蓝豆TV.json"},

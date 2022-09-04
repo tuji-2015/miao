@@ -192,6 +192,7 @@
 {"key": "csp_Alist10","name":"🚩Alist 10","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
 
 #Xpath系列
+{"key":"csp_xpath_UM","name":"📕UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/UM.json"},
 {"key":"csp_xpath_007","name":"📕007(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/007.json"},
 //{"key":"csp_xpath_1090","name":"90影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/mys202299/mao/main/sub/xpath/1090.json"},
 //{"key":"csp_xpath_unss","name":"九州影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/unss.json"},

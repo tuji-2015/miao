@@ -192,7 +192,7 @@
 {"key": "csp_Alist10","name":"🚩Alist 10","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
 
 #PY爬虫
-{"key":"py_bilibili","name":"⛺哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_bilibili.py"}, 
+{"key":"py_bili","name":"⛺哔哩","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_bilibili.py"}, 
 {"key":"py_zxzj","name":"⛺在线之家","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_zxzj.py"}, 
 {"key":"py_voflix","name":"⛺Voflix","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_voflix.py"},
 {"key":"py_gimytv","name":"⛺剧迷","type":3,"api":"py_gimytv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_gimytv.py"},
@@ -204,7 +204,7 @@
 {"key":"py_xmaomi","name":"⛺猫咪","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_xmaomi.py"}, 
 {"key":"py_zhaozy","name":"⛺找资源","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"}, 
 {"key":"py_pansou","name":"⛺盘搜","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_pansou.py"}, 
-{"key":"push_agent","name":"⛺阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
+{"key":"py_push_agent","name":"⛺阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
 
 #Xpath系列
 {"key":"云播看看","name":"📕云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kvymin.github.io/CatVod/Xpath/云播看看.json"},

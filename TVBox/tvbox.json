@@ -582,7 +582,7 @@
 {"key":"盘看看","name":"🎬盘看看(聚)","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"迪吧","name":"🎬迪吧(聚)","type":1,"api":"https://www.d8bi.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"CV影视","name":"🎬CV影视(聚)","type":1,"api":"https://www.cccvvv.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"创艺影视","name":"创艺影视(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"创艺影视","name":"🎬创艺影视(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"友人屋视界","name":"🎬友人屋视界(聚)","type":1,"api":"https://gb.gx916.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"🎬香瓜影视(聚)","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"私人影视","name":"🎬私人影视(聚)","type":1,"api":"http://204240.top:8899/api.php/provide/vod/","searchable":1,"quickSearch":1},

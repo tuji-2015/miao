@@ -97,9 +97,6 @@
 {"key":"csp_XYQBiu_555影视","name":" 🌌555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/555影视.json"},
 {"key":"csp_XYQBiu_影视工厂","name":" 🌌影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/影视工厂.json"},
 {"key":"csp_XYQBiu_yqsp","name":" 🌌云雀视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/云雀视频.json"},
-{"key":"csp_XYQBiu_分享短视频","name":"🌌分享短视频(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/分享短视频(XYQ).json"},
-{"key":"csp_XYQBiu_好恐怖磁力","name":"🌌好恐怖磁力(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/好恐怖磁力.json"},
-{"key":"csp_XYQBiu_电影港磁力","name":"🌌电影港磁力(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/电影港磁力.json"},
 {"key":"csp_xpath_biditdcl","name":"🧲哔嘀(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 {"key":"csp_xpath_mp4dycl","name":"🧲MP4电影(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key":"csp_xpath_cls","name":"🧲磁力搜索(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/cls.json"},   
@@ -304,9 +301,9 @@
 {"key":"csp_xpath_555dy","name":"📕555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/555dy.json"},
 
 #Xbiubiu系列
-{"key":"csp_biubiu_花猫影视","name":"🐱花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/花猫影视.json"},
-{"key":"看看影视","name":"👓看看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/看看影视.json"},
-{"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/金眼影视.json"},
+{"key":"csp_biubiu_花猫影视","name":"📗花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/花猫影视.json"},
+{"key":"csp_XBiubiu看看影视","name":"📗看看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/看看影视.json"},
+{"key":"csp_XBiubiu_金眼影视","name":"📗金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/金眼影视.json"},
 {"key":"csp_biubiu_akmeiju","name":"📗爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},
 {"key":"csp_biubiu_美剧星球","name":"📗美剧星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},
 {"key":"csp_biubiu_秋千影视","name":"📗秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/秋千影视.json"},

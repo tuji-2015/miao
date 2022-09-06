@@ -23,7 +23,7 @@
 {"key":"神马影院","name":"🦄神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1},
+{"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/0905.jar"},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4","name":"🍵T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"KanSJ_spider","name":"🌈看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},

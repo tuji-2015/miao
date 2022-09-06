@@ -305,8 +305,8 @@
 
 #Xbiubiu系列
 {"key":"csp_biubiu_花猫影视","name":"🐱花猫影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/花猫影视.json"},
-{"key":"看看影视","name":"👓看看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%9C%8B%E7%9C%8B%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
+{"key":"看看影视","name":"👓看看影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/看看影视.json"},
+{"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/金眼影视.json"},
 {"key":"csp_biubiu_akmeiju","name":"📗爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},
 {"key":"csp_biubiu_美剧星球","name":"📗美剧星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/akmeiju.json"},
 {"key":"csp_biubiu_秋千影视","name":"📗秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/秋千影视.json"},

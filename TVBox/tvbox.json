@@ -220,7 +220,7 @@
 {"key":"莫扎兔","name":"🕋莫扎兔","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"dr_鸭奈飞","name":"🕋鸭奈飞","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"蓝光影院","name":"🕋蓝光影院","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable": 1,"quickSearch": 1,"filterable": 0},    
-{"key":"T4备用","name":"🕋T4备用","type": 4,"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"T4E","name":"🕋T4(搜索)","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
 #Xpath系列
 {"key":"云播看看","name":"📕云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kvymin.github.io/CatVod/Xpath/云播看看.json"},

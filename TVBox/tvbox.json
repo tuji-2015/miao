@@ -90,7 +90,7 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
 
 #优质站点2
-{"key":"csp_XYQBiu_jmzy","name":"🌌橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/橘猫资源.json"},
+{"key":"csp_XYQBiu_jmzy","name":"🌌橘猫资源(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/橘猫资源.json","jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/XYQBiu.jar"},
 {"key":"csp_XYQBiu_wnys","name":"🌌万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},
 {"key":"csp_XYQBiu_e9","name":"🌌e9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/e9视频.json"},
 {"key":"csp_XYQBiu_lyys","name":"🌌凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/凌云影视.json"},

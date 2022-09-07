@@ -572,7 +572,7 @@
 {"key":"一拳动漫","name":"🔮一拳动漫(优)","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"畅视影视","name":"🔮畅视影视(优)","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"🔮乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_Alist","name":"🔮Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/Alist.json"},
+{"key":"csp_Alist","name":"🔮Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/Alist.json","jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/ddrk.jar"},
 #三方聚合
 {"key":"爱兜视频","name":"🎬爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"瞬间影视","name":"🎬瞬间影视(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},

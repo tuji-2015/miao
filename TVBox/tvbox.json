@@ -191,6 +191,8 @@
 {"key":"py_czspp","name":"💫厂长资源","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_czspp.py"},
 {"key":"py_bilimd","name":"💫B站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_bilimd.py"},
 {"key":"py_xmaomi","name":"💫猫咪影视","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_xmaomi.py"}, 
+{"key":"py_jubaibai","name":"💫剧白白","type":3,"api":"py_jubaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_jubaibai.py"}, 
+{"key":"py_555dy","name":"💫555影视","type":3,"api":"py_555dy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_555dy.py"}, 
 {"key":"py_zhaozy","name":"💫找资源","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"}, 
 {"key":"py_pansou","name":"💫盘搜","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_pansou.py"}, 
 {"key":"py_push_agent","name":"💫阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_ali.py"},

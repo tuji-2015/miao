@@ -156,7 +156,7 @@
 {"key":"if101资源","name":"✈️if101(海外)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":0,"filterable":0}, 
 {"key":"csp_appysv2_M2_暖光影视","name":"💽暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_biubiu_晗剧","name":"🌡️晗剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/a14-hanju.js"},
-{"key":"csp_XBiu_4kan电影网","name":"🍀4K网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/b11-4Kkan.js"},
+{"key":"csp_XBiu_4kan电影网","name":"🍀4K网(IJK播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXB/b11-4Kkan.js"},
 {"key":"csp_biubiu_韩剧佬","name":"🍲韩剧佬","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/韩剧佬.json"},  
 {"key":"csp_biubiu_韩剧在线","name":"🍲韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXB/韩剧在线.json"},  
 //{"key":"csp_appysv2_300看世界","name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},

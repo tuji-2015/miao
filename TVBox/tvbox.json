@@ -21,6 +21,7 @@
 {"key":"push_agent","name":"🍭推送(阿里)","type":3,"api":"csp_PushAgent2","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_AliPanSou","name":"🐱盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"神马影院","name":"🦄神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"APPTT","name":"📼图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/tutu.jar"},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/ddrk.jar"},

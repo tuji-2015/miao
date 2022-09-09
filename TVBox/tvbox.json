@@ -198,7 +198,7 @@
 {"key":"py_push_agent","name":"💫阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_ali.py"},
 
 #T4系列
-{"key":"80S","name":"🕋80S电影","type":4, "api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"80S","name":"🕋80S电影(IJK播放器)","type":4, "api":"http://vod.kooo.eu.org/t4/vip110002","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"宽板凳","name":"🕋宽板凳","type":4,"api":"https://vod.kooo.eu.org/t4/vip11a0c4","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"神马dyy","name":"🕋神马dyy","type":4,"api":"https://vod.kooo.eu.org/t4/vip11cx08","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"唐人街T4","name":"🕋唐人街","type":4,"api":"https://vod.kooo.eu.org/t4/vip11b016","searchable":1,"quickSearch":1,"filterable":1},

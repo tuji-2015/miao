@@ -626,6 +626,7 @@
 //{"name":"Json轮询","type":2,"url":"Sequence"},
 # type1 聚合.并发.轮询
 {"name":"🆗1MITY","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"🆗38MITY","type":0,"url":"https://play.fositv.com/?url="},
 {"name":"🈯2MITY","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"🈯3MITY","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"🆗24MITY","type":0,"url":"https://dm.xmflv.com:4433/?url="},
@@ -662,7 +663,6 @@
 {"name":"🈹10C","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"🈹11T","type":0,"url":"https://www.ckmov.vip/api.php?url="},
 {"name":"🈹19T","type":0,"url":"https://vip.52jiexi.top/?url="},
-{"name":"38","type":0,"url":"https://play.fositv.com/?url="},
 {"name":"免费","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"战狼","type":1,"url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
 {"name":"池中","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},

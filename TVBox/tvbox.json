@@ -213,7 +213,7 @@
 {"key":"喵喵","name":"🕋喵喵","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"万能影视","name":"🕋万能影视","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"莫扎兔","name":"🕋莫扎兔","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"dr_鸭奈飞","name":"鸭奈飞","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"dr_鸭奈飞","name":"🕋鸭奈飞","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"蓝光影院","name":"🕋蓝光影院","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable": 1,"quickSearch": 1,"filterable": 0},    
 {"key":"T4E","name":"🕋T4聚合","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
@@ -454,7 +454,7 @@
 {"key":"csp_appysv2_兔子窝","name":"⭐️兔子窝(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_天天视频","name":"⭐️天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_淘剧社","name":"⭐️淘剧社(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"key":"csp_appysv2_沭阳影视","name":"沭阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zjr.jurentiaodeng.com/api.php/v1.vod"},
+{"key":"csp_appysv2_沭阳影视","name":"⭐️沭阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zjr.jurentiaodeng.com/api.php/v1.vod"},
 {"key":"csp_appysv2_三日影院","name":"⭐️三日影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.3ri.net/api.php/v1.vod"},
 {"key":"csp_appysv2_群鑫影视","name":"⭐️群鑫影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
 {"key":"csp_appysv2_蒲公英视频","name":"⭐️蒲公英视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},

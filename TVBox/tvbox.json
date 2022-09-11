@@ -89,6 +89,7 @@
 {"key":"csp_xpath_saohuotv","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/saohuotv2.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
+{"key":"T4(2)","name":"🍵T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 
 #优质站点2
 {"key":"csp_XYQBiu_dmxq","name":"🌌大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/XYQ/大米星球.json"},
@@ -214,7 +215,7 @@
 {"key":"莫扎兔","name":"🕋莫扎兔","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key":"dr_鸭奈飞","name":"鸭奈飞","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"蓝光影院","name":"🕋蓝光影院","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable": 1,"quickSearch": 1,"filterable": 0},    
-{"key":"T4E","name":"🕋T4(搜索)","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4E","name":"🕋T4聚合","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
 #Xpath系列
 {"key":"云播看看","name":"📕云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kvymin.github.io/CatVod/Xpath/云播看看.json"},

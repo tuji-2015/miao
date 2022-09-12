@@ -627,7 +627,7 @@
 # type1 聚合.并发.轮询
 {"name":"🆗1MITY","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"🆗38MITY","type":0,"url":"https://play.fositv.com/?url="},
-{"name":"🈯2MITY","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext": {"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+{"name":"🈯2MITY","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext": {"header": {"User-Agent": "Edge/13.10586"}}},
 {"name":"🈯3MITY","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"🆗24MITY","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"🈯27MITY","type":0,"url":"https://www.yemu.xyz/?url="},

@@ -1,6 +1,6 @@
 {
 "ua": "",
-"dtUrl": "https://1024bt25.xyz{vid}",
+"dtUrl": "https://1024bt101.buzz{vid}",
 "dtNode": "//div[@id='content']",
 "dtName": "//h2/text()",
 "dtNameR": "",
@@ -21,7 +21,7 @@
 "dtUrlName": "/text()", 
 "playUrl": "{playUrl}",
 "playUa": "",
-"searchUrl": "https://1024bt25.xyz/main-search-kw-{wd}-length-1.html",
+"searchUrl": "https://1024bt101.buzz/main-search-kw-{wd}-length-1.html",
 "scVodNode": "//div[@class='item-title']/h3/a",
 "scVodName": "/@title",
 "scVodId": "/@href",

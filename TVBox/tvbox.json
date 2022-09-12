@@ -201,7 +201,7 @@
 {"key":"py_push_agent","name":"💫阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_ali.py"},
 
 #T4系列
-{"key":"T4_玩偶姐姐","name":"🕋玩偶姐姐","type":4,"api":"http://cms.nokia.press/vod?rule=玩偶姐姐","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"T4_玩偶姐姐","name":"🕋玩偶姐姐","type":4,"api":"http://cms.nokia.press/vod?rule=玩偶姐姐","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_看视界","name":"🕋看视界","type":4,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_剧白白","name":"🕋剧白白","type":4,"api":"http://cms.nokia.press/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_Libvio","name":"🕋Libvio","type":4,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":1},

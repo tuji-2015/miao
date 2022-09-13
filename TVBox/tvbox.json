@@ -214,7 +214,6 @@
 {"key":"T4_瓜皮TV","name":"🕋瓜皮TV","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_VIP影院","name":"🕋VIP影院","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=vip影院","searchable":1,"quickSearch":1,"filterable":0},   
 {"key":"T4_蓝光影院","name":"🕋蓝光影院","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4_养端","name":"🕋养端","type":1,"api":"http://cms.nokia.press/vod?rule=养端","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_夜空","name":"🕋夜空","type":1,"api":"http://cms.nokia.press/vod?rule=夜空","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_干饭影视","name":"🕋干饭影视","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"T4_影视工厂","name":"🕋影视工厂","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},

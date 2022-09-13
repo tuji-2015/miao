@@ -211,6 +211,7 @@
 {"key":"T4_万能影视","name":"🕋万能影视","type":1,"api":"http://cms.nokia.press/vod?rule=万能影视","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"T4_莫扎兔","name":"🕋莫扎兔","type":1,"api":"http://cms.nokia.press/vod?rule=莫扎兔","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"T4_鸭奈飞","name":"🕋鸭奈飞","type":1,"api":"http://cms.nokia.press/vod?rule=鸭奈飞","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"T4_瓜皮TV","name":"🕋瓜皮TV","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV","searchable": 1,"quickSearch": 1,"filterable": 0},    
 {"key":"T4_蓝光影院","name":"🕋蓝光影院","type":1,"api":"http://cms.nokia.press/vod?rule=蓝光影院","searchable": 1,"quickSearch": 1,"filterable": 0},    
 {"key":"T4E","name":"🕋T4","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 

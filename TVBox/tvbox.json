@@ -669,9 +669,6 @@
 {"name":"战狼","type":1,"url":"https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="},
 {"name":"池中1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name":"池中2","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
-{"name":"爱酷","type":1,"url":"https://json.iku.cool/api/?key=bcZxWfy3h241UpPSeq&url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
-{"name":"泡沫","type":1,"url":"https://jx.paoomo.com/jiami.php?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}},
-{"name":"ZNJ","type":1,"url":"https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="},
 {"name":"江湖","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"晓成","type":1,"url":"https://api.cygc.xyz/analysis/?url="},
 {"name":"老板","type":1,"url":"http://ck.laobandq.com/3515240842.php?pltfrom=1100&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","xigua","imgo"]}}

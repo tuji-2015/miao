@@ -190,6 +190,7 @@
 {"key":"py_cokemv","name":"💫COKEMV","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_cokemv.py"}, 
 {"key":"py_cctv","name":"💫央视栏目","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_cctv.py"}, 
 {"key":"py_czspp","name":"💫厂长资源","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_czspp.py"},
+{"key":"py_cyys","name": "💫创意影视","type":3,"api":"py_cyys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/pys/py_cyys.py"}, 
 {"key":"py_bilimd","name":"💫B站影视","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_bilimd.py"},
 {"key":"py_xmaomi","name":"💫猫咪影视","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_xmaomi.py"}, 
 {"key":"py_jubaibai","name":"💫剧白白","type":3,"api":"py_jubaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_jubaibai.py"}, 
@@ -221,6 +222,7 @@
 {"key":"T4E","name":"🕋T4","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
 #Xpath系列
+{"key":"csp_xpath_F7","name":"📕F7好看剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/F7好看剧.json"},
 {"key":"云播看看","name":"📕云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kvymin.github.io/CatVod/Xpath/云播看看.json"},
 {"key":"csp_xpath_UM","name":"📕UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/UM.json"},
 {"key":"csp_xpath_007","name":"📕007(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/MaoXP/007.json"},

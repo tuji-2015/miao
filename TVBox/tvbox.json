@@ -202,10 +202,10 @@
 {"key":"py_push_agent","name":"💫阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.0z.gs/tuji-2015/PyramidStore/main/plugin/py_ali.py"},
 
 #T4系列
-//{"key":"T4_玩偶姐姐","name":"🕋玩偶姐姐","type":4,"api":"http://cms.nokia.press/vod?rule=玩偶姐姐","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_看视界","name":"🕋看视界","type":4,"api":"http://cms.nokia.press/vod?rule=看视界","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_555影视","name":"🕋555影视","type":4,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_剧白白","name":"🕋剧白白","type":4,"api":"http://cms.nokia.press/vod?rule=剧白白","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_Libvio","name":"🕋Libvio","type":4,"api":"http://cms.nokia.press/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_Libvio","name":"🕋Libvio","type":4,"api":"https://drpy.aqingyuan.repl.co/vod?rule=LIBVIO","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_Coke","name":"🕋Cokemv","type":4,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_在线之家","name":"🕋在线之家","type":1,"api":"http://cms.nokia.press/vod?rule=在线之家","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_喵喵","name":"🕋喵喵","type":1,"api":"http://cms.nokia.press/vod?rule=喵喵","searchable":1,"quickSearch":1,"filterable":0},
@@ -221,7 +221,9 @@
 {"key":"T4_蓝莓影视","name":"🕋蓝莓影视","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_人人影视","name":"🕋人人影视","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_兔小贝","name":"🕋兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_吸瓜","name":"🕋吸瓜","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=吸瓜","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_追剧喵","name":"🕋追剧喵","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=追剧喵","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_AnFuns","name":"🕋AnFuns","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_if101","name":"🕋if101","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=101","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🕋库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_小强迷","name":"🕋小强迷","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小强迷","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4E","name":"🕋T4","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},

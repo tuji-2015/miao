@@ -23,7 +23,7 @@
 {"key":"APPTT","name":"📼图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/ddrk.jar"},
+{"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://raw.0z.gs/tuji-2015/miao/main/TVBox/jar/xc.jar"},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4","name":"🍵T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"KanSJ_spider","name":"🌈看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -219,6 +219,11 @@
 {"key":"T4_干饭影视","name":"🕋干饭影视","type":1,"api":"http://cms.nokia.press/vod?rule=干饭影视","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"T4_影视工厂","name":"🕋影视工厂","type":1,"api":"http://cms.nokia.press/vod?rule=影视工厂","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_蓝莓影视","name":"🕋蓝莓影视","type":1,"api":"http://cms.nokia.press/vod?rule=蓝莓影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_人人影视","name":"🕋人人影视","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_兔小贝","name":"🕋兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_吸瓜","name":"🕋吸瓜","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=吸瓜","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_库马伊","name":"🕋库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"dr_小强迷","name":"🕋小强迷","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小强迷","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4E","name":"🕋T4","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 
 #Xpath系列

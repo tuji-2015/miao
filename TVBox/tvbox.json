@@ -223,7 +223,6 @@
 {"key":"dr_兔小贝","name":"🕋兔小贝","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_追剧喵","name":"🕋追剧喵","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=追剧喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_AnFuns","name":"🕋AnFuns","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"dr_if101","name":"🕋if101","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=101","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🕋库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_小强迷","name":"🕋小强迷","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小强迷","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4E","name":"🕋T4","type":4,"api":"http://catvod.fun:8002/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},

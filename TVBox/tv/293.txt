@@ -5,7 +5,7 @@
 	"4kjx": "http://123.56.222.84:2025/iphones/100.php?url=",
 	"jsjx": "http://123.56.222.84:2025/iphones/100.php?url=",
 	"qqjx": "http://123.56.222.84:2025/iphones/100.php?url=",
-    "qiyijx": "http://123.56.222.84:2025/iphones/100.php?url=",
+        "qiyijx": "http://123.56.222.84:2025/iphones/100.php?url=",?url=",
 	"rrjx": "http://123.56.222.84:2025/iphones/400.php?url=",
 	"rxjx": "http://123.56.222.84:2025/iphones/rongxing.php?url=",
 	"zbjx": "http://123.56.222.84:2025/iphones/huya.php?id=",

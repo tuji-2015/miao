@@ -92,6 +92,7 @@
 {"key":"T4(2)","name":"🍵T4备份","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 
 #优质站点2
+{"key":"csp_XYQBiu_子子影视","name":"🌌子子影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/子子影视.json"},
 {"key":"csp_XYQBiu_动视影视","name":"🌌动视影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/动视影视.json"},
 {"key":"csp_XYQBiu_zxzj","name":"🌌在线之家(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/zxzj.json"},
 {"key":"csp_XYQBiu_dmxq","name":"🌌大米星球(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/大米星球.json"},

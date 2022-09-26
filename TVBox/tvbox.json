@@ -200,7 +200,7 @@
 {"key":"T4_小猫咪","name":"🕋小猫咪","type":1,"api":"http://43.139.29.179:5705/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_奇珍异兽","name":"🕋奇珍异兽","type":1,"api":"http://43.139.29.179:5705/vod?rule=奇珍异兽","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"T4_凌云影视","name":"🕋凌云影视","type":1,"api":"http://43.139.29.179:5705/vod?rule=凌云影视","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"T4_101","name":"🕋101影视","type":1,"api":"http://43.139.29.179:5705/vod?rule=101","searchable":2,"quickSearch":0,"filterable":1},
+{"key":"T4_101","name":"🕋101影视","type":1,"api":"http://43.139.29.179:5705/vod?rule=l0l","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"T4_360","name":"🕋360影视","type":1,"api":"http://43.139.29.179:5705/vod?rule=360影视","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"T4_番茄影视","name":"🕋番茄影视","type":1,"api":"http://43.139.29.179:5705/vod?rule=番茄影视","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"T4_优酷","name":"🕋优酷官采","type":1,"api":"http://43.139.29.179:5705/vod?rule=优酷","searchable":2,"quickSearch":0,"filterable":1},

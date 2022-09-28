@@ -174,7 +174,6 @@
 {"key":"csp_xpath_xfeiji","name":"🎺小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/xfeiji.json"},
 //{"key":"csp_xpath_osx3","name":"达达兔(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/osx3.json"},
 {"key":"csp_xpath_dianyingn","name":"🐮电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/dianyingn.json"},
-{"key": "kunyu77_js","name": "酷云77(catvod JS)","type": 3,"api": "js_kunyu77","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
 
 #XYQB系列
 {"key":"csp_XYQBiu_素白白","name":"🌌素白白(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/素白白.json"},
@@ -501,6 +500,9 @@
 {"key":"py_pansou","name":"💫盘搜","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_pansou.py"}, 
 {"key":"py_push_agent","name":"💫阿里","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
 {"key":"py_push_alist","name":"💫Alist","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_alist.py"},
+
+#JS系列
+{"key": "kunyu77_js","name": "酷云77(catvod JS)","type": 3,"api": "js_kunyu77","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

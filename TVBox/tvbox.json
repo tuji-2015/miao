@@ -195,7 +195,6 @@
 {"key":"dr_优酷","name":"🔗优酷官采(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=优酷","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_奇优影院","name":"🔗奇优影院(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=奇优影院","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_百忙无果","name":"🔗百忙无果(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=百忙无果","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"dr_猫了个咪","name":"🔗猫了个咪(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=猫了个咪","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_牛马TV","name":"🔗牛马TV(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=牛马TV","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_玄天","name":"🔗玄天(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=玄天","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_酷云77","name":"🔗酷云77(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=酷云77","searchable":0,"quickSearch":0,"filterable":1},
@@ -632,6 +631,8 @@
 {"key":"畅视影视","name":"🔮畅视影视(优)","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐活影视","name":"🔮乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_Alist","name":"🔮Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/Alist.json","jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/ddrk.jar"},
+{"key":"dr_猫了个咪","name":"🔮猫了个咪(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=猫了个咪","searchable":0,"quickSearch":0,"filterable":1},
+
 #三方聚合
 {"key":"爱兜视频","name":"🎬爱兜视频(聚)","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"瞬间影视","name":"🎬瞬间影视(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},

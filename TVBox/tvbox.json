@@ -470,7 +470,8 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"}, 
 
 #PY爬虫
-{"key":"py_wmkk","name":"💫完美看看(PY)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/TVBOX/main/APP/PY/py_wmkk.py"},
+{"key":"py_kuyun77","name":"💫酷云77(PY)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_kunyu77.py"},
+{"key":"py_wmkk","name":"💫完美看看(PY)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_wmkk.py"},
 {"key":"py_3qu","name":"💫快播影视(PY)","type":3,"api":"py_3qu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_3qu.py"},
 {"key":"py_zxzj","name":"💫在线之家(PY)","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_zxzj.py"},
 {"key":"py_bili","name":"💫哔哩哔哩(PY)","type":3,"api":"py_bilibili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_bilibili.py"}, 
@@ -479,7 +480,7 @@
 {"key":"py_gimytv","name":"💫GimyTV(PY)","type":3,"api":"py_gimytv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_gimytv.py"},
 {"key":"py_genmov","name":"💫跟剧(PY)","type":3,"api":"py_genmov","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_genmov.py"}, 
 {"key":"py_cokemv","name":"💫COKEMV(PY)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_cokemv.py"}, 
-{"key":"py_cctv","name":"💫央视栏目(PY)","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_cctv.py"}, 
+{"key":"py_cctv_full","name":"💫央视栏目(PY)","type":3,"api":"py_cctv_full","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_cctv_full.py"}, 
 {"key":"py_czspp","name":"💫厂长资源(PY)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_czspp.py"},
 {"key":"py_cyys","name": "💫创意影视(PY)","type":3,"api":"py_cyys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_cyys.py"}, 
 {"key":"py_bilimd","name":"💫B站影视(PY)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_bilimd.py"},

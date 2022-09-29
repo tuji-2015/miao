@@ -470,6 +470,7 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"}, 
 
 #PY爬虫
+{"key":"py_wmkk","name":"💫完美看看(PY)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/TVBOX/main/APP/PY/py_wmkk.py"},
 {"key":"py_3qu","name":"💫快播影视(PY)","type":3,"api":"py_3qu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_3qu.py"},
 {"key":"py_zxzj","name":"💫在线之家(PY)","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_zxzj.py"},
 {"key":"py_bili","name":"💫哔哩哔哩(PY)","type":3,"api":"py_bilibili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_bilibili.py"}, 

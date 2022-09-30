@@ -163,7 +163,7 @@
 
 #XBiu系列
 {"key":"csp_xb_ysgc","name":"📼影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{ "key":"csp_xb_35ju", "name":"📼星空影院(R)", "type":3,"api":"csp_XBiu","searchable":1, "quickSearch":1, "filterable":0,"ext": "https://m.7caa.com/list/{cateId}-{catePg}.html"},
+{"key":"csp_xb_35ju","name":"📼星空影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xb_lgyy","name":"📼蓝光影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_aiku","name":"📼爱酷影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html"},
 {"key":"csp_xb_luozhu","name":"📼乐猪(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html"},

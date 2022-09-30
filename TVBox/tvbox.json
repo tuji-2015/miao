@@ -496,7 +496,7 @@
 
 #JS系列
 {"key":"kunyu77_js","name":"🪝酷云77(JS)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
-{"key":"douban-JS","name":"🪝豆瓣[JS]","type":3,"api":"js_douban""searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/douban.js"},
+{"key":"douban-JS","name":"🪝豆瓣[JS]","type":3,"api":"js_douban","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/douban.js"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

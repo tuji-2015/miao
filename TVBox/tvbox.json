@@ -21,7 +21,6 @@
 {"key":"csp_AliPanSou","name":"🐱盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"0c7d37b0308240ef8b8eb62ec5cf799d"},
 {"key":"神马影院","name":"🦄神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"JS_douban","name":"豆瓣(JS)","type":3,"api":"https://taijichadao.github.io/js/douban.js"},
 {"key":"csp_Bdys01","name":"📯哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -501,8 +500,8 @@
 {"key":"py_push_alist","name":"🃏Alist(PY)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_alist.py"},
 
 #JS系列
-{"key":"kunyu77_js","name":"🪝酷云77(JS)","type":3,"api":"js_kunyu77","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
-{"key":"douban-JS","name":"🪝豆瓣[JS]","type":3,"api":"js_douban","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/douban.js"},
+{"key":"kunyu77_js","name":"🪝酷云77(JS)","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
+{"key":"JS_douban","name":"🪝豆瓣(JS)","type":3,"api":"https://taijichadao.github.io/js/douban.js"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

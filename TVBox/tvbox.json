@@ -475,6 +475,9 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"}, 
 
 #PY爬虫
+{"key":"py_lezhu","name":"🐷乐猪影视 py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_lezhu.py"},
+{"key":"py_star","name":"✨星光影视 py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_star.py"},
+{"key":"py_cup","name":"🦊茶杯狐 py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_cup.py"},
 {"key":"py_kuyun77","name":"🃏酷云77(PY)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_kunyu77.py"},
 {"key":"py_wmkk","name":"🃏完美看看(PY)","type":3,"api":"py_wmkk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_wmkk.py"},
 {"key":"py_3qu","name":"🃏快播影视(PY)","type":3,"api":"py_3qu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/PyramidStore/main/plugin/py_3qu.py"},

@@ -564,7 +564,7 @@
 {"key":"py_xmaomi","name":"🃏猫咪影视(PY)","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_xmaomi.py"}, 
 {"key":"py_jubaibai","name":"🃏剧白白(PY)","type":3,"api":"py_jubaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_jubaibai.py"}, 
 {"key":"py_555dy","name":"🃏555影视(PY)","type":3,"api":"py_555dy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_555dy.py"},
-{"key":"py_gitcafe","name":"🃏小纸条(PY)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_gitcafe.py"}, 
+{"key":"py_gitcafe","name":"🃏小纸条(PY)","type":3,"api":"py_gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://43.139.29.179:5705/txt/py/py_gitcafe.py"}, 
 {"key":"py_zhaozy","name":"🃏找资源(PY)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"}, 
 {"key":"py_yiso","name":"🃏易搜(PY)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yiso.py"}, 
 {"key":"py_pansou","name":"🃏盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_pansou.py"}, 

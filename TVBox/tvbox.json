@@ -1,8 +1,4 @@
 {
-"dr_count": 43,
- 
-"mode": 2,  
-  
 "spider":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/0928.jar",
   
 "wallpaper":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/purple.jpg",
@@ -12,7 +8,6 @@
 "sites":[
 
 #爬虫站
-{"key": "dr_大米星球","name": "大米星球(drpy)","type": 3,"api": "http://43.139.29.179:5705/libs/drpy.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://43.139.29.179:5705/admin/view/大米星球.js"},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -572,13 +567,10 @@
 {"key":"py_zhaozy","name":"🃏找资源(PY)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"}, 
 {"key":"py_yiso","name":"🃏易搜(PY)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yiso.py"}, 
 {"key":"py_pansou","name":"🃏盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_pansou.py"}, 
-{"key":"py_push_agent","name":"🃏推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_ali1.py"},
+{"key":"py_push_agent","name":"🃏推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
 {"key":"py_push_alist","name":"🃏Alist(PY)","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_alist1.py"},
 
 #JS系列
-{"key":"kunyu77_js","name":"🪝酷云77(JS)","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
-{"key":"JS_douban","name":"🪝豆瓣(JS)","type":3,"api":"https://taijichadao.github.io/js/douban.js"},
-{"key":"Alist_js","name":"Alist(JS)","type":3,"api":"https://github.com/heroaku/TVboxo/raw/main/Js/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Js/alist_js.json"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

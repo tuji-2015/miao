@@ -178,7 +178,7 @@
 {"key":"csp_xbu_极品影视","name":"📼极品影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_片吧影视","name":"📼片吧影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.pbpb.tv/class/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_达达龟影视","name":"📼达达龟影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xbu_135看看","name":"📼135看看(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/",},
+{"key":"csp_xbu_135看看","name":"📼135看看(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/"},
 {"key":"csp_xbu_鸭奈飞影视","name":"📼鸭奈飞影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflix.mom/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_电影迷8","name":"📼电影迷8(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dym8.com/vod/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_爱看影视","name":"📼爱看影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},

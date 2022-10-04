@@ -568,7 +568,7 @@
 {"key":"py_zhaozy","name":"🃏找资源(PY)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_zhaozy.py"}, 
 {"key":"py_yiso","name":"🃏易搜(PY)","type":3,"api":"py_yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yiso.py"}, 
 {"key":"py_pansou","name":"🃏盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_pansou.py"}, 
-{"key":"py_ali","name":"🃏推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_ali1.py"},
+{"key":"py_ali","name":"🃏推送","type":3,"api":"py_ali","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_ali.py"},
 
 #JS系列
 

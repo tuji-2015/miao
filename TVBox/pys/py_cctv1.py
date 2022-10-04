@@ -23,7 +23,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			"健康之路": "TOPC1451557646802924",
 			"远方的家": "TOPC1451541349400938",
 			"探索发现": "TOPC1451557893544236",
-            "地理中国": "TOPC1451557421544786",
+                        "地理中国": "TOPC1451557421544786",
 			"人与自然": "TOPC1451525103989666",
 			"人文地理": "TOPC1451469288523874",
 			"全景自然": "TOPC1451469617360656",
@@ -161,18 +161,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		content = rsp.text.strip()
 		arr = content.split('\n')
 		urlPrefix = self.regStr(id,'(http[s]?://[a-zA-z0-9.]+)/')
-		
-		subUrl = arr[-1].split('/')
-		subUrl[3] = '1200'
-		subUrl[-1] = '1200.m3u8'
-		hdUrl = urlPrefix + '/'.join(subUrl)
-
 		url = urlPrefix + arr[-1]
-
-		hdRsp = self.fetch(hdUrl,headers=self.header)
-		if hdRsp.status_code == 200:
-			url = hdUrl
-
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url

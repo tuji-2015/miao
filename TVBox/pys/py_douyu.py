@@ -17,7 +17,6 @@ class Spider(Spider):
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"真的很博通": "222931",
 			"热门游戏": "热门游戏",
 			"主机游戏": "主机游戏",
 			"原创IP": "原创IP"
@@ -48,7 +47,7 @@ class Spider(Spider):
 			aid = (vod['roomId']).strip()
 			title = vod['roomName'].strip()
 			img = vod['roomPic'].strip()
-			remark = (vod['categoryName']).strip()
+			remark = (vod['ownerName']).strip()
 			videos.append({
 				"vod_id": aid,
 				"vod_name": title,
@@ -100,14 +99,14 @@ class Spider(Spider):
 		return result
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
-
 		url = 'http://live.yj1211.work/api/live/getRealUrl?platform=douyu&roomId={0}'.format(id)
 		rsp = self.fetch(url)
 		jRoot = json.loads(rsp.text)
+		if len(jRoot['data']) == 0:
+			return {}
 		jo = jRoot['data']
 		ja = jo['OD']
 		url = ja
-
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url

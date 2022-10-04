@@ -516,6 +516,7 @@
 {"key":"kunyu77_js","name":"🪝酷云77(JS)","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/catvod/CatVodSpiderJS/main/kunyu77.js"},
 {"key":"JS_douban","name":"🪝豆瓣(JS)","type":3,"api":"https://taijichadao.github.io/js/douban.js"},
 {"key":"Alist_js","name":"Alist(JS)","type":3,"api":"https://github.com/heroaku/TVboxo/raw/main/Js/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/heroaku/TVboxo/raw/main/Js/alist_js.json"},
+{"key":"LIBVIO(DR)","type":3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/pluto-player/updates/main/android/plugins/js/drpy.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/LIBVIO.js"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

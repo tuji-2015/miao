@@ -59,7 +59,7 @@
 
 #优质站点1
 //{"key":"优众影视","name":"🏆优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
-{"key":"RelaxSP","name":"🎵轻松影视","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1, "filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/relax.json","jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/RelaxSP.jar"},
+{"key":"RelaxSP","name":"🎵轻松影视","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1, "filterable":1,"ext":"68747470733A2F2F792E7173617070323233332E6D65","jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/RelaxSP.jar"},
 {"key":"csp_biubiu_迷你库","name":"🆒迷你酷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/迷你酷.json"},  
 {"key":"csp_biubiu_奇优影院ns","name":"✅奇优影院(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/奇优影院（不支持搜）.json"},  
 {"key":"csp_biubiu_黑狐影视ns","name":"🦊黑狐影视(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/黑狐影视(ns).json"},

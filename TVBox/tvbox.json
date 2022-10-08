@@ -6,101 +6,25 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
 
 "drives": [
-  {
-   "name": "Alist",
-   "server": "http://192.168.1.8:5244",
-   "type": "alist"
-  },
-  {
-   "name": "小雅的盘（已分类）",
-   "server": "http://43.139.29.179:5245",
-   "type": "alist"
-  },
-  {
-   "name": "纪录片",
-   "server": "https://al.chirmyram.com/mov/纪录片",
-   "type": "alist"
-  },
-  {
-   "name": "🌊七米蓝",
-   "server": "https://al.chirmyram.com",
-   "type": "alist"
-  },
-  {
-   "name": "🌊小江",
-   "server": "https://dyj.me",
-   "type": "alist"
-  },
-  {
-   "name": "🐋一只鱼",
-   "server": "https://alist.youte.ml",
-   "type": "alist"
-  },
-  {
-   "name": "🅰️AR7资源",
-   "server": "https://alist.arhomenet.tk",
-   "type": "alist"
-  },
-  {
-   "name": "🚆资源小站",
-   "server": "https://pan.142856.xyz",
-   "type": "alist"
-  },
-  {
-   "name": "🌤晴园的宝藏库",
-   "server": "https://alist.52qy.repl.co",
-   "type": "alist"
-  },
-  {
-   "name": "💂小兵组网盘影视",
-   "server": "https://6vv.app",
-   "type": "alist"
-  },
-  {
-   "name": "🥼帅盘",
-   "server": "https://hi.shuaipeng.wang",
-   "type": "alist"
-  },
-  {
-   "name": "🐉神族九帝",
-   "server": "https://alist.shenzjd.com",
-   "type": "alist"
-  },
-  {
-   "name": "☃姬路白雪",
-   "server": "https://pan.jlbx.xyz",
-   "type": "alist"
-  },
-  {
-   "name": "💾DISK",
-   "server": "http://124.222.140.243:8080",
-   "type": "alist"
-  },
-  {
-   "name": "✨星梦",
-   "server": "https://pan.bashroot.top",
-   "type": "alist"
-  },
-  {
-   "name": "💫触光",
-   "server": "https://pan.ichuguang.com",
-   "type": "alist"
-  },
-  {
-   "name": "🕵好汉吧",
-   "server": "https://8023.haohanba.cn",
-   "type": "alist"
-  },
-  {
-   "name": "🎡资源小站",
-   "server": "https://960303.xyz/",
-   "type": "alist"
-  },
-  {
-   "name": "🎢轻弹浅唱",
-   "server": "https://g.xiang.lol",
-   "type": "alist"
-  }
+  {"name": "Alist","server": "http://192.168.1.8:5244","type": "alist"},
+  {"name": "小雅的盘（已分类）","server": "http://43.139.29.179:5245","type": "alist"},
+  {"name": "纪录片","server": "https://al.chirmyram.com/mov/纪录片","type": "alist"},
+  {"name": "🌊七米蓝","server": "https://al.chirmyram.com","type": "alist"},
+  {"name": "🌊小江","server": "https://dyj.me","type": "alist"},
+  {"name": "🐋一只鱼","server": "https://alist.youte.ml","type": "alist"},
+  {"name": "🅰️AR7资源","server": "https://alist.arhomenet.tk","type": "alist"},
+  {"name": "🚆资源小站","server": "https://pan.142856.xyz","type": "alist"},
+  {"name": "🌤晴园的宝藏库","server": "https://alist.52qy.repl.co","type": "alist"},
+  {"name": "💂小兵组网盘影视","server": "https://6vv.app","type": "alist"},
+  {"name": "🥼帅盘","server": "https://hi.shuaipeng.wang","type": "alist"},
+  {"name": "🐉神族九帝","server": "https://alist.shenzjd.com","type": "alist"},
+  {"name": "☃姬路白雪","server": "https://pan.jlbx.xyz","type": "alist"},
+  {"name": "💾DISK","server": "http://124.222.140.243:8080","type": "alist"},
+  {"name": "✨星梦","server": "https://pan.bashroot.top","type": "alist"},
+  {"name": "💫触光","server": "https://pan.ichuguang.com","type": "alist"},
+  {"name": "🕵好汉吧","server": "https://8023.haohanba.cn","type": "alist"},
+  {"name": "🎡资源小站","server": "https://960303.xyz/","type": "alist"},
+  {"name": "🎢轻弹浅唱","server": "https://g.xiang.lol","type": "alist"}
  ],
 
 "sites":[
@@ -655,10 +579,10 @@
 {"key":"drjs_LIBVIO(DR)","name":"🎧Libvio(drpy2)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/libs/drpy2.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/LIBVIO.js"},
 
 #PY爬虫
-{"key":"py_libvio","name":"🃏Libvio","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
-{"key":"py_qie","name":"🃏QE体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
-{"key":"py_jrskbs","name":"🃏JRS直播","type":3,"api":"py_jrskbs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_jrskbs.py"},
-{"key":"py_freezb","name":"🃏体育直播","type":3,"api":"py_freezb","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_freezb.py"},
+{"key":"py_libvio","name":"🃏Libvio(PY)","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
+{"key":"py_qie","name":"🃏QE体育(PY)","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
+{"key":"py_jrskbs","name":"🃏JRS直播(PY)","type":3,"api":"py_jrskbs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_jrskbs.py"},
+{"key":"py_freezb","name":"🃏体育直播(PY)","type":3,"api":"py_freezb","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_freezb.py"},
 {"key":"py_lezhu","name":"🃏乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_lezhu.py"},
 {"key":"py_star","name":"🃏星光影视(PY)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_star.py"},
 {"key":"py_cup","name":"🃏茶杯狐(PY)","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_cup.py"},

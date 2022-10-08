@@ -553,10 +553,10 @@
 {"key":"drjs_LIBVIO(DR)","name":"🎧Libvio(drpy2)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/libs/drpy2.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/LIBVIO.js"},
 
 #PY爬虫
-{"key":"py_libvio","name":"🃏Libvio","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Py/py_libvio.py"},
-{"key":"py_qie","name":"🃏QE体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_qie.py"},
-{"key":"py_jrskbs","name":"🃏JRS直播","type":3,"api":"py_jrskbs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_jrskbs.py"},
-{"key":"py_freezb","name":"🃏体育直播","type":3,"api":"py_freezb","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_freezb.py"},
+{"key":"py_libvio","name":"🃏Libvio","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
+{"key":"py_qie","name":"🃏QE体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
+{"key":"py_jrskbs","name":"🃏JRS直播","type":3,"api":"py_jrskbs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_jrskbs.py"},
+{"key":"py_freezb","name":"🃏体育直播","type":3,"api":"py_freezb","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_freezb.py"},
 {"key":"py_lezhu","name":"🃏乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_lezhu.py"},
 {"key":"py_star","name":"🃏星光影视(PY)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_star.py"},
 {"key":"py_cup","name":"🃏茶杯狐(PY)","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_cup.py"},

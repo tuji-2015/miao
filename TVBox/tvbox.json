@@ -578,6 +578,7 @@
 {"key":"drjs_LIBVIO(DR)","name":"🎧Libvio(drpy2)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/libs/drpy2.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/LIBVIO.js"},
 
 #PY爬虫
+{"key":"py_yixi","name":"🐦一席","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},
 {"key":"py_libvio","name":"🃏Libvio(PY)","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
 {"key":"py_qie","name":"🃏QE体育(PY)","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
 {"key":"py_jrskbs","name":"🃏JRS直播(PY)","type":3,"api":"py_jrskbs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_jrskbs.py"},

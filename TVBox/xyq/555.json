@@ -4,7 +4,7 @@
     "UserAgent":"",
     "homeContent":"1",
     "firstpage": "1",
-    "class_url": "https://www.555yy1.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "class_url": "https://www.555yy2.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
    "class_name": "电影&电视剧&动漫&综艺&福利&热门电视剧&港台剧&日韩剧&欧美剧",
     "class_value": "1&2&4&3&124&13&15&44&45",
    
@@ -17,9 +17,9 @@
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "module-item-note\">&&<",
     "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://www.555yy1.com",
+    "cat_prefix": "https://www.555yy2.com",
     "cat_suffix": "",
-    "search_url": "https://www.555yy1.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://www.555yy2.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
@@ -33,7 +33,7 @@
     "sea_pic": "",
     "sea_title": "",
     "sea_url": "",
-    "search_prefix": "https://www.555yy1.com/voddetail/",
+    "search_prefix": "https://www.555yy2.com/voddetail/",
     "search_suffix": ".html",
     "sea_subtitle": "",
     "force_play": "0",
@@ -60,7 +60,7 @@
     "epi_arr_suf": "/a>",
     "epi_title": "<span>&&<",
     "epi_url": "href=\"&&\"",
-    "epiurl_prefix": "https://www.555yy1.com",
+    "epiurl_prefix": "https://www.555yy2.com",
     "epiurl_suffix": "",    
     
      "filterdata":{

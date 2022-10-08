@@ -1,11 +1,10 @@
-import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/es6py.js';
+// import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/es6py.js';
 // import {是否正版,urlDeal,setResult,setResult2,setHomeResult,maoss,urlencode} from 'http://192.168.10.103:5705/libs/es6py.js';
-// import 'http://192.168.10.103:5705/libs/es6py.js';
+// import 'http://192.168.1.124:5705/libs/es6py.js';
+
 import cheerio from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/cheerio.min.js';
 // import cheerio from 'http://192.168.10.103:5705/libs/cheerio.min.js';
 
-// import {parseTags,urljoin,stringify} from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/parseTags.js';
-// import {parseTags,urljoin,stringify} from 'http://192.168.10.103:5705/libs/parseTags.js';
 import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drT.js';
 // import 'http://192.168.10.103:5705/libs/drT.js';
 import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
@@ -13,7 +12,7 @@ import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.
 
 
 // const key = 'drpy_zbk';
-
+// eval(req('http://192.168.1.124:5705/libs/es6py.js').content);
 function init_test(){
     console.log("init_test_start");
     console.log(RKEY);
@@ -31,10 +30,18 @@ function init_test(){
 let rule = {};
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染
+ * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来
  * 2.import es6py.js但是里面的函数没有被装载进来.比如drpy规则报错setResult2 is undefiend
  * 3.无法重复导入cheerio(怎么解决drpy和parseTag里都需要导入cheerio的问题) 无法在副文件导入cheerio (现在是全部放在drpy一个文件里了,凑合解决?)
  * 4.有个错误不知道哪儿来的 executeScript: com.quickjs.JSObject$Undefined cannot be cast to java.lang.String 在 点击选集播放打印init_test_end后面打印
+ * 5.需要实现 stringify 函数,比起JSON.stringify函数,它会原封不动保留中文不会编码unicode
  * todo:  jsp:{pdfa,pdfh,pd},json:{pdfa,pdfh,pd},jq:{pdfa,pdfh,pd}
+ *  * 电脑看日志调试
+ adb tcpip 5555
+ adb connect 192.168.10.192
+ adb devices -l
+ adb logcat -c
+ adb logcat | grep -i QuickJS
  * **/
 
 
@@ -55,13 +62,12 @@ const OCR_API = 'http://cms.nokia.press/parse/ocr';//ocr在线识别接口
 if(typeof(MY_URL)==='undefined'){
     var MY_URL; // 全局注入变量,pd函数需要
 }
-var VODS = [];// 一级或者搜索需要的数据列表
-var vod = {};//二级用单个影片详情
 var RKEY; // 源的唯一标识
 var fetch;
 var print;
 var log;
-var fetch_params;
+var rule_fetch_params;
+var fetch_params; // 每个位置单独的
 var oheaders;
 var _pdfh;
 var _pdfa;
@@ -70,6 +76,260 @@ var _pd;
 const DOM_CHECK_ATTR = /(url|src|href|data-original|data-src)$/;
 const SELECT_REGEX = /:eq|:lt|:gt|#/g;
 const SELECT_REGEX_A = /:eq|:lt|:gt/g;
+
+/**
+es6py扩展
+ */
+if (typeof Object.assign != 'function') {
+    Object.assign = function () {
+        var target = arguments[0];
+        for (var i = 1; i < arguments.length; i++) {
+            var source = arguments[i];
+            for (var key in source) {
+                if (Object.prototype.hasOwnProperty.call(source, key)) {
+                    target[key] = source[key];
+                }
+            }
+        }
+        return target;
+    };
+}
+if (!String.prototype.includes) {
+    String.prototype.includes = function (search, start) {
+        if (typeof start !== 'number') {
+            start = 0;
+        }
+
+        if (start + search.length > this.length) {
+            return false;
+        } else {
+            return this.indexOf(search, start) !== -1;
+        }
+    };
+}
+
+if (!Array.prototype.includes) {
+    Object.defineProperty(Array.prototype, 'includes', {
+        value: function (searchElement, fromIndex) {
+
+            if (this == null) {//this是空或者未定义，抛出错误
+                throw new TypeError('"this" is null or not defined');
+            }
+
+            var o = Object(this);//将this转变成对象
+            var len = o.length >>> 0;//无符号右移0位，获取对象length属性，如果未定义就会变成0
+
+            if (len === 0) {//length为0直接返回false未找到目标值
+                return false;
+            }
+
+            var n = fromIndex | 0;//查找起始索引
+            var k = Math.max(n >= 0 ? n : len - Math.abs(n), 0);//计算正确起始索引，因为有可能是负值
+
+            while (k < len) {//从起始索引处开始循环
+                if (o[k] === searchElement) {//如果某一位置与寻找目标相等，返回true，找到了
+                    return true;
+                }
+                k++;
+            }
+            return false;//未找到，返回false
+        }
+    });
+}
+if (typeof String.prototype.startsWith != 'function') {
+    String.prototype.startsWith = function (prefix){
+        return this.slice(0, prefix.length) === prefix;
+    };
+}
+if (typeof String.prototype.endsWith != 'function') {
+    String.prototype.endsWith = function(suffix) {
+        return this.indexOf(suffix, this.length - suffix.length) !== -1;
+    };
+}
+Object.prototype.myValues=function(obj){
+    if(obj ==null) {
+        throw new TypeError("Cannot convert undefined or null to object");
+    }
+    var res=[]
+    for(var k in obj){
+        if(obj.hasOwnProperty(k)){//需判断是否是本身的属性
+            res.push(obj[k]);
+        }
+    }
+    return res;
+}
+if (typeof Object.prototype.values != 'function') {
+    Object.prototype.values=function(obj){
+        if(obj ==null) {
+            throw new TypeError("Cannot convert undefined or null to object");
+        }
+        var res=[]
+        for(var k in obj){
+            if(obj.hasOwnProperty(k)){//需判断是否是本身的属性
+                res.push(obj[k]);
+            }
+        }
+        return res;
+    }
+}
+if (typeof Array.prototype.join != 'function') {
+    Array.prototype.join = function (emoji) {
+        // emoji = emoji||',';
+        emoji = emoji||'';
+        let self = this;
+        let str = "";
+        let i = 0;
+        if (!Array.isArray(self)) {throw String(self)+'is not Array'}
+        if(self.length===0){return ''}
+        if (self.length === 1){return String(self[0])}
+        i = 1;
+        str = this[0];
+        for (; i < self.length; i++) {
+            str += String(emoji)+String(self[i]);
+        }
+        return str;
+    };
+}
+
+String.prototype.rstrip = function (chars) {
+    let regex = new RegExp(chars + "$");
+    return this.replace(regex, "");
+};
+
+Array.prototype.append = Array.prototype.push;
+String.prototype.strip = String.prototype.trim;
+function 是否正版(vipUrl){
+    let flag = new RegExp('qq\.com|iqiyi\.com|youku\.com|mgtv\.com|bilibili\.com|sohu\.com|ixigua\.com|pptv\.com|miguvideo\.com|le\.com|1905\.com|fun\.tv');
+    return  flag.test(vipUrl);
+}
+function urlDeal(vipUrl){
+    if(!vipUrl){
+        return ''
+    }
+    if(!是否正版(vipUrl)){
+        return vipUrl
+    }
+    if(!/miguvideo/.test(vipUrl)){
+        vipUrl=vipUrl.split('#')[0].split('?')[0];
+    }
+    return vipUrl
+}
+function setResult(d){
+    if(!Array.isArray(d)){
+        return []
+    }
+    VODS = [];
+    // print(d);
+    d.forEach(function (it){
+        let obj = {
+            vod_id:it.url||'',
+            vod_name: it.title||'',
+            vod_remarks: it.desc||'',
+            vod_content: it.content||'',
+            vod_pic: it.pic_url||it.img||'',
+        };
+        let keys = Object.keys(it);
+        if(keys.includes('tname')){
+            obj.type_name = it.tname||'';
+        }
+        if(keys.includes('tid')){
+            obj.type_id = it.tid||'';
+        }
+        if(keys.includes('year')){
+            obj.vod_year = it.year||'';
+        }
+        if(keys.includes('actor')){
+            obj.vod_actor = it.actor||'';
+        }
+        if(keys.includes('director')){
+            obj.vod_director = it.director||'';
+        }
+        if(keys.includes('area')){
+            obj.vod_area = it.area||'';
+        }
+        VODS.push(obj);
+    });
+    return VODS
+}
+function setResult2(res){
+    VODS = res.list||[];
+    return VODS
+}
+function setHomeResult(res){
+    if(!res||typeof(res)!=='object'){
+        return []
+    }
+    return setResult(res.list);
+}
+// 千万不要用for in 推荐 forEach (for in 会打乱顺序)
+//猫函数
+function maoss(jxurl, ref, key) {
+    eval(getCryptoJS());
+    try {
+        var getVideoInfo = function (text) {
+            return CryptoJS.AES.decrypt(text, key, {iv: iv, padding: CryptoJS.pad.Pkcs7}).toString(CryptoJS.enc.Utf8);
+        };
+        var token_key = key == undefined ? 'dvyYRQlnPRCMdQSe' : key;
+        if (ref) {
+            var html = request(jxurl, {
+                headers: {
+                    'Referer': ref
+                }
+            });
+        } else {
+            var html = request(jxurl);
+        }
+        // print(html);
+        if (html.indexOf('&btwaf=') != -1) {
+            html = request(jxurl + '&btwaf' + html.match(/&btwaf(.*?)"/)[1], {
+                headers: {
+                    'Referer': ref
+                }
+            })
+        }
+        var token_iv = html.split('_token = "')[1].split('"')[0];
+        var key = CryptoJS.enc.Utf8.parse(token_key);
+        var iv = CryptoJS.enc.Utf8.parse(token_iv);
+        // log("iv:"+iv);
+        //  log(html);
+        // print(key);
+        // print(iv);
+        eval(html.match(/var config = {[\s\S]*?}/)[0] + '');
+        // config.url = config.url.replace(/,/g,'');
+        // print(config.url);
+        if (!config.url.startsWith('http')) {
+            //config.url = decodeURIComponent(AES(config.url, key, iv));
+            config.url = CryptoJS.AES.decrypt(config.url, key, {
+                iv: iv,
+                padding: CryptoJS.pad.Pkcs7
+            }).toString(CryptoJS.enc.Utf8)
+        }
+        return config.url;
+    } catch (e) {
+        return '';
+    }
+}
+
+function urlencode (str) {
+    str = (str + '').toString();
+    return encodeURIComponent(str).replace(/!/g, '%21').replace(/'/g, '%27').replace(/\(/g, '%28').
+    replace(/\)/g, '%29').replace(/\*/g, '%2A').replace(/%20/g, '+');
+}
+
+function base64Encode(text){
+    return text
+}
+
+function base64Decode(text){
+    return text
+}
+
+globalThis.VODS = [];// 一级或者搜索需要的数据列表
+globalThis.VOD = {};// 二级的单个数据
+globalThis.encodeUrl = urlencode;
+globalThis.urlencode = urlencode;
+
+
 
 /**
  *  url拼接
@@ -103,7 +363,7 @@ function urljoin(fromPath, nowPath) {
     //     return fromPath+nowPath
     // }
 }
-
+var urljoin2 = urljoin;
 /**
  * 重写pd方法-增加自动urljoin(没法重写,改个名继续骗)
  * @param html
@@ -457,12 +717,19 @@ function require(url){
  */
 function request(url,obj){
     if(typeof(obj)==='undefined'||!obj||obj==={}){
-        obj = {
-            headers:{
+        if(!fetch_params||!fetch_params.headers){
+            let headers = {
                 'User-Agent':MOBILE_UA,
-                'Referer':getHome(url),
+            };
+            if(rule.headers){
+                Object.assign(headers,rule.headers);
             }
+            fetch_params.headers = headers;
         }
+        if(!fetch_params.headers.Referer){
+            fetch_params.headers.Referer = getHome(url)
+        }
+        obj = fetch_params;
     }else{
         let headers = obj.headers||{};
         let keys = Object.keys(headers).map(it=>it.toLowerCase());
@@ -489,8 +756,10 @@ function request(url,obj){
         obj.buffer = 2;
         delete obj.toBase64
     }
+    console.log('request:'+url);
     let res = req(url, obj);
     let html = res.content||'';
+    // console.log(html);
     if(obj.withHeaders){
         let htmlWithHeaders = res.headers;
         htmlWithHeaders.body = html;
@@ -569,6 +838,7 @@ function getHtml(url){
  * @returns {string}
  */
 function homeParse(homeObj) {
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let classes = [];
     if (homeObj.class_name && homeObj.class_url) {
         let names = homeObj.class_name.split('&');
@@ -618,6 +888,8 @@ function homeParse(homeObj) {
 
         }
     }
+    // 排除分类
+    classes = classes.filter(it=>!homeObj.cate_exclude || !(new RegExp(homeObj.cate_exclude).test(it.type_name)));
     let resp = {
         'class': classes
     };
@@ -635,6 +907,7 @@ function homeParse(homeObj) {
  * @returns {string}
  */
 function homeVodParse(homeVodObj){
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let d = [];
     MY_URL = homeVodObj.homeUrl;
     // setItem('MY_URL',MY_URL);
@@ -758,6 +1031,7 @@ function homeVodParse(homeVodObj){
  * @returns {string}
  */
 function categoryParse(cateObj) {
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let p = cateObj.一级;
     if(!p||typeof(p)!=='string'){
         return '{}'
@@ -803,13 +1077,13 @@ function categoryParse(cateObj) {
     // setItem('MY_URL',MY_URL);
     console.log(MY_URL);
     p = p.trim();
+    const MY_CATE = cateObj.tid;
     if(p.startsWith('js:')){
-        const MY_CATE = cateObj.tid;
-        const cateID = cateObj.tid;
-        const MY_FL = cateObj.extend;
+        var MY_FL = cateObj.extend;
         const TYPE = 'cate';
         var input = MY_URL;
         const MY_PAGE = cateObj.pg;
+        var desc = '';
         eval(p.trim().replace('js:',''));
         d = VODS;
     }else {
@@ -831,8 +1105,13 @@ function categoryParse(cateObj) {
                 }
                 let list = _pdfa(html, p[0]);
                 list.forEach(it => {
+                    let links = p[4].split('+').map(p4=>{
+                        return !rule.detailUrl?_pd(it, p4,MY_URL):_pdfh(it, p4);
+                    });
+                    let link = links.join('$');
+                    let vod_id = rule.detailUrl?MY_CATE+'$'+link:link;
                     d.push({
-                        'vod_id': _pd(it, p[4],MY_URL),
+                        'vod_id': vod_id,
                         'vod_name': _pdfh(it, p[1]).replace(/\n|\t/g,'').trim(),
                         'vod_pic': _pd(it, p[2],MY_URL),
                         'vod_remarks': _pdfh(it, p[3]).replace(/\n|\t/g,'').trim(),
@@ -843,7 +1122,7 @@ function categoryParse(cateObj) {
             console.log(e.message);
         }
     }
-
+    // print(d);
     return d.length<1?'{}':JSON.stringify({
         'page': parseInt(cateObj.pg),
         'pagecount': 999,
@@ -859,6 +1138,7 @@ function categoryParse(cateObj) {
  * @returns {string}
  */
 function searchParse(searchObj) {
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let d = [];
     if(!searchObj.searchUrl){
         return '{}'
@@ -914,8 +1194,13 @@ function searchParse(searchObj) {
                 }
                 let list = _pdfa(html, p[0]);
                 list.forEach(it => {
+                    let links = p[4].split('+').map(p4=>{
+                        return !rule.detailUrl?_pd(it, p4,MY_URL):_pdfh(it, p4)
+                    });
+
+                    let link = links.join('$');
                     let ob = {
-                        'vod_id': _pd(it, p[4],MY_URL),
+                        'vod_id': link,
                         'vod_name': _pdfh(it, p[1]).replace(/\n|\t/g,'').trim(),
                         'vod_pic': _pd(it, p[2],MY_URL),
                         'vod_remarks': _pdfh(it, p[3]).replace(/\n|\t/g,'').trim(),
@@ -930,14 +1215,15 @@ function searchParse(searchObj) {
         } catch (e) {
             return '{}'
         }
-        return JSON.stringify({
-            'page': parseInt(searchObj.pg),
-            'pagecount': 10,
-            'limit': 20,
-            'total': 100,
-            'list': d,
-        });
+
     }
+    return JSON.stringify({
+        'page': parseInt(searchObj.pg),
+        'pagecount': 10,
+        'limit': 20,
+        'total': 100,
+        'list': d,
+    });
 }
 
 /**
@@ -946,6 +1232,7 @@ function searchParse(searchObj) {
  * @returns {string}
  */
 function detailParse(detailObj){
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let vod = {
         vod_id: "id",
         vod_name: "片名",
@@ -977,6 +1264,8 @@ function detailParse(detailObj){
         const TYPE = 'detail';
         var input = MY_URL;
         eval(p.trim().replace('js:',''));
+        vod = VOD;
+        console.log(JSON.stringify(vod));
     }else if(p&&typeof(p)==='object'){
         if(!html){
             html = getHtml(MY_URL);
@@ -1090,7 +1379,7 @@ function detailParse(detailObj){
         }
         vod.vod_play_url = vod_tab_list.join(vod_play_url);
     }
-    console.log(JSON.stringify(vod));
+    // print(vod);
     return JSON.stringify({
         list: [vod]
     })
@@ -1102,24 +1391,34 @@ function detailParse(detailObj){
  * @returns {string}
  */
 function playParse(playObj){
+    fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     MY_URL = playObj.url;
-    var input = MY_URL;
+    if(!/http/.test(MY_URL)){
+        try {
+            MY_URL = base64Decode(MY_URL);
+        }catch (e) {}
+    }
+    MY_URL = decodeURIComponent(MY_URL);
+    var input = MY_URL;//注入给免嗅js
     let common_play = {
         parse:1,
-        url:MY_URL
+        url:input
     };
     let lazy_play;
     if(!rule.play_parse||!rule.lazy){
         lazy_play =  common_play;
     }else if(rule.play_parse&&rule.lazy&&typeof(rule.lazy)==='string'){
         try {
-            eval(rule.lazy.replace('js:').trim());
+            let lazy_code = rule.lazy.replace('js:','').trim();
+            print('开始执行js免嗅=>'+lazy_code);
+            eval(lazy_code);
             lazy_play = typeof(input) === 'object'?input:{
                 parse:1,
                 jx:1,
                 url:input
             };
         }catch (e) {
+            print('js免嗅错误:'+e.message);
             lazy_play =  common_play;
         }
     }else{
@@ -1163,7 +1462,10 @@ function playParse(playObj){
         rule.url = rule.url||'';
         rule.double = rule.double||false;
         rule.homeUrl = rule.homeUrl||'';
+        rule.detailUrl = rule.detailUrl||'';
         rule.searchUrl = rule.searchUrl||'';
+        rule.homeUrl = rule.host&&rule.homeUrl?urljoin(rule.host,rule.homeUrl):(rule.homeUrl||rule.host);
+        rule.detailUrl = rule.host&&rule.detailUrl?urljoin(rule.host,rule.detailUrl):rule.detailUrl;
         rule.timeout = rule.timeout||5000;
         rule.encoding = rule.编码||rule.encoding||'utf-8';
         if(rule.headers && typeof(rule.headers) === 'object'){
@@ -1182,7 +1484,8 @@ function playParse(playObj){
                 console.log('处理headers发生错误:'+e.message);
             }
         }
-        fetch_params  = {'headers': rule.headers||{}, 'timeout': rule.timeout, 'encoding': rule.encoding};
+        // print(rule.headers);
+        rule_fetch_params  = {'headers': rule.headers||false, 'timeout': rule.timeout, 'encoding': rule.encoding};
         oheaders = rule.headers||{};
         RKEY = typeof(key)!=='undefined'&&key?key:'drpy_' + (rule.title || rule.host);
         init_test();
@@ -1215,13 +1518,11 @@ function home(filter) {
  * @returns {string}
  */
 function homeVod(params) {
-    let homeUrl = rule.host&&rule.homeUrl?urljoin(rule.host,rule.homeUrl):(rule.homeUrl||rule.host);
-    let detailUrl = rule.host&&rule.detailUrl?urljoin(rule.host,rule.detailUrl):rule.detailUrl;
     let homeVodObj = {
         推荐:rule.推荐,
         double:rule.double,
-        homeUrl:homeUrl,
-        detailUrl:detailUrl
+        homeUrl:rule.homeUrl,
+        detailUrl:rule.detailUrl
     };
     return homeVodParse(homeVodObj)
     // return "{}";
@@ -1262,8 +1563,6 @@ function detail(vod_url) {
     }
     let detailUrl = vod_url;
     let url;
-    rule.homeUrl = urljoin(rule.host,rule.homeUrl);
-    rule.detailUrl = urljoin(rule.host,rule.detailUrl);
     if(!detailUrl.startsWith('http')&&!detailUrl.includes('/')){
         url = rule.detailUrl.replaceAll('fyid', detailUrl).replaceAll('fyclass',fyclass);
     }else if(detailUrl.includes('/')){

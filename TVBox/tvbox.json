@@ -322,6 +322,11 @@
 {"key":"csp_xBPQ_电影先生","name":"️🧀电影先生(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/电影先生.json"},
 {"key":"csp_xBPQ_七小时影院","name":"🧀七小时影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/七小时影院.json"},
 {"key":"csp_xBPQ_动视影视","name":"🧀动视影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/动视影视.json"},
+{"key":"csp_xBPQ_抓饭体育","name":"🧀抓饭体育 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/抓饭体育.json"},
+{"key":"csp_xBPQ_万能影视","name":"🧀万能影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/wanneng.json"},
+{"key":"csp_xBPQ_鸭奈飞","name":"🧀鸭奈飞 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/yanet.json"},
+{"key":"csp_xBPQ_奈落影院","name":"🧀奈落影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/nlyy.json"},
+{"key":"csp_xBPQ_在线影视","name":"🧀在线影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/zaixiandianying8.json"},
 
 #Xpath系列
 {"key":"csp_xpath_F7","name":"📕F7好看剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/F7好看剧.json"},

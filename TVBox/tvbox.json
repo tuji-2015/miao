@@ -146,6 +146,7 @@
 {"key":"csp_biubiu_打驴动漫","name":"🍀打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/打驴动漫2.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🎸维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js"},
 {"key":"dr_drpy","name":"🔗drpy(搜索)","type":1,"api":"http://cms.nokia.press/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_drpy2","name":"🔗drpy2(搜索)","type":1,"api":"http://43.200.99.92:52180/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 
 #优质站点3
 {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/yinfans.json"},
@@ -208,6 +209,7 @@
 {"key":"csp_xbu_影视工场","name":"📼影视工场(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_钉子电影","name":"📼钉子电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dingzidy.wang/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_黑洞影视","name":"📼黑洞影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbu_1080ys","name":"📼1080影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodtype/2/id/{cateId}.html"},
 
 #XYQB系列
 {"key":"csp_XYQBiu_动视影视","name":"📹动视影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/动视影视.json"},

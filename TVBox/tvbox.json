@@ -238,7 +238,6 @@
 {"key":"dr_百忙无果","name":"🔗百忙无果(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=百忙无果","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_腾云驾雾","name":"🔗腾云驾雾(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=腾云驾雾","searchable":2,"quickSearch":0,"filterable":1},
 {"key":"dr_酷云77","name":"🔗酷云77(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=酷云77","searchable":2,"quickSearch":0,"filterable":1},
-{"key":"dr_猫了个咪","name":"🔗猫了个咪(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=猫了个咪","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_凌云影视","name":"🔗凌云影视(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=凌云影视","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_影视工厂","name":"🔗影视工厂(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_LIBVIO","name":"🔗LIBVIO(道长)","type":1,"api":"http://43.200.99.92:52180/vod?rule=LIBVIO","searchable":2,"quickSearch":0,"filterable":0},

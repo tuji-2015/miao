@@ -145,7 +145,7 @@
 {"key":"csp_biubiu_风车动漫","name":"🌀风车动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d05-fcdm.js"},
 {"key":"csp_biubiu_打驴动漫","name":"🍀打驴动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/打驴动漫2.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🎸维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js"},
-{"key":"dr_drpy","name":"🔗drpy(搜索)","type":1,"api":"http://43.139.29.179:5705/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_drpy","name":"🔗drpy(搜索)","type":1,"api":"http://cms.nokia.press/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 
 #优质站点3
 {"key":"csp_xpath_音范丝磁力","name":"🎤音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/yinfans.json"},

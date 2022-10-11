@@ -6,8 +6,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
 
 "drives": [
-  {"name": "🔮Alist","server": "http://192.168.1.8:5244","type": "alist"},
-  {"name": "🥗小雅的盘（已分类）","server": "http://43.139.29.179:5245","type": "alist"},
+  {"name": "🔮米奇妙妙屋","server": "http://https://anime.mqmmw.ga","type": "alist"},
+  {"name": "🥗小雅的盘","server": "http://101.34.67.237:5244","type": "alist"},
   {"name": "📀纪录片","server": "https://al.chirmyram.com/mov/纪录片","type": "alist"},
   {"name": "🌊七米蓝","server": "https://al.chirmyram.com","type": "alist"},
   {"name": "🌊小江","server": "https://dyj.me","type": "alist"},
@@ -24,7 +24,8 @@
   {"name": "💫触光","server": "https://pan.ichuguang.com","type": "alist"},
   {"name": "🕵好汉吧","server": "https://8023.haohanba.cn","type": "alist"},
   {"name": "🎡资源小站","server": "https://960303.xyz/","type": "alist"},
-  {"name": "🎢轻弹浅唱","server": "https://g.xiang.lol","type": "alist"}
+  {"name": "🎢轻弹浅唱","server": "https://g.xiang.lol","type": "alist"},
+  {"name": "🦀9T","server": "https://drive.9t.ee","type": "alist"}
  ],
 
 "sites":[

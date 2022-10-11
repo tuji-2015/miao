@@ -200,6 +200,7 @@
 {"key":"csp_xbu_极品影视","name":"📼极品影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_片吧影视","name":"📼片吧影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.pbpb.tv/class/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_达达龟影视","name":"📼达达龟影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_olevod ","name":"📼欧乐影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.olevod.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_135看看","name":"📼135看看(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/"},
 {"key":"csp_xbu_鸭奈飞影视","name":"📼鸭奈飞影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://netflix.mom/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_电影迷8","name":"📼电影迷8(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dym8.com/vod/type/{cateId}-{catePg}.html"},
@@ -284,6 +285,7 @@
 {"key":"csp_xBPQ_鸭奈飞","name":"🧀鸭奈飞(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/yanet.json"},
 {"key":"csp_xBPQ_奈落影院","name":"🧀奈落影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/nlyy.json"},
 {"key":"csp_xBPQ_在线影视","name":"🧀在线影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/zaixiandianying8.json"},
+{"key":"csp_xBPQ_锐行影院","name":" 🧀锐行影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/ruixingjs.json"},
 
 #PY爬虫
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},

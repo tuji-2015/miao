@@ -870,20 +870,7 @@
 {"key":"胖猫影视","name":"🎬胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海外电影","name":"🎬海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
-"sniffer": {
-  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27",
-  "isVideoFormat": "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",
-  "custom": [
-   {
-    "url": "/Cloud/Down/AliCloud/",
-    "mimeType": "text/html",
-    "encoding": "utf-8",
-    "header": {
-    "Referer": "https://zxzj.vip/"
-    }
-   }
-  ]
-},
+
 "parses":[
 {"name":"聚合","type":3,"url":"Demo","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"Json并发","type":2,"url":"Parallel","header":{"User-Agent":"Mozilla/5.0"}},

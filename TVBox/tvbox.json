@@ -211,6 +211,7 @@
 {"key":"csp_xbu_钉子电影","name":"📼钉子电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dingzidy.wang/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_黑洞影视","name":"📼黑洞影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_1080ys","name":"📼1080影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodtype/2/id/{cateId}.html"},
+{"key":"csp_xb_23wm","name":"📼23影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html"},
 
 #XYQB系列
 {"key":"csp_XYQBiu_动视影视","name":"📹动视影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/动视影视.json"},

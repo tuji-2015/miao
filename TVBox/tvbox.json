@@ -230,6 +230,7 @@
 {"key":"csp_XYQBiu_氢视频","name":"📹氢视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/氢视频.json"},
 {"key":"csp_XYQBiu_voflix","name":"📹Voflix(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/voflix.json"},
 {"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},
+{"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/23ys.json},
 
 #XBPQ系列
 {"key":"csp_xBPQ_爱看影视","name":"🧀爱看影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/aikanxbpq.json"},  

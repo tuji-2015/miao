@@ -1,5 +1,5 @@
 {
-"spider":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/1008.jar",
+"spider":"https://gitcode.net/weixin_42268138/tlink/-/raw/master/1008.jar?inline=false",
   
 "wallpaper":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/purple.jpg",
 
@@ -408,6 +408,7 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"}, 
 
 #DRPY本地JS系列
+{"key":"drjs_麦豆","name": "🎧麦豆(drpy)","type": 3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/麦豆.js"},
 {"key":"drjs_秋霞","name": "🎧秋霞(drpy)","type": 3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/秋霞.js"},
 {"key":"drjs_ddys","name": "🎧低端影视(drpy)","type": 3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/ddys.js"},
 {"key":"drjs_蓝光影院","name":"🎧蓝光影院(drpy)","type": 3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/蓝光影院.js"},
@@ -453,6 +454,7 @@
 {"key":"drjs_真不卡","name":"🎧真不卡(drpy)","type": 3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/真不卡.js"},
 
 #SD-JS系列
+{"key":"sdjs_麦豆","name": "🍼麦豆(drpy)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/ShadowDemonJS/main/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/麦豆.js"},
 {"key":"sdjs_秋霞","name": "🍼秋霞(drpy)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/ShadowDemonJS/main/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/秋霞.js"},
 {"key":"sdjs_ddys","name": "🍼低端影视(drpy)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/ShadowDemonJS/main/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/ddys.js"},
 {"key":"sdjs_蓝光影院","name":"🍼蓝光影院(drpy)","type": 3,"api":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/ShadowDemonJS/main/drpy.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/蓝光影院.js"},
@@ -559,6 +561,7 @@
 {"key":"dr_胖虎影视","name":"🔗胖虎影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=胖虎影视&ext=txt/js/tg/胖虎影视.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_秋霞","name": "🔗秋霞(道长)","type": 1,"api": "http://3.37.195.161:54371/vod?rule=秋霞","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key":"dr_ddys","name": "🔗低端影视(道长)","type": 1,"api": "http://3.37.195.161:54371/vod?rule=ddys","searchable": 2,"quickSearch": 0,"filterable": 0},
+{"key":"dr_麦豆","name": "🔗麦豆(道长)","type": 1,"api": "http://3.37.195.161:54371/vod?rule=麦豆","searchable": 2,"quickSearch": 0,"filterable": 0},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
 #萝卜/白菜/木白/绿豆

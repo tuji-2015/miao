@@ -162,7 +162,7 @@
 {"key":"csp_xpath_135kan","name":"🌐135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/135kan.json"},
 {"key":"csp_xpath_xfeiji","name":"🎺小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/xfeiji.json"},
 {"key":"csp_xpath_dianyingn","name":"🐮电影牛(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/dianyingn.json"},
-{"key":"drpy_js_69美剧","name":"🎧69美剧(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/drpy.js"},
+{"key":"drpy_dddd","name":"🎧DRPY搜索(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/drpy.js"},
 
 #XYQHiker系列
 {"key":"csp_XYQBiu_23影视","name":"🎹23影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/23影视.json"},
@@ -500,7 +500,7 @@
 {"key":"dr_瓜皮TV","name":"🔗瓜皮TV(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=瓜皮TV","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_007影视","name":"🔗007影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=007影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_万能影视","name":"🔗万能影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=万能影视","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"drpy_zbk","name":"🔗真不卡(道长)","type":3,"api":"js_drpy_zbk","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://3.37.195.161:54371/txt/pluto/drpy.js"},
+{"key":"drpy_zbk","name":"🔗真不卡(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=真不卡","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_MXONE","name":"🔗MXONE(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=MXONE&ext=txt/js/tg/MXONE.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_Nike影视","name":"🔗Nike影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_TV云播","name":"🔗TV云播(道长)","type":1,"api":"http://101.34.67.237:5705/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},

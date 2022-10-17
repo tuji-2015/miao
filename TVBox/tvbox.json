@@ -76,6 +76,7 @@
 {"key":"csp_zxzj","name":"✌在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianying","name":"✂️简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
+
 #官站资源
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -165,16 +166,17 @@
 {"key":"drpy_dddd","name":"🎧豆瓣(drpy)","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/js/drpy.js"},
 
 #XYQHiker系列
-{"key":"csp_XYQBiu_23影视","name":"🎹23影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/23影视.json"},
-{"key":"csp_XYQBiu_90影视网","name":"🎹90影视网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/90影视网.json"},
-{"key":"csp_XYQBiu_RP影视","name":"🎹RP影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/RP影视.json"},
-{"key":"csp_XYQBiu_101电影","name":"🎹101电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/l0l影院.json"},
-{"key":"csp_XYQBiu_秋霞电影","name":"🎹秋霞电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/秋霞电影.json"},
-{"key":"csp_XYQBiu_魔戒影视","name":"🎹魔戒影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/魔戒影视.json"},
+{"key":"csp_XYQHiker_23影视","name":"🎹23影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/23影视.json"},
+{"key":"csp_XYQHiker_90影视网","name":"🎹90影视网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/90影视网.json"},
+{"key":"csp_XYQHiker_RP影视","name":"🎹RP影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/RP影视.json"},
+{"key":"csp_XYQHiker_101电影","name":"🎹101电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/l0l影院.json"},
+{"key":"csp_XYQHiker_秋霞电影","name":"🎹秋霞电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/秋霞电影.json"},
+{"key":"csp_XYQHiker_魔戒影视","name":"🎹魔戒影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/魔戒影视.json"},
 {"key":"csp_XYQHiker_无插件直播(XYQ)","name":"🎹无插件直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/无插件直播.json"},
 {"key":"csy_XYQHiker","name":"🎹冷曦影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/lengxuYS.json"},
 {"key":"csp_XYQHiker","name":"🎹氢视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/qsp.json"},
 {"key":"csy_XYQHiker","name":"🎹子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/ZZYS.json"},
+
 #XBiu系列
 {"key":"csp_xbu_口袋影院","name":"📼口袋影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.koudaitv.com/type/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_在线之家","name":"📼在线之家(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zxzj.vip/vodshow/{cateId}--------{catePg}---.html"},

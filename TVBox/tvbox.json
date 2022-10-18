@@ -409,6 +409,8 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"}, 
 
 #DRPY本地JS系列
+{"key":"drjs_海兔影院","name":"🎧海兔影院(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/海兔影院.js"},
+{"key":"drjs_起飞影院","name":"🎧起飞影院(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/起飞影院.js"},
 {"key":"drjs_喵喵","name":"🎧喵喵(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/喵喵.js"},
 {"key":"drjs_vip影院","name":"🎧vip影院(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/vip影院.js"},
 {"key":"drjs_菜狗","name":"🎧菜狗(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"http://3.37.195.161:54371/admin/view/菜狗.js"},
@@ -492,6 +494,8 @@
 {"key":"drpy_js_AGE动漫","name":"🎧AGE动漫[DRPY]","type":3,"api":"https://gitcode.net/weixin_42268138/dr_py/-/raw/master/libs/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/AGE动漫.js"},
 
 #DRPY在线
+{"key":"dr_海兔影院","name":"🔗海兔影院(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=海兔影院","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"dr_起飞影院","name":"🔗起飞影院(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=起飞影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_喵喵","name":"🔗喵喵(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=喵喵","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_vip影院","name":"🔗vip影院(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=vip影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_菜狗","name":"🔗菜狗(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=菜狗","searchable":2,"quickSearch":0,"filterable":1},

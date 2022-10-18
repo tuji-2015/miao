@@ -510,7 +510,6 @@
 {"key":"dr_麦豆","name":"🔗麦豆(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=麦豆","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_影视工厂","name":"🔗影视工厂(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=影视工厂","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_LIBVIO","name":"🔗LIBVIO(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=LIBVIO","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_drpy","name":"🔗drpy(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_唐人街影视","name":"🔗唐人街影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=唐人街影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_KUBO影视","name":"🔗KUBO影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=KUBO影视","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_真不卡","name":"🔗真不卡(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=真不卡","searchable":2,"quickSearch":0,"filterable":0},

@@ -427,7 +427,6 @@
 {"key":"drjs_麦豆","name":"🎧麦豆(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/麦豆.js"},
 {"key":"drjs_影视工厂","name":"🎧影视工厂(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/影视工厂.js"},
 {"key":"drjs_LIBVIO","name":"🎧LIBVIO(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/LIBVIO.js"},
-{"key":"drjs_drpy","name":"🎧drpy(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://3.37.195.161:54371/admin/view/drpy.js"},
 {"key":"drjs_唐人街影视","name":"🎧唐人街影视(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/唐人街影视.js"},
 {"key":"drjs_KUBO影视","name":"🎧KUBO影视(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/KUBO影视.js"},
 {"key":"drjs_真不卡","name":"🎧真不卡(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/真不卡.js"},

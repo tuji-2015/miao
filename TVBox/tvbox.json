@@ -5,6 +5,13 @@
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
 
+"rules":[
+   {"host":"*","rule":["default.365yg.com"]},
+   {"host":"dyxs20.com","rule":[".m3u8"]},
+   {"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
+   {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]}
+],
+
 "drives": [
   {"name": "🔮米奇妙妙屋","server": "http://https://anime.mqmmw.ga","type": "alist"},
   {"name": "🥗小雅的盘","server": "http://101.34.67.237:5244","type": "alist"},

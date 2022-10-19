@@ -3,10 +3,10 @@
     "ua": "",
     "homeUrl": "https://www.dandanzan10.top/",
     "cateManual": {
-        "电影": "dianying"
-        //"电视剧": "dianshiju",
-        //"综艺": "zongyi",
-        //"动漫": "dongman"
+        "电影": "dianying",
+        "电视剧": "dianshiju",
+        "综艺": "zongyi",
+        "动漫": "dongman"
     },
     "homeVodNode": "//div[contains(@class,'lists')]/ul/li/a",
     "homeVodName": "/img/@alt",

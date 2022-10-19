@@ -65,13 +65,10 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(ijk播放器)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV(SP)","name":"👻剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"小宝影院","name":"⛄️小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"💿Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Nfyun","name":"🍷NF云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_DY1990","name":"📀1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"Ekan_spider","name":"👁️‍🗨️Ekan(SP)","type":3,"api": "csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"293视频","name":"🍋293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"spider_IKan","name":"✨爱看(ijk播放器)","type": 3,"api": "csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
@@ -82,7 +79,6 @@
 //{"key":"csp_Wmkk","name":"💧完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_zxzj","name":"✌在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Aidi","name":"❄️爱迪影视(SP)","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":1,"filterable":1},
 
 #官站资源
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},

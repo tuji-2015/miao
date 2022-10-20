@@ -1,7 +1,7 @@
 {
 "spider":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/1008.jar",
   
-"wallpaper":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/yellow2.jpg",
+"wallpaper":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/green2.jpg",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
 

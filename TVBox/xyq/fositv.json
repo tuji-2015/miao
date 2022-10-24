@@ -10,7 +10,7 @@
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
     "firstpage": "1",
     "homeContent": "1",
-    "class_url": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "class_url": "https://fositv.com/vod____show/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "class_name": "电视剧&电影&动漫&综艺&纪录片",
     "class_value": "2&1&4&3&5&",
     "filterdata": "",

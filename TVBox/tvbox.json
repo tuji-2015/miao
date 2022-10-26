@@ -171,11 +171,10 @@
 {"key":"csp_XYQHiker_魔戒影视","name":"🎹魔戒影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/魔戒影视.json"},
 {"key":"csy_XYQHiker","name":"🎹冷曦影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/lengxuYS.json"},
 {"key":"csy_XYQHiker","name":"🎹子子影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/ZZYS.json"},
-{"key":"kkdyPH","name":"🎹看看电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/kkdyPH.json"},
-{"key":"300PH","name":"🎹300影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"},
-{"key":"40PH","name":"🎹星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/40ybH.json"},
-{"key":"czsppPH","name":"🎹厂长资源(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/czsppPH.json"},
-{"key":"imaxwPH","name":"🎹imax影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/imaxwPH.json"},
+{"key":"csy_300PH","name":"🎹300影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/300PH.json"},
+{"key":"csy_40PH","name":"🎹星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/40ybH.json"},
+{"key":"csy_czsppPH","name":"🎹厂长资源(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/czsppPH.json"},
+{"key":"csy_imaxwPH","name":"🎹IMAX影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/1452635819/h/raw/branch/master/H/imaxwPH.json"},
 
 #XBiu系列
 {"key":"csp_xb_23ys","name":"📼23影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},

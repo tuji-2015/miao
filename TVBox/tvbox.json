@@ -221,12 +221,7 @@
 {"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/23ys.json"},
 
 #XBPQ系列
-{"key":"csp_xBPQ_爱看影视","name":"🧀爱看影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/aikanxbpq.json"},  
-{"key":"csp_xBPQ_诺讯影视","name":"🧀诺讯影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/nuoxunys.json"},  
-{"key":"csp_xBPQ_酷客影视","name":"🧀酷客影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/kukeys.json"},
 {"key":"csp_xBPQ_um影院","name":"🧀UM影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/UMyy.json"},  
-{"key":"csp_xf_cs","name":"️🧀FREEOK(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/FREEOK.json"},
-{"key":"csp_xBPQ_荐片","name":"🧀极品影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/jianpian.json"},
 {"key":"csp_xBPQ_素白白","name":"🧀素白白(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/subaibai.json"},
 {"key":"csp_XBPQ_极品影视","name":"🧀极品影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/极品影视.json"},
 {"key":"csp_XBPQ_黑洞影视","name":"🧀黑洞影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/黑洞影视.json"},   

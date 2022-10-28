@@ -67,7 +67,7 @@
 {"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/zjdr.jar"},
+{"key":"Zjdr","name":"🌐追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/zjdr.jar"},
 {"key":"Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/TT.jar"},
 {"key":"555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nianying","name":"🍲念影(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},

@@ -164,7 +164,6 @@
 {"key":"csp_biubiu_歪片星球","name":"歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/歪片星球.json"},
 
 #XYQHiker系列
-{"key":"csp_XYQHiker_NO视频","name":"🚧NO视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/NO视频.json"},
 {"key":"csp_XYQHiker_90影视网","name":"🚧90影视网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/90影视网.json"},
 {"key":"csp_XYQHiker_RP影视","name":"🚧RP影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/RP影视.json"},
 {"key":"csp_XYQHiker_101电影","name":"🚧101电影(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/l0l影院.json"},
@@ -207,6 +206,7 @@
 {"key":"csp_xbu_1080ys","name":"📼1080影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodtype/2/id/{cateId}.html"},
 
 #XYQB系列
+{"key":"csp_XYQBiu_NO视频","name":"📹NO视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/NO视频.json"},
 {"key":"csp_XYQBiu_wnys","name":"📹万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},
 {"key":"csp_XYQBiu_e9","name":"📹E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/e9视频.json"},
 {"key":"csp_XYQBiu_lyys","name":"📹凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/凌云影视.json"},

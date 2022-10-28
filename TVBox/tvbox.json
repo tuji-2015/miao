@@ -412,7 +412,6 @@
 {"key":"drpy_冲TV","name":"🎧冲TV(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/冲TV.js"},
 {"key":"drpy_酷云77","name":"🎧酷云77(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"http://3.37.195.161:54371/admin/view/酷云77.js"},
 {"key":"drpy_吼吼[飞]","name":"🎧吼吼[飞](drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/吼吼[飞].js"},
-{"key":"drpy_猫了个咪","name":"🎧猫了个咪(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/猫了个咪.js"},
 {"key":"drpy_有声小说吧","name":"🎧有声小说吧(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/有声小说吧.js"},
 {"key":"drpy_酷奇MV","name":"🎧酷奇MV(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/酷奇MV.js"},
 {"key":"drpy_兰花影院","name":"🎧兰花影院(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/兰花影院.js"},

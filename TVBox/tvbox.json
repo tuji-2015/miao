@@ -936,7 +936,7 @@
 {"name":"📂公益1","type":1,"url":"http://3.37.195.161:54371/parse/api/飞跃.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"📂公益3","type":1,"url":"http://3.37.195.161:54371/parse/api/鸿图.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"⌛️鸿途","type":1,"url":"https://json.freejson.xyz/hongtu.php?url="},
-{"name":"⌛️可云","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+{"name":"⌛️可云","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"⌛️免费","type":1,"url":"https://json.freejx.in/?url="},
 {"name":"⌛️BT5V","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 {"name":"⌛️1080","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},

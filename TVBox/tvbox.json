@@ -46,7 +46,7 @@
 "sites":[
 
 #爬虫站
-{"key":"T4","name":"🍵T4首页","type":4,"api":"http://top.fuqizhishi.com/vod?sites=all&ali_token=https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4","name":"🍵T4首页","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -88,6 +88,7 @@
 {"key":"Yanet","name":"🦆鸭奈飞(SP)","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
 {"key":"Tbook","name":"🌿听书网(SP)","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
 {"key":"IKan","name":"💖爱看(SP)","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
+{"key":"Hei","name":"🍅石榴","type":"3","api":"csp_Hei","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
 {"key":"Nianying","name":"🍲念影(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 {"key":"KanSJ_spider","name":"🌈看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 {"key":"3EDY","name":"3️⃣3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/1008.jar"},

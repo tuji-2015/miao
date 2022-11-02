@@ -46,7 +46,7 @@
 "sites":[
 
 #爬虫站
-{"key":"T4","name":"🍵T4首页","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4","name":"🍵T4首页","type":4,"api":"http://top.fuqizhishi.com/vod?sites=all&ali_token=https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},

@@ -46,7 +46,7 @@
 "sites":[
 
 #爬虫站
-{"key":"dr_drpy","name":"🔗DRPY聚合","type":1,"api":"http://drpy.owen10086.repl.co/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_drpy","name":"🏠DRPY聚合","type":1,"api":"http://drpy.owen10086.repl.co/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},

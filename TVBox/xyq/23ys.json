@@ -11,7 +11,7 @@
     //首页数据推荐
 "homeContent": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "class_url": "https://222.186.150.32/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     //分类名
     "class_name": "电影&剧集&综艺&动漫&纪录",
     //分类名替换词，替换词中有英文&的用两个中文＆＆代替

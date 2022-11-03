@@ -408,7 +408,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         url = 'https://api.aliyundrive.com/token/refresh'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
             form = {
-                'refresh_token': 'https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt'
+                'refresh_token': 'c3895f91c81741959c22feb5fe3a5def'
             }
             rsp = requests.post(url, json=form, headers=self.header)
             if rsp.status_code == 200:

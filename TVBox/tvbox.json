@@ -54,7 +54,7 @@
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FindZY","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
 {"key":"Yunsou","name":"🍭云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
 {"key":"YiSou","name":"1️⃣易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
 {"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
 {"key":"csp_AliPanSou","name":"🐱盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},

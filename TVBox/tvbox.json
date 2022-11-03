@@ -828,7 +828,7 @@
 {"key":"艾旦影视","name":"🎬艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"🎬速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"🎬飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"MBO影视","name":"🎬MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
+{"key":"MBO影视","name":"🎬MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1}
 ],
 
 "parses":[

@@ -576,8 +576,7 @@
 {"key":"dr_爱迪影视","name":"📁爱迪影视(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/爱迪影视.js"},
 {"key":"dr_vidhub","name":"📁vidhub(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/vidhub.js"},
 {"key":"drpy_zbk","name":"📁真不卡(drpy)","type":3,"api":"js_drpy_zbk","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://3.37.195.161:54371/txt/pluto/drpy.js"},
-{"key":"dr_007影视","name":"📁007影视(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/007影视.js"}
-],
+{"key":"dr_007影视","name":"📁007影视(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/007影视.js"},
 
 #DRPY在线
 {"key":"dr_爱车MV","name":"⚡爱车MV(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=爱车MV","searchable":2,"quickSearch":0,"filterable":0},

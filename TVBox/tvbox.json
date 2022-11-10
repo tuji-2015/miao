@@ -892,7 +892,7 @@
 #type1聚合.并发.轮询
 {"name":"ttr","type":0,"url":"https://2.08bk.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"ttq","type":0,"url":"https://jx.xymav.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},    
-{"name":"ttt","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"ttt","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗1MITY","type":0,"url":"https://www.nxflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗38MITY","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯2MITY","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

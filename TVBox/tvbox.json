@@ -467,7 +467,7 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"},
 
 #DRPY本地JS系列
-"key":"drpy_看看电影","name":"📁看看电影(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/看看电影.js"},
+{"key":"drpy_看看电影","name":"📁看看电影(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/看看电影.js"},
 {"key":"drpy_饭团","name":"📁饭团(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/饭团.js"},
 {"key":"drpy_539影院","name":"📁539影院(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/539影院.js"},
 {"key":"drpy_神马影视","name":"📁神马影视(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/神马影视.js"},

@@ -499,7 +499,7 @@
 {"key":"drpy_69美剧","name":"📁69美剧(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/69美剧.js"},
 {"key":"drpy_厂长资源","name":"📁厂长资源(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/厂长资源.js"},
 {"key":"drpy_海兔影院","name":"📁海兔影院(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/海兔影院.js"},
-{"key":"drpy_ddys","name":"📁ddys(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drjs/ddys.js"},
+{"key":"drpy_ddys","name":"📁ddys(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/ddys.js"},
 {"key":"drpy_麦豆com","name":"📁麦豆com(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/麦豆com.js"},
 {"key":"drpy_麦豆","name":"📁麦豆(drpy)","type":3,"api":"http://3.37.195.161:54371/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://3.37.195.161:54371/admin/view/麦豆.js"},
 {"key":"drpy_MXONE","name":"📁MXONE(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=MXONE&ext=txt/js/tg/MXONE.js","searchable":2,"quickSearch":0,"filterable":0},

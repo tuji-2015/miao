@@ -1,4 +1,4 @@
-var rule={
+﻿var rule={
     title:'我爱电影网',
     host:'https://www.5imv.cc',
     url:'/vodtype/fyclass-fypage/',

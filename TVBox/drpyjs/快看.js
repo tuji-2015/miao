@@ -11,14 +11,15 @@ var rule={
         'User-Agent':'MOBILE_UA',
         // "Cookie": "searchneed=ok"
     },
-     class_name:'电影&连续剧&综艺&动漫',
-     class_url:'dianying&lianxuju&zongyi&dongman',
+    class_parse:'nav ul li;a&&Text;a&&href;.*/(.*?)\.html',
+	cate_exclude:'专题',
     play_parse:true,
     lazy:'',
     limit:6,
-    推荐:'.show;ul&&li;a&&title;img&&src;.person&&Text;a&&href',
+    推荐:'.show;ul&&li;*;*;*;*',
     double:true, // 推荐内容是否双层定位
-    一级:'.show&&li;a&&title;img&&src;.person&&Text;a&&href',
+    一级:'.show&&ul&&li;a&&title;img&&src;.score&&Text;a&&href',
     二级:{"title":"h1&&Text;.info&&ul&&p&&Text","img":"img&&src","desc":".info&&ul&&p:eq(-2)&&Text;.info&&ul&&p:eq(-1)&&Text;.info&&ul&&p:eq(0)&&Text;.info&&ul&&p:eq(1)&&Text;.info&&ul&&p:eq(2)&&Text;.info&&ul&&p:eq(3)&&Text","content":".text&&Text","tabs":".play&&span","lists":".playlist&&ul:eq(#id) li"},
-    搜索:'.show&&li;a&&title;img&&src;drpy&&Text;a&&href',
+    搜索:'*',
+    // 搜索:'*;*;*;*;*',
 }

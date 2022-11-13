@@ -9,6 +9,6 @@ url:'/show/fyclass/page/fypage/',
 searchUrl:'/search/page/fypage/wd/**/',
 class_name:'电影&电视剧&动漫&综艺',
 class_url:'1&2&3&4',
-搜索:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 tab_exclude:'为你|榜单',
+搜索:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 });

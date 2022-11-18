@@ -203,8 +203,6 @@
 {"key":"csy_XYQHiker_40PH","name":"🚧星辰影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/40ypH.json","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 {"key":"csy_XYQHiker_czsppPH","name":"🚧厂长资源(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/czsppPH.json","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/1008.jar"},
 {"key":"csy_XYQHiker_imaxwPH","name":"🚧IMAX影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/imaxwPH.json","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/1008.jar"},
-{"key":"csy_XYQHiker_360影视","name":"🚧360影视(XYQ)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/360.json"},
-{"key":"csy_XYQHiker_图图","name":"🚧图图(XYQ)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/图图.json"},
 
 #XBiu系列
 {"key":"csp_xb_23ys","name":"📼23影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://222.186.150.32/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},
@@ -259,6 +257,8 @@
 {"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/23ys.json"},
 
 #XBPQ系列
+{"key":"csp_xBPQ_360影视","name":"🧀360影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/360.json"},
+{"key":"csp_xBPQ_图图","name":"🧀图图(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/图图.json"},
 {"key":"csp_xBPQ_um影院","name":"🧀UM影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/UMyy.json"},
 {"key":"csp_xBPQ_素白白","name":"🧀素白白(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/subaibai.json"},
 {"key":"csp_xBPQ_极品影视","name":"🧀极品影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/极品影视.json"},

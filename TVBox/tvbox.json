@@ -554,7 +554,6 @@
 {"key":"drpy_两个BT","name":"📁两个BT(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=两个BT&ext=txt/js/tg/两个BT.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"drpy_TV云播","name":"📁TV云播(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"drpy_Nike影视","name":"📁Nike影视(道长)","type":1,"api":"http://3.37.195.161:54371/vod?rule=Nike影视&ext=txt/js/tg/Nike影视.js","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"t4","name":"📁T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=59744816075f4729bc00cd23b98e3447&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"drpy_鸭奈飞","name":"📁鸭奈飞(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/鸭奈飞.js"},
 {"key":"drpy_追剧喵","name":"📁追剧喵(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/追剧喵.js"},
 {"key":"drpy_蓝莓影视","name":"📁蓝莓影视(drpy)","type":3,"api":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/libs/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/蓝莓影视.js"},

@@ -254,6 +254,8 @@
 {"key":"csp_XYQBiu_voflix","name":"📹Voflix(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/voflix.json"},
 {"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},
 {"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/23ys.json"},
+{"key":"csp_XYQBiu_360影视","name":"📹360影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/360.json"},
+{"key":"csp_XYQBiu_图图","name":"📹图图(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/图图.json"},
 
 #XBPQ系列
 {"key":"csp_xBPQ_um影院","name":"🧀UM影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/UMyy.json"},
@@ -343,8 +345,6 @@
 {"key":"csp_xBPQ_煲剧吧","name":"🧀煲剧吧(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/煲剧吧.json"},
 {"key":"csp_xBPQ_数字影院","name":"🧀数字影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/数字影院.json"},
 {"key":"csp_xBPQ_听书网","name":"🧀听书网️(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/听书网.json"},
-{"key":"csp_xBPQ_360影视","name":"🧀360影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/360.json"},
-{"key":"csp_xBPQ_图图","name":"🧀图图(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/图图.json"},
 
 #PY爬虫
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},

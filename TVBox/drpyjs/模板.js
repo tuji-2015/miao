@@ -102,6 +102,22 @@ double:true, // 推荐内容是否双层定位
     搜索1:'ul.stui-vodlist&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
     搜索2:'ul.stui-vodlist__media&&li;a&&title;.lazyload&&data-original;.text-muted&&Text;a&&href;.text-muted:eq(-1)&&Text',
 },
+默认:{
+title:'',
+host:'',
+url:'/vodshow/fyclass--------fypage---.html',
+searchUrl:'/vodsearch/-------------.html?wd=**',
+searchable:2,//是否启用全局搜索,
+quickSearch:0,//是否启用快速搜索,
+filterable:0,//是否启用分类筛选,
+headers:{
+    'User-Agent':'MOBILE_UA',
+},
+play_parse:true,
+lazy:'',
+limit:6,
+double:true, // 推荐内容是否双层定位
+},
 vfed:{
     title:'',
     host:'',

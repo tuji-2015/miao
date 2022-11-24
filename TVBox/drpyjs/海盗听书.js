@@ -35,11 +35,12 @@ var rule = {
     class_url:'1&2&3',
     play_parse:true,
     play_json:0,
-    lazy:"let bookId=input.match(/play\\/(.*?)\\//)[1];let chapterId=input.match(/.*\\/(.*?)\\.html/)[1];let url='https://app.tingxiaoshuo.cc/listen/apptingchina/AppGetChapterUrl2022?uid=09e0bbefd378830f9615a98f239aceab&chapterId='+chapterId+'&bookId='+bookId;let res=request(url,{headers:{'User-Agent':PC_UA}});res=JSON.parse(res);input=res.src;log(input);",
+    lazy:"js:let bookId=input.match(/play\\/(.*?)\\//)[1];let chapterId=input.match(/.*\\/(.*?)\\.html/)[1];let url='https://app.tingxiaoshuo.cc/listen/apptingchina/AppGetChapterUrl2022?uid=09e0bbefd378830f9615a98f239aceab&chapterId='+chapterId+'&bookId='+bookId;log(url);let res=request(url,{headers:{'User-Agent':PC_UA}});res=JSON.parse(res);input=res.src;log(input);",
     limit:6,
     double:true,
     推荐:'*',
     一级:'.list-works li;a&&title;img&&src;.list-book-cs span:eq(0)&&Text;a&&href',
     二级:{title:'h1&&Text;.book-info dd:eq(1)&&Text',img:'.book-img img&&src',desc:';;.book-info dd:gt(3):lt(6)&&Text;.book-info dd:eq(3)&&Text;.book-info dd:eq(2)&&Text',content:'.div-b&&Text',tabs:'.playlist-top&&h2',lists:'#playlist:eq(#id) li'},
     搜索:'*',
+    // 预处理:'log("我是预处理");let html=request("https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/version.txt");log(html);rule_fetch_params.headers.Cookie="searchneed=ok";',
 }

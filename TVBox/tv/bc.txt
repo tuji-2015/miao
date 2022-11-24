@@ -1763,37 +1763,84 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
-
 🏀体育频道,#genre#
-精品體育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-劲爆体育,http://139.215.233.152/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
+精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
+爱尔达体育,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
+魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/2300000/mnf.m3u8
+咪咕体育,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+广东体育,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-Eurosport1 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
-Eurosport1 HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport2 HD,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2 HD,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
-Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
-Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
+五星体育,http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+百事通体育1,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+百事通体育2,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+百事通体育3,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+百事通体育4,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+百事通体育5,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+百事通体育6,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+百事通体育7,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+天津体育,http://anyun-ship.com:8888/udp/225.1.1.122:5002
+山东体育,http://222.132.191.125:9901/tsfile/live/1005_1.m3u8
+山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+山东体育,http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
+杭州体育,http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
+Setanta Sports Ukraine,http://91.213.59.156/play/6/index.m3u8
+曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+Dubai Racing 2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+Dubai Racing 3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+EDGEsport,https://edgesport-samsungus.amagi.tv/playlist.m3u8
+EDGEsport,https://edgesports-plex.amagi.tv/playlist.m3u8
+EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+NBC Golf,http://89.187.175.143:80/3013/mpegts
+Dubai Sports,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+Dubai Sports 1,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+EDGE sport,https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+Eurosport1,http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
+Eurosport1,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
+Eurosport1,http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
+Eurosport2,http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
+Eurosport2,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+MLB Network,http://89.187.175.143:80/3003/mpegts
+TSN1,http://89.187.175.143:80/3038/mpegts
+TSN2,http://89.187.175.143:80/3045/mpegts
+TSN3,http://89.187.175.143:80/3046/mpegts
+TSN4,http://89.187.175.143:80/3047/mpegts
+TSN5,http://89.187.175.143:80/3048/mpegts
+高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
+Eurosport1,http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+Eurosport2,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 英超1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 咪咕3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8

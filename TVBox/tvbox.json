@@ -57,8 +57,8 @@
 
 #豆瓣首页
 //{"key":"T4","name":"🏠T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_douban","name":"🏠T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
+//{"key":"T4_douban","name":"🏠T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
 
 #爬虫站
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},

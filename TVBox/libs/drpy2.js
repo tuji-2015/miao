@@ -1,9 +1,12 @@
 import cheerio from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/cheerio.min.js';
 import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/crypto-js.js';
+import 模板 from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
 
 function init_test(){
     // console.log(typeof(CryptoJS));
     console.log("init_test_start");
+    // print(模板);
+    // print(typeof(模板.getMubans));
     console.log("当前版本号:"+VERSION);
     console.log(RKEY);
     console.log(JSON.stringify(rule));
@@ -31,7 +34,7 @@ function pre(){
 }
 
 let rule = {};
-const VERSION = 'drpy2 3.9.25beta1 20221126';
+const VERSION = 'drpy2 3.9.27 20221129';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -1902,13 +1905,17 @@ function init(ext) {
     console.log('init');
     try {
         // make shared jsContext happy muban不能import,不然会造成换源继承后变量被篡改
-        if (typeof (globalThis.mubanJs) === 'undefined') {
-            let mubanJs = request('https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js', { 'User-Agent': MOBILE_UA });
-            mubanJs = mubanJs.replace('export default', '(function() {return muban;}()) // export default');
-            // console.log(mubanJs);
-            globalThis.mubanJs = mubanJs;
-        }
-        let muban = eval(globalThis.mubanJs);
+        // if (typeof (globalThis.mubanJs) === 'undefined') {
+        //     let mubanJs = request('https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js', { 'User-Agent': MOBILE_UA });
+        //     mubanJs = mubanJs.replace('export default', '(function() {return muban;}()) // export default');
+        //     // console.log(mubanJs);
+        //     globalThis.mubanJs = mubanJs;
+        // }
+        // let muban = eval(globalThis.mubanJs);
+
+        let muban = 模板.getMubans();
+        // print(typeof (muban));
+        // print(muban);
         if (typeof ext == 'object'){
             rule = ext;
         } else if (typeof ext == 'string') {

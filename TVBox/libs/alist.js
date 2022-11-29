@@ -1,5 +1,6 @@
 // import _ from 'https://underscorejs.org/underscore-esm-min.js'
-import {distance} from 'https://unpkg.com/fastest-levenshtein@1.0.16/esm/mod.js'
+// import {distance} from 'https://unpkg.com/fastest-levenshtein@1.0.16/esm/mod.js'
+import {distance} from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/mod.js'
 import {sortListByCN} from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/sortName.js'
 
 /**
@@ -119,10 +120,22 @@ function init(ext) {
 	let alist_data_url = alist_data[0];
 	limit_search_show = alist_data.length>1?Number(alist_data[1])||limit_search_show:limit_search_show;
 	search_type = alist_data.length>2?alist_data[2]:search_type;
+	print(alist_data_url);
 	const data = http.get(alist_data_url).json(); // .map(it=>{it.name='🙋丫仙女';return it})
-	print(data); // 测试证明壳子标题支持emoji,是http请求源码不支持emoji
-	searchDriver = (data.find(x=>x.search)||{}).name||'';
-	data.forEach(item => {
+	// print(data); // 测试证明壳子标题支持emoji,是http请求源码不支持emoji
+	let drives = [];
+	if(Array.isArray(data) && data.length > 1 && data[0].hasOwnProperty('server') && data[0].hasOwnProperty('name')){
+		drives = data;
+	}else if(!Array.isArray(data)&&data.hasOwnProperty('drives')&&Array.isArray(data.drives)){
+		drives = data.drives.filter(it=>(it.type&&it.type==='alist')||!it.type);
+	}
+	print(drives);
+	searchDriver = (drives.find(x=>x.search)||{}).name||'';
+	if(!searchDriver && drives.length > 1){
+		searchDriver = drives[0].name;
+	}
+	print(searchDriver);
+	drives.forEach(item => {
 		let _path_param = [];
 		if(item.params){
 			_path_param = Object.keys(item.params);

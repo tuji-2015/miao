@@ -127,7 +127,7 @@
 {"key":"dr_drpy","name":"⚡道长搜索","type":1,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"dr_drpy","name":"⚡道长搜索","type":1,"api":"https://drpy.liucn.repl.co/vod?&rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AList","name":"🔮AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"drpy_js_Alist","name":"🥗小雅_Alist","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/alist.json"},
+{"key":"drpy_js_Alist","name":"🥗小雅_Alist","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/alist.json;50;video"},
 
 #优质站点1
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/LIBVIO.json"},

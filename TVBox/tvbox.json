@@ -489,7 +489,6 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"},
 
 #DRPY本地JS系列
-{"key":"drpy_js_视中心影视","name":"📁视中心影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/视中心影视.js"},
 {"key":"drpy_js_零柒影视","name":"📁零柒影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/零柒影视.js"},
 {"key":"drpy_js_宅腐影视","name":"📁宅腐影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/宅腐影视.js"},
 {"key":"drpy_js_看BZ影视","name":"📁看BZ影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/看BZ影视.js"},

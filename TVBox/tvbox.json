@@ -489,6 +489,9 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"},
 
 #DRPY本地JS系列
+{"key":"drpy_js_视中心影视","name":"📁视中心影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/视中心影视.js"},
+{"key":"drpy_js_零柒影视","name":"📁零柒影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/零柒影视.js"},
+{"key":"drpy_js_宅腐影视","name":"📁宅腐影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/宅腐影视.js"},
 {"key":"drpy_js_看BZ影视","name":"📁看BZ影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/看BZ影视.js"},
 {"key":"drpy_js_偲霖影视","name":"📁偲霖影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/偲霖影视.js"},
 {"key":"drpy_js_思乐影视","name":"📁思乐影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/思乐影视.js"},
@@ -596,8 +599,8 @@
 {"key":"drpy_牛马TV","name":"📁牛马TV(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/牛马TV.js"},
 {"key":"drpy_库马伊","name":"📁库马伊(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/库马伊.js"},
 {"key":"drpy_干饭影视","name":"📁干饭影视(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/干饭影视.js"},
-{"key":"drpy_小猫咪","name":"📁小猫咪(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/小猫咪.js"},
-{"key":"drpy_小强迷","name":"📁小强迷(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/小强迷.js"},
+//{"key":"drpy_小猫咪","name":"📁小猫咪(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/小猫咪.js"},
+//{"key":"drpy_小强迷","name":"📁小强迷(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/小强迷.js"},
 {"key":"drpy_奇珍异兽","name":"📁奇珍异兽(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/奇珍异兽.js"},
 {"key":"drpy_奇优影院","name":"📁奇优影院(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/奇优影院.js"},
 {"key":"drpy_大米星球","name":"📁大米星球(drpy)","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/大米星球.js"},

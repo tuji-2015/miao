@@ -790,7 +790,6 @@
 {"key":"dr_vip影院","name":"⚡vip影院(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=vip影院","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_LIBVIO","name":"⚡LIBVIO(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=LIBVIO","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_l0l","name":"⚡l0l(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=l0l","searchable":2,"quickSearch":0,"filterable":0},
-{"key":"dr_drpy","name":"⚡drpy(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=drpy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_cokemv","name":"⚡cokemv(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=cokemv","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_AnFuns","name":"⚡AnFuns(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=AnFuns","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"dr_555影视","name":"⚡555影视(道长)","type":1,"api":"http://13.125.130.101:55834/vod?rule=555影视","searchable":2,"quickSearch":0,"filterable":0},

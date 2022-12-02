@@ -10,7 +10,7 @@ import {sortListByCN} from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/l
 				name:'名称',
 				server:'地址',
 				startPage:'/',		 //启动文件夹
-				showAll: false ,	//是否显示全部文件，默认false只显示 视频和文件夹
+				showAll: false ,	//是否显示全部文件，默认false只显示 音视频和文件夹
  				search: true, // 启用小雅的搜索,搜索只会搜第一个开启此开关的磁盘
 				params:{ 			//对应文件夹参数 如设置对应文件夹的密码
 					'/abc':{ password : '123' },
@@ -30,6 +30,7 @@ var limit_search_show = 200;
 var search_type = '';
 var detail_order = 'name';
 const request_timeout = 5000;
+const VERSION = 'alist v2/v3 20221129';
 /**
  * 打印日志
  * @param any 任意变量
@@ -116,22 +117,35 @@ function get_drives(name) {
 }
 
 function init(ext) {
-	let alist_data = ext.split(';');
-	let alist_data_url = alist_data[0];
-	limit_search_show = alist_data.length>1?Number(alist_data[1])||limit_search_show:limit_search_show;
-	search_type = alist_data.length>2?alist_data[2]:search_type;
-	print(alist_data_url);
-	const data = http.get(alist_data_url).json(); // .map(it=>{it.name='🙋丫仙女';return it})
+	console.log("当前版本号:"+VERSION);
+	let data;
+	if (typeof ext == 'object'){
+		data = ext;
+		print('alist ext:object');
+	} else if (typeof ext == 'string') {
+		if (ext.startsWith('http')) {
+			let alist_data = ext.split(';');
+			let alist_data_url = alist_data[0];
+			limit_search_show = alist_data.length>1?Number(alist_data[1])||limit_search_show:limit_search_show;
+			search_type = alist_data.length>2?alist_data[2]:search_type;
+			print(alist_data_url);
+			data = http.get(alist_data_url).json(); // .map(it=>{it.name='🙋丫仙女';return it})
+		} else {
+			print('alist ext:json string');
+			data = JSON.parse(ext);
+		}
+	}
+
 	// print(data); // 测试证明壳子标题支持emoji,是http请求源码不支持emoji
 	let drives = [];
-	if(Array.isArray(data) && data.length > 1 && data[0].hasOwnProperty('server') && data[0].hasOwnProperty('name')){
+	if(Array.isArray(data) && data.length > 0 && data[0].hasOwnProperty('server') && data[0].hasOwnProperty('name')){
 		drives = data;
 	}else if(!Array.isArray(data)&&data.hasOwnProperty('drives')&&Array.isArray(data.drives)){
 		drives = data.drives.filter(it=>(it.type&&it.type==='alist')||!it.type);
 	}
 	print(drives);
 	searchDriver = (drives.find(x=>x.search)||{}).name||'';
-	if(!searchDriver && drives.length > 1){
+	if(!searchDriver && drives.length > 0){
 		searchDriver = drives[0].name;
 	}
 	print(searchDriver);

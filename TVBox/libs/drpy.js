@@ -54,7 +54,7 @@ function pre(){
 }
 
 let rule = {};
-const VERSION = 'drpy1 3.9.27 20221129';
+const VERSION = 'drpy1 3.9.28 20221202';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -1504,13 +1504,24 @@ function categoryParse(cateObj) {
     if(d.length>0){
         print(d.slice(0,2));
     }
-    return d.length<1?'{}':JSON.stringify({
+    let pagecount = 0;
+    if(rule.pagecount && typeof(rule.pagecount) === 'object' && rule.pagecount.hasOwnProperty(MY_CATE)){
+        print(`MY_CATE:${MY_CATE},pagecount:${JSON.stringify(rule.pagecount)}`);
+        pagecount = parseInt(rule.pagecount[MY_CATE]);
+    }
+    let nodata = {
+        list:[{vod_name:'无数据,防无限请求',vod_id:'no_data',vod_remarks:'不要点,会崩的',vod_pic:'https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/404.jpg'}],
+        total:1,pagecount:1,page:1,limit:1
+    };
+    let vod =  d.length<1?JSON.stringify(nodata):JSON.stringify({
         'page': parseInt(cateObj.pg),
-        'pagecount': 999,
+        'pagecount': pagecount||999,
         'limit': 20,
         'total': 999,
         'list': d,
     });
+    // print(vod);
+    return vod
 }
 
 /**
@@ -2091,6 +2102,7 @@ function playParse(playObj){
         rule.encoding = rule.编码||rule.encoding||'utf-8';
         rule.图片来源 = rule.图片来源||'';
         rule.play_json = rule.hasOwnProperty('play_json')?rule.play_json:[];
+        rule.pagecount = rule.hasOwnProperty('pagecount')?rule.pagecount:{};
         if(rule.headers && typeof(rule.headers) === 'object'){
             try {
                 let header_keys = Object.keys(rule.headers);

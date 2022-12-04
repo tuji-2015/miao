@@ -1068,7 +1068,7 @@
 {"name":"🈹19T","type":0,"url":"https://vip.52jiexi.top/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️Leaf","type":1,"url":"https://api.leafone.cn/api/jx?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️LAN","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️Q1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"⌛️Q1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 //{"name":"⌛️天空","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 //{"name":"⌛️酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"⌛️风起1","type":1,"url":"https://m3u8.co/api/?key=64m9yjF0IonxlDJ5Vg&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

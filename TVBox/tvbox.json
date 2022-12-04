@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo.jar",
+"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar",
 
 "wallpaper":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/bg/mo.png",
 
@@ -72,7 +72,7 @@
 {"key":"YiSou","name":"1️⃣易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_AliPanSou","name":"🐱盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.35.148:9797/api/tutuapp.php"},
 {"key":"csp_Bdys01","name":"📯哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk播放器)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"追剧喵","name":"🍋追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},

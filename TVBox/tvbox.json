@@ -1076,7 +1076,7 @@
 {"name":"⌛️Q1公共","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"⌛️Q1分享","type":1,"url":"https://parse.ikunfk.cc/parse/sign/292b1568b4317eae2d5556c38f0146d7?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"⌛️天空","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
-{"name":"⌛️酷享","type":1,"url":"https://parse.ikunfk.cc/parse/sign/42c7df168b63d88e302f4c0fa7cc75a8?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"⌛️酷享","type":1,"url":"https://d1.mk/2iaWFmK","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"⌛️江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"⌛️鸿途","type":1,"url":"https://json.freejson.xyz/hongtu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️免费","type":1,"url":"https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

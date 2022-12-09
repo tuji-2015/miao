@@ -492,11 +492,12 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"},
 
 #DRPY本地JS系列
+{"key":"drpy_js_YOKE影视","name":"📁YOKE影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/YOKE影视.js"},
 {"key":"drpy_js_看一看影视","name":"📁看一看影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/看一看影视.js"},
 {"key":"drpy_js_fositv","name":"📁fositv[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/fositv.js"},
 {"key":"drpy_js_城市影视","name":"📁城市影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/城市影视.js"},
-{"key":"drpy_js_苹果爱微","name":"📁苹果爱微[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/out/苹果爱微.js"},
-{"key":"drpy_js_539影院","name":"📁539影院[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/out/539影院.js"},
+{"key":"drpy_js_苹果爱微","name":"📁苹果爱微[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/苹果爱微.js"},
+{"key":"drpy_js_539影院","name":"📁539影院[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/539影院.js"},
 {"key":"drpy_js_叭度影视","name":"📁叭度影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/叭度影视.js"},
 {"key":"drpy_js_飞兔影视","name":"📁飞兔影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/飞兔影视.js"},
 {"key":"drpy_js_我爱跟剧","name":"📁我爱跟剧[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/我爱跟剧.js"},

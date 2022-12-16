@@ -23,6 +23,6 @@ var rule = {
     一级:'.row.lists .item;.time&&Text;img&&data-src;.time&&Text;a&&href',
     // 二级:'*',
     二级:'*',
-    图片来源:'@Referer=https://files.yuchenglw.com',
-    lazy:'js:pd=jsp.pd;let html=request(input);let a=pd(html,"source&&src");input=a'
+    图片来源:'@Referer=https://files.yuchenglw.com@Type=base64',
+    lazy:'js:pd=jsp.pd;let html=request(input);let a=pd(html,"source&&src")+"#.m3u8";input=a'
 }

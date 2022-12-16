@@ -1,6 +1,10 @@
+muban.mxone5.二级.title = 'h1&&Text;.video-info-aux&&Text';
+muban.mxone5.二级.desc = ';;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule = {
 	title: '海外看影院',
-	host: 'https://haiwaiys.cc',
+	模板:'mxone5',
+	// host: 'https://haiwaiys.cc',
+	host: 'https://www.huale.org',
 	// url: '/vodshow/fyclass--------fypage---.html',
 	url: '/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
@@ -13,23 +17,7 @@ var rule = {
 		4:{cateId:'4'},
 		21:{cateId:'21'}
 	},
-	searchUrl: '/vodsearch/**----------fypage---.html',
-	searchable: 2,
-	quickSearch: 0,
-	headers: {'User-Agent': 'UC_UA',},
-	class_name:'电影&电视剧&综艺&动漫&记录片',
-	class_url:'1&2&3&4&21',
-	// 推荐:'.module-items&&.module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
-	推荐:'.module-items&&.module-item;*;*;*;*',
-	一级:'.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
-	二级: {
-			"title": "h1&&Text;.tag-link&&Text",
-			"img": ".module-item-pic&&img&&data-src",
-			"desc": ".video-info-items:eq(0)&&Text;.video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text",
-			"content": ".vod_content&&Text",
-			"tabs": ".module-tab-item",
-			"lists": ".module-player-list:eq(#id)&&.scroll-content&&a"
-	    },
-	// 搜索: '.module-items .module-search-item;a&&title;img&&data-src;.video-serial&&Text;a&&href',
-	搜索: '.module-items .module-search-item;*;*;.video-serial&&Text;*',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	detailUrl:'/voddetail/fyid.html', //非必填,二级详情拼接链接
+	搜索:'json:list;name;pic;;id',
 }

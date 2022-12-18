@@ -493,6 +493,11 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/139影视.json"},
 
 #DRPY本地JS系列
+{"key":"drpy_js_海外看影院","name":"📁海外看影院[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/海外看影院.js"},
+{"key":"drpy_js_厂长资源","name":"📁厂长资源[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/厂长资源.js"},
+{"key":"drpy_js_NFM影视","name":"📁NFM影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/NFM影视.js"},
+{"key":"drpy_js_诺讯影视","name":"📁诺讯影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/诺讯影视.js"},
+{"key":"drpy_js_美剧网","name":"📁美剧网[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/美剧网.js"},
 {"key":"drpy_js_YOKE影视","name":"📁YOKE影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/YOKE影视.js"},
 {"key":"drpy_js_看一看影视","name":"📁看一看影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/看一看影视.js"},
 {"key":"drpy_js_fositv","name":"📁fositv[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/fositv.js"},

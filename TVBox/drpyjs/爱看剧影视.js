@@ -1,10 +1,13 @@
-
 var rule={
-    title:'多瑙影视',
-    host:'https://www.duonaovod.com',
+    title:'爱看剧影视',
+    host:'https://www.acdramas.com',
     // homeUrl:'/',
-    url:'/index.php/vod/show/fyfilter.html',
+    //url:'/list/fyclass/page/fypage.html',
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
+
+    searchable:2,//是否启用全局搜索,
+    quickSearch:0,//是否启用快速搜索,
+    url:'/index.php/vod/show/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}/id/{{fl.cateId}}/page/fypage{{fl.year}}',
 filter: {
@@ -16,17 +19,29 @@ filter: {
 	filter_def:{
 		1:{cateId:'1'},
 		2:{cateId:'2'},
-		4:{cateId:'4'},
-		3:{cateId:'3'}
+		3:{cateId:'3'},
+		4:{cateId:'4'}
 	},
-    searchable:2,
-    quickSearch:1,
-    headers:{'User-Agent':'MOBILE_UA', },
+    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
+        'User-Agent':'MOBILE_UA',
+        // "Cookie": "searchneed=ok"
+    },
     class_name:'电影&电视剧&综艺&动漫',
     class_url:'1&2&3&4',
-    推荐:'ul.vodlist.vodlist_wi;li;a&&title;a&&data-original;.pic_text.text_right&&Text;a&&href',
+    lazy:'',
+    limit:6,
     double:true, // 推荐内容是否双层定位
-    一级:'li.vodlist_item;a&&title;a&&data-original;.pic_text.text_right&&Text;a&&href',
-    二级:{"title":"h2&&Text;.text-muted:eq(-1)&&Text","img":".content_thumb .vodlist_thumb&&data-original","desc":".content_detail.content_min.fl li:eq(-1)&&Text;.content_detail.content_min.fl li:eq(-1)&&Text;.content_detail.content_min.fl&&ul&&li:eq(0)&&Text;.content_detail.content_min.fl&&ul&&li:eq(2)&&Text;.content_detail.content_min.fl&&ul&&li:eq(3)&&a&&Text","content":".content&&Text","tabs":".play_source_tab:eq(0) a","lists":".play_list_box:eq(#id)&&.content_playlist li"},
-    搜索:'body .searchlist_item;a&&title;.vodlist_thumb.lazyload&&data-original;.pic_text.text_right&&Text;a&&href',
+    // 推荐:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    推荐:'.module-items:eq(0);.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    一级:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    二级:{
+    	"title":"h1&&Text;.video-info-header&&Text",
+    	"img":".lazyload&&data-src",
+    	// "desc":".video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text",
+    	"desc":";;;.video-info-main .video-info-actor:eq(1)&&Text;.video-info-main .video-info-actor:eq(0)&&Text",
+    	"content":".vod_content&&Text",
+    	"tabs":".module-tab-item",
+    	"lists":".sort-item:eq(#id) a"
+	},
+    搜索:'.module-items&&.module-search-item;.lazyload&&alt;.lazyload&&data-src;.video-serial&&Text;*',
 }

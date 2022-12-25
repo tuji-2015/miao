@@ -1,3 +1,4 @@
+
 var rule = {
     title:'干饭影视',
     host:'https://www.gfysys1.com',

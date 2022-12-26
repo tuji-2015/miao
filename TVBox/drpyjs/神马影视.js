@@ -3,6 +3,7 @@
 var rule = {
     title:'神马影视',
     host:'https://www.6080x.cc',
+    //host:'https://www.smdyy.cc',
     // homeUrl:'/',
     // url:'/list/fyclass-fypage.html',
 	url:'/show/fyfilter.html',

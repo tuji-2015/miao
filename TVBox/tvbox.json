@@ -85,7 +85,7 @@
 {"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"📺泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},
-{"key":"csp_BuLei","name":"🍺布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},
+{"key":"csp_BuLei","name":"🍺布雷(SP)","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},
 {"key":"csp_Zjdr","name":"🌐追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},
 {"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_555","name":"5️⃣555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},

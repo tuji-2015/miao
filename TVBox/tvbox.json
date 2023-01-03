@@ -1,5 +1,5 @@
 {
-"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d",
+"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0103.jar;md5;bdde7063cf2a724c058ba972c752afcb",
 
 "wallpaper":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/bg/mo.png",
 
@@ -82,7 +82,7 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(ijk)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_剧荒TV(SP)","name":"👻剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_低端影视","name":"🧀低端影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"click":"ddys.tv;.vjs-big-play-button","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/低端影视.json","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xBPQ1107.jar"},
 {"key":"csp_Nbys","name":"📺泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_小熊","name":"🐻小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/ys1226.jar;md5;8f86eb79293b22966ba2c54a7c34e2eb"},

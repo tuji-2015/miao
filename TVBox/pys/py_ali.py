@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding=utf-8 2b63cb15d6ac458d80d2416c92ad3751
 # !/usr/bin/python
 import sys
 
@@ -408,7 +408,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         url = 'https://api.aliyundrive.com/token/refresh'
         if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
             form = {
-                'refresh_token': '2b63cb15d6ac458d80d2416c92ad3751'
+                'refresh_token': '7d78462c5bc24246b0c5400a3132a476'
             }
             rsp = requests.post(url, json=form, headers=self.header)
             if rsp.status_code == 200:

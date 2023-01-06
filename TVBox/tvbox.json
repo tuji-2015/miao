@@ -276,6 +276,9 @@
 {"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/23ys.json"},
 
 #XBPQ系列
+{"key":"csp_xBPQ_万博剧院","name":"🧀万博剧院(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/万博剧院.json"},
+{"key":"csp_xBPQ_奇优影院","name":"🧀奇优影院(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/奇优影院.json"},
+{"key":"csp_xBPQ_98影院","name":"🧀98影院(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/98影院.json"},
 {"key":"csp_xBPQ_低端影视","name":"🧀低端影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"click":"ddys.tv;.vjs-big-play-button","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/低端影视.json"},
 {"key":"csp_XBPQ_宅腐TV","name":"🧀宅腐TV(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/宅腐TV.json"},
 {"key":"csp_xBPQ_落攻阁","name":"🧀落攻阁(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/落攻阁.json"},

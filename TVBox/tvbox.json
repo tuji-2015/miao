@@ -515,8 +515,6 @@
 
 #DRPY本地JS系列
 {"key":"drpy_js_万博剧院","name":"📁万博剧院[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/万博剧院.js"},
-{"key":"drpy_js_哔哩影视","name":"📁哔哩影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/哔哩影视.js"},
-{"key":"drpy_js_我的哔哩","name":"📁我的哔哩[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/我的哔哩.js"},
 {"key":"drpy_js_朴樱影视","name":"📁朴樱影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/朴樱影视.js"},
 {"key":"drpy_js_IMAX影视","name":"📁IMAX影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/IMAX影视.js"},
 {"key":"drpy_js_九酷影视","name":"📁九酷影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/九酷影视.js"},

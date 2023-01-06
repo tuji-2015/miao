@@ -1,4 +1,4 @@
-# coding=utf-8 2b63cb15d6ac458d80d2416c92ad3751
+# coding=utf-8
 # !/usr/bin/python
 import sys
 

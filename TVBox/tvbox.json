@@ -902,7 +902,7 @@
 {"name":"⌛️LAN","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️Q1A","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️Q1B","type":1,"url":"https://parse.ikunfk.cc/parse/sign/36f3c3cbbd88474b2a17891ce41d3457?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/292b1568b4317eae2d5556c38f0146d7?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️免费","type":1,"url":"https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️BT5V","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️1080","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

@@ -311,19 +311,12 @@
 {"key":"csp_xbu_REPEN","name":"📼RENPE(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 
 #XYQB系列
-{"key":"csp_XYQBiu_NO视频","name":"📹NO视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/NO视频.json"},
 {"key":"csp_XYQBiu_wnys","name":"📹万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},
-{"key":"csp_XYQBiu_e9","name":"📹E9视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/e9视频.json"},
 {"key":"csp_XYQBiu_lyys","name":"📹凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/凌云影视.json"},
 {"key":"csp_XYQBiu_剧荒","name":"📹剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/剧荒.json"},
-{"key":"csp_XYQBiu_影视工厂","name":"📹影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MaoXB/影视工厂.json"},
-{"key":"csp_XYQBiu_Fositv","name":"📹Fositv(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/fositv.json"},
 {"key":"csp_XYQBiu_艾菲影视","name":"📹艾菲影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/艾菲影视.json"},
-{"key":"csp_XYQBiu_酷蚂蚁","name":"📹酷蚂蚁(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/酷蚂蚁.json"},
-{"key":"csp_XYQBiu_氢视频","name":"📹氢视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/氢视频.json"},
 {"key":"csp_XYQBiu_voflix","name":"📹Voflix(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/voflix.json"},
 {"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},
-{"key":"csp_XYQBiu_23影视","name":"📹23影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/xyq/23ys.json"},
 
 #XBPQ系列
 {"key":"csp_xBPQ_兄弟","name":"🧀兄弟影视(xBPQ)","type":3,"api":"csp_xBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XBPQ/xiongdi.json"},

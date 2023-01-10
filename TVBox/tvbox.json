@@ -208,8 +208,6 @@
 {"key":"百度","name":"🉐百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
 #XYQHiker系列
-{"key":"csp_XYQH_188kan","name":"️💲188看影视(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/188ys.json"},
-{"key":"csp_XYQH_时光","name":"️💲时光影视(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/shiguang.json"},
 {"key":"csp_XYQH_爱看","name":"💲爱看电影(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/lovekan.json"},
 {"key":"csp_XYQH_3333影视","name":"️💲3333影视(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/xyqh_333%e5%bd%b1%e8%a7%86.json"},
 {"key":"csp_XYQH_naifei8","name":"️💲奶飞追剧(规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQ/naifei8.json"},

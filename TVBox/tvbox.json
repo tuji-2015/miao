@@ -511,6 +511,8 @@
 {"key":"csp_biubiu_139影视","name":"📗139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/MeowXB/139影视.json","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 
 #DRPY本地JS系列
+{"key":"drpy_js_午夜影视","name":"📁午夜影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/午夜影视.js"},
+{"key":"drpy_js_大豆影视","name":"📁大豆影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/大豆影视.js"},
 {"key":"drpy_js_万博剧院","name":"📁万博剧院[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/万博剧院.js"},
 {"key":"drpy_js_朴樱影视","name":"📁朴樱影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/朴樱影视.js"},
 {"key":"drpy_js_IMAX影视","name":"📁IMAX影视[DRPY]","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/IMAX影视.js"},
@@ -898,10 +900,10 @@
 {"name":"🈹10C","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹11T","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈹19T","type":0,"url":"https://vip.52jiexi.top/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️LAN","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"⌛️FUQ","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"⌛️Q1A","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️Q1B","type":1,"url":"https://parse.ikunfk.cc/parse/sign/36f3c3cbbd88474b2a17891ce41d3457?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092dfdaea71d857e79a3738b5ada748?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"⌛️PAN","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️免费","type":1,"url":"https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️BT5V","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️1080","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

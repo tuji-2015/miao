@@ -279,7 +279,7 @@
 {"key":"csp_xbu_免费影视","name":"📼免费影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qqmzpt.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_23ys","name":"📼23影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://222.186.150.32/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key":"csp_xbu_口袋影院","name":"📼口袋影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.koudaitv.com/type/{cateId}--------{catePg}---.html"},
-{"key":"csp_xbu_在线之家","name":"📼在线之家(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zxzj.vip/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xbu_在线之家","name":"📼在线之家(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzj.pro/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_动漫巴士","name":"📼动漫巴士(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dm84.tv/list-{cateId}-{catePg}.html"},
 {"key":"csp_xbu_ysgc","name":"📼影视工厂(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_35ju","name":"📼星空影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html"},

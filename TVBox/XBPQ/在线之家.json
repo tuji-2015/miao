@@ -1,11 +1,11 @@
 {
 "作者": "菜妮丝https://cainisi.cf",
 "站名": "在线之家",
-"主页url": "https://zxzj.vip",
+"主页url": "https://www.zxzj.pro",
 "免嗅": "1",
 
 "分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6",
-"分类url": "https://zxzj.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类url": "https://www.zxzj.pro/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 
 "副标题": "text-right\">&&</span>",
 

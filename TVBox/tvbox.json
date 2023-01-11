@@ -207,10 +207,12 @@
 {"key":"百度","name":"🉐百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
 #XYQHiker系列
+{"key":"csp_XYQH_4K极客","name":"🚧4K极客(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/4K极客.json"},
+{"key":"csp_XYQH_39影视","name":"🚧39影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/39影视.json"},
 {"key":"csp_XYQH_爱看","name":"🚧爱看电影(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/lovekan.json"},
 {"key":"csp_XYQH_3333影视","name":"🚧3333影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/xyqh_333影视.json"},
 {"key":"csp_XYQH_naifei8","name":"🚧奶飞追剧(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/naifei8.json"},
-{"key":"csp_XYQH_回响","name":"🚧回响影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/huixiang.json"},
+{"key":"csp_XYQH_回响","name":"🚧回响影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/回响影视.json"},
 {"key":"csp_XYQH_二次萌","name":"🚧二萌影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/ercimeng.json"},
 {"key":"csp_XYQH_零度","name":"🚧零度影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/lingdu.json"},
 {"key":"csp_XYQH_电影100","name":"🚧100影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/XYQH/dianying100.json"},

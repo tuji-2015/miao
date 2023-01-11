@@ -2,7 +2,7 @@ muban.首图2.二级.desc = ';;;.stui-content__detail p:eq(1)&&Text;.stui-conten
 var rule = {
 	title:'在线之家',
 	模板:'首图2',
-	host:'https://zxzj.vip',
+	host:'https://www.zxzj.pro',
 	url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'-{{fl.area}}-{{fl.by}}-{{fl.class}}-----fypage---{{fl.year}}',

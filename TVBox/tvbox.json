@@ -1,5 +1,5 @@
 {
-"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0103.jar;md5;bdde7063cf2a724c058ba972c752afcb",
+"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0103.jar;md5;08b4d57b0e1d57c6bb007b587f79fd59",
 
 //"wallpaper":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/bg/mo.png",
 "wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -86,7 +86,7 @@
 //{"key":"csp_Nbys","name":"📺泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"🍺布蕾影视(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"🌐追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_ZJMiao","name":"🌊新视觉(SP)","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},

@@ -926,7 +926,7 @@
 {"name":"⌛️BT5V","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️FUQ","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️Q1C","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️免费","type":1,"url":"https://json.freejx.in/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"⌛️万年","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️1080","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️DYG","type":1,"url":"http://13.125.130.101:55834/parse/api/dyg.js?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️CK","type":1,"url":"http://api.ckflv.cn/?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},

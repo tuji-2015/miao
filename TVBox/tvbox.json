@@ -324,8 +324,8 @@
 {"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},
 
 #XBPQ系列
-{"key":"csp_xBPQ_剧情网","name":"🧀剧情网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/剧情网.json"},
-{"key":"csp_xBPQ_佑尘云影视","name":"🧀佑尘云影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/佑尘云影视.json"},
+{"key":"csp_xBPQ_剧情网","name":"🧀剧情网(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/剧情网.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/XBPQ.jar"},
+{"key":"csp_xBPQ_佑尘云影视","name":"🧀佑尘云影视(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/佑尘云影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/XBPQ.jar"},
 {"key":"csp_xBPQ_嗯哩嗯哩","name":"🧀嗯哩嗯哩(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://enlienli.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_xBPQ_云播影视","name":"🧀云播影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 {"key":"csp_xBPQ_兄弟","name":"🧀兄弟影视(xBPQ)","type":3,"api":"csp_xBPQ","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/xiongdi.json"},

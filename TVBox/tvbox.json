@@ -940,7 +940,7 @@
 {"name":"⌛️星辰2","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=9f22d9f901e71ae348311fff9ec47db9&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️ICU","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=6399107&key=bdlmrswBDHIKZ01238&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️255","type":1,"url":"https://jx.255jx.tk/api/?key=YYac1YA1lkwwf3an4G&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"⌛️万年","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"⌛️万年","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"⌛️DYG","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️CK","type":1,"url":"https://tljiaqing.nde.tw/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"⌛️QW","type":1,"url":"https://jxm.qwrev534.top/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

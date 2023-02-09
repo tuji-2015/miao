@@ -892,6 +892,7 @@
 //{"name":"轮询","type":2,"url":"Sequence","header":{"User-Agent":"Mozilla/5.0"}},
 #type1聚合.并发.轮询
 {"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈯M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯OK","type":0,"url":"https://okjx.cc/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯布蕾","type":0,"url":"https://blbfq.f3322.net/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
@@ -902,9 +903,6 @@
 {"name":"🈯777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯HHH","type":0,"url":"http://hhhhhhhhhhh.cn:99/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈯18MITY","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈯34MITY","type":0,"url":"https://z1.m1907.cn/?jx=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🆗14MITY","type":0,"url":"https://www.mtosz.com/m3u8.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶45MTY","type":0,"url":"https://2.08bk.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶46MTY","type":0,"url":"https://jx.xymav.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶5TY","type":0,"url":"https://1717.ntryjd.net/yunapi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

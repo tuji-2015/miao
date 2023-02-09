@@ -903,19 +903,15 @@
 {"name":"🈯夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯777","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈶4K","type":0,"url":"https://jx.4kdv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯HHH","type":0,"url":"http://hhhhhhhhhhh.cn:99/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶私人","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-
-{"name":"🈹全民","type":0,"url":"http://api.wpsseo.cn/jx/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
 {"name":"🈶无名","type":0,"url":"https://www.administratorw.com/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶9TYC","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶47IT","type":0,"url":"https://jx.t7g.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶23IT","type":0,"url":"https://player.maqq.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶21TY","type":0,"url":"https://jx.4kdv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶12TYC","type":0,"url":"https://www.1717yun.com/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈶13TY","type":0,"url":"http://vip.26db.cn/b/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈶26db","type":0,"url":"http://vip.26db.cn/b/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈹8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈹全民","type":0,"url":"http://api.wpsseo.cn/jx/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈹爱解析","type":0,"url":"https://jx.t7g.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
 {"name":"🈶29MIY","type":0,"url":"https://www.daga.cc/vip1/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶31MIY","type":0,"url":"https://www.pouyun.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶25IY","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

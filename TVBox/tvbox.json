@@ -891,9 +891,9 @@
 //{"name":"Json并发","type":2,"url":"Parallel","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"轮询","type":2,"url":"Sequence","header":{"User-Agent":"Mozilla/5.0"}},
 #type1聚合.并发.轮询
+{"name":"🈯39ALL","type":0,"url":"https://okjx.cc/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗38MITY","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈯2MITY","type":0,"url":"http://1jx.7yys.cn/?url=","ext":{"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"🈯39MITY","type":0,"url":"https://api.okjx.cc:3389/jx.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
 {"name":"🆗50MITY","type":0,"url":"https://blbfq.f3322.net/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗24MITY","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯27MITY","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

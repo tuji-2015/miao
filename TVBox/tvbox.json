@@ -891,6 +891,7 @@
 //{"name":"Json并发","type":2,"url":"Parallel","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"轮询","type":2,"url":"Sequence","header":{"User-Agent":"Mozilla/5.0"}},
 #type1聚合.并发.轮询
+{"name":"🆗H8","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

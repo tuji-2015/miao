@@ -65,7 +65,7 @@
 //{"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://raw.iqiq.io/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
 
 #爬虫站
-{"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"📍图图影视(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},

@@ -888,9 +888,6 @@
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"JS聚合","type":3,"url":"Demo"},
-//{"name":"Json并发","type":2,"url":"Parallel","header":{"User-Agent":"Mozilla/5.0"}},
-//{"name":"轮询","type":2,"url":"Sequence","header":{"User-Agent":"Mozilla/5.0"}},
-#type1聚合.并发.轮询
 {"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈯布蕾","type":0,"url":"https://blbfq.f3322.net/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

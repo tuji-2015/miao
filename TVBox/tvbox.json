@@ -888,11 +888,11 @@
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"JS聚合","type":3,"url":"Demo"},
-{"name":"🆗91","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🆗91","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"🈯BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗CKM","type":0,"url":"https://www.ckmov.vip/api.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🆗CKP","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"🈶盘古","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},

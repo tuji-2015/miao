@@ -1,6 +1,6 @@
 var rule={     
     title:'NFM影视',
-    host:'https://netflix.mom',
+    host:'https://yanetflix.tv',
     url:'/vodshow/fyclass--------fypage---.html',
     searchUrl:'/vodsearch/**----------fypage---.html',
     searchable:2,//是否启用全局搜索,

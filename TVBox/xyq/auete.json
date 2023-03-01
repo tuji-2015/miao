@@ -1,5 +1,5 @@
 {
-	"homeUrl": "https://auete.com/{cateId}/index{catePg}.html",
+	"homeUrl": "https://auete.org/{cateId}/index{catePg}.html",
 	"cateManual": {
 		"电影": "Movie",
 		"电视剧": "Tv",
@@ -7,13 +7,13 @@
 		"动漫": "Dm"
 	}, 
 	"list":{
-		"1": "https://auete.com/{cateId}/index.html",
-		"url": "https://auete.com/{cateId}/index{catePg}.html", 
+		"1": "https://auete.org/{cateId}/index.html",
+		"url": "https://auete.org/{cateId}/index{catePg}.html", 
 		"region": ["<ul class=\"threadlist\">","</ul>"],
 		"vod_id": ["href=\"/", "\"", 0, 0, 2]
 	},
 	"detail":{
-		"url": "https://auete.com/{vid}",
+		"url": "https://auete.org/{vid}",
 		"vod_director":["导演: ", "</p>", 0, 0, 3]
 	},
 	"playlist":{
@@ -21,7 +21,7 @@
 		"vod_play_url": ["href=\"/", "\"",-1,0,3]
 	}, 
 	"search":{
-		"url": "https://auete.com/search.php?searchword={wd}", 
+		"url": "https://auete.org/search.php?searchword={wd}", 
 		//"region":["搜索列表", "点击排行"],
 		"vod_id": ["data-href=\"", "\"", 0, 0, 1]
 	

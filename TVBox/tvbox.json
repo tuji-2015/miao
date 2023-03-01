@@ -309,7 +309,7 @@
 {"key":"csp_xbu_段友影视","name":"📼段友影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shangjihuoke.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_冷曦视频","name":"📼冷曦视频(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lenxitv.cc/t/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_影视工场","name":"📼影视工场(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xbu_钉子电影","name":"📼钉子电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dingzidy.wang/type/{cateId}-{catePg}.html"},
+{"key":"csp_xbu_钉子电影","name":"📼钉子电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.dzdyun.com/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_黑洞影视","name":"📼黑洞影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_1080ys","name":"📼1080影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://1080p.tv/vodtype/2/id/{cateId}.html"},
 {"key":"csp_xb_auete","name":"📼Auete(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/auete.json","playerType":1},

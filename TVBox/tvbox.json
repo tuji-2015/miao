@@ -215,6 +215,7 @@
 {"key":"百度","name":"🉐百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
 #XYQHiker系列
+{"key":"csp_XYQH_野荷塘影院","name":"🚧野荷塘影院(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/野荷塘影院.json"},
 {"key":"csp_XYQH_在线之家","name":"🚧在线之家(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/在线之家.json"},
 {"key":"csp_XYQH_4K极客","name":"🚧4K极客(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/4K极客.json"},
 {"key":"csp_XYQH_39影视","name":"🚧39影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/39影视.json"},

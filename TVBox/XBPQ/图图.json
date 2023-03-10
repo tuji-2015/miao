@@ -1,7 +1,7 @@
 {
     "作者": "劳思",
     "站名": "图图",
-    "主页url": "http://45.207.11.9:5533/",
+    "主页url": "http://45.207.11.9:7728",
     "请求头": "",
     "热门推荐": "0",
     "起始页": "1",
@@ -14,7 +14,7 @@
     "标题": "vod_name",
     "副标题": "vod_remarks",
     "链接": "vod_id",
-    "链接前缀": "http://45.207.11.9:5533/api.php/v1.vod/detilldata?vod_id=",
+    "链接前缀": "http://45.207.11.9:7798/api.php/v1.vod/detilldata?vod_id=",
     
     "线路二次截取": "",
     "线路数组": "\"status\"&&\"show",
@@ -37,7 +37,7 @@
     "过滤词":"",
     "播放请求头": "",
 
-    "搜索url": "http://45.207.11.9:5533/api.php/v1.vod?wd={wd}&page={pg}",
+    "搜索url": "http://45.207.11.9:7798/api.php/v1.vod?wd={wd}&page={pg}",
     "搜索模式": "0",
     "搜索二次截取": "",
     "搜索数组": "class=\"myui-vodlist__thumb&&</li>",
@@ -46,7 +46,7 @@
     "搜索链接": "href=\"&&\"",
     "搜索链接前缀": "",
 
-    "分类url": "http://45.207.11.9:5533/api.php/v1.vod?type={cateId}&page={catePg}",
+    "分类url": "http://45.207.11.9:7798/api.php/v1.vod?type={cateId}&page={catePg}",
 
     "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
  

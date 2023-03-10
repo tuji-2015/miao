@@ -2,16 +2,25 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "双十电影",
   "主页url": "https://www.1010dy3.com",
-  "免嗅": "1",
   
-  "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+  "分类": "电影&电视剧&动漫&综艺",
+  "分类值": "1&2&3&4",
   
   "分类url": "https://www.1010dy3.com/show/{cateId}{area}{by}{class}{year}/page/{catePg}",
   
   "副标题": "text-right\">&&</span>",
   
-  "搜索后缀": "/detail/",
+  "搜索模式": "1",
+  "搜索url": "/search/page/1/wd/{wd}/",
+  "搜索数组": "<div class=\"thumb\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "text-right\">&&</span>",
   
+  "影片年代": "年份：&&</p>",
+  "影片地区": "地区：&&<span",
+  "影片类型": "类型：&&<span",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
   "简介": "<p class=\"col-pd\">&&</span>",

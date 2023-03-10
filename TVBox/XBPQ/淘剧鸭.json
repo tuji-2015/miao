@@ -2,6 +2,7 @@
 "作者":"张弘",
 "站名":"淘剧鸭",
 "主页url":"https://www.30dian.cn",
+"免嗅":"1",
 "副标题":"text-right\"&&</span>",
 "搜索后缀":"/voddetail/",
 "导演":"导演：&&</p>",
@@ -10,8 +11,6 @@
 "线路数组":"<a href=\"#playlist&&/a>",
 "线路标题":">&&<",
 "播放数组":"<div id=\"playlist&&</div>",
-"免嗅":"1",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"电影$1#连续剧$2#动漫$4#综合$3#纪录片$30",
 "分类url":"https://www.30dian.cn/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{

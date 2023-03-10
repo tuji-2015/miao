@@ -2,14 +2,15 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "耐看点播",
   "主页url": "https://www.nkvod.com",
-  "免嗅": "1",
   
-  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  "分类": "电影&电视剧&综艺&动漫",
+  "分类值": "1&2&3&4",
   
   "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
+  "搜索模式": "0",
   "搜索后缀":"/detail/",
   
   "导演": "导演：&&</div>",
@@ -17,7 +18,7 @@
   "简介": "<p>&&</p>",
   
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "module-play-list\">&&</div>",
   

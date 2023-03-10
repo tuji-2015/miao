@@ -3,23 +3,22 @@
   "站名": "23影视",
   "主页url": "https://222.186.150.32",
   
-  "分类": "电影&剧集&综艺&动漫&纪录",
+  "分类": "电影&剧集&综艺&动漫&记录",
   "分类值": "1&2&3&4&20",
   
-  "分类url": "https://222.186.150.32/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-
+  "分类url": "https://222.186.150.32/vodshow{area}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "数组": "pack-ykpack\">&&pack-subtitle",
   "标题": "<a class=\"channelname\"*>&&</a>",
   "副标题": "pack-prb\"><span>&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/vodsearch/page/{pg}/wd/{wd}.html",
-  "搜索数组": "<li class=\"padd cf\">&&</p>",
+  "搜索url": "/vodsearch.html?wd={wd}",
+  "搜索数组": "<div class=\"ecimgbor&&</p>",
   "搜索图片": "data-original=\"&&\"",
-  "搜索标题": "title=\"&&23影视",
-  "搜索副标题": "状态：</span>&&</span>",
+  "搜索标题": "href*>&&</a>",
   "搜索链接": "href=\"&&\"",
+  "搜索副标题": "author\">&&</span>",
   
   "影片地区": "地区：&&</p>",
   "影片类型": "类型：&&</p>",

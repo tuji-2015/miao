@@ -2,6 +2,7 @@
 "作者":"张弘",
 "站名":"AB影院",
 "主页url":"https://www.abu22.com",
+"热门推荐":"1",
 "起始页":"1",
 "数组":"<li class=\"stui-vodlist__item\">&&</li>",
 "图片":"data-original=\"&&\"",
@@ -26,8 +27,6 @@
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
 "分类url":"https://www.abu22.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录$5",
 "筛选":

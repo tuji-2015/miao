@@ -2,22 +2,23 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "RENPE",
   "主页url": "https://mac.rp123.top",
-  "免嗅": "1",
   
-  "分类": "电影$1#4K专区$40#连续剧$2#综艺$3#动漫$4#记录$35",
+  "分类": "电影&4K专区&连续剧&综艺&动漫&记录",
+  "分类值": "1&40&2&3&4&35",
   
   "分类url": "https://mac.rp123.top/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   
   "副标题": "module-item-note\">&&</div>",
   
-  "搜索后缀":"/voddetail/",
+  "搜索模式": "0",
+  "搜索后缀": "/voddetail/",
   
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
-  "简介": "list\"><span>&&</span>",
+  "简介": "<p>&&</p>",
   
   "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>",
+  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
   "播放数组": "class=\"module-play-list\">&&</div>",
   

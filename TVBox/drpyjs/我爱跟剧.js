@@ -4,7 +4,6 @@ var rule={
     title:'我爱跟剧',
     模板:'mxone5',
     host:'https://www.52gen.top/',
-    //host:'https://www.genmov.com',
     // url:'/vodshow/fyclass-----------.html',
 	url:'/vodshow/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,

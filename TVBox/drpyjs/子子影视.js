@@ -1,11 +1,9 @@
+muban.mxone5.二级.desc = '.video-info-items:eq(6)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule={
     title:'子子影视',
+    模板:'mxone5',
     host:'https://www.ziziys.com',
-    // homeUrl:'/',
-    //url:'/list/fyclass/page/fypage.html',
-    searchUrl:'/vsearch/--.html?wd=**',
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+    // url:'/list/fyclass/page/fypage.html',
     url:'/list/fyfilter/page/fypage.html',
     filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}',
@@ -15,26 +13,11 @@ var rule={
 		2:{cateId:'2'},
 		3:{cateId:'3'}
 	},
-    headers:{//网站的请求头,完整支持所有的,常带ua和cookies
-        'User-Agent':'MOBILE_UA',
-        // "Cookie": "searchneed=ok"
-    },
     class_name:'电影&电视剧&动漫',
     class_url:'1&2&3',
-    lazy:'',
-    limit:6,
-    double:true, // 推荐内容是否双层定位
-    // 推荐:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
-    推荐:'.module-items:eq(0);.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
-    一级:'.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
-    二级:{
-    	"title":"h1&&Text;.video-info-header&&Text",
-    	"img":".lazyload&&data-src",
-    	// "desc":".video-info-items:eq(1)&&Text;.video-info-items:eq(2)&&Text;.video-info-items:eq(3)&&Text",
-    	"desc":";;;.video-info-main .video-info-actor:eq(1)&&Text;.video-info-main .video-info-actor:eq(0)&&Text",
-    	"content":".vod_content&&Text",
-    	"tabs":".module-tab-item",
-    	"lists":".sort-item:eq(#id) a"
-	},
-    搜索:'.module-items;.lazyload&&alt;.lazyload&&data-src;.tag-link&&Text;*',
+    class_parse:'',
+    // searchUrl:'/vsearch/**--fypage.html',
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+    detailUrl:'/vdetail/fyid.html', //非必填,二级详情拼接链接
+    搜索:'json:list;name;pic;;id',
 }

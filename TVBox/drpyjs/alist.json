@@ -1,15 +1,135 @@
-[{
-	"name": "丫仙女",
-	"server": "http://alist.xiaoya.pro/",
-	"startPage": "/",
-	"showAll": false,
-	"search": true,
-	"params": {
-		"/abc": {
-			"password": "123"
-		},
-		"/abc/abc": {
-			"password": "123"
-		}
-	}
-}]
+[
+    {
+        "name": "🙋丫仙女",
+        "server": "http://alist.xiaoya.pro",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "肥猫",
+        "server": "https://alist.ys-box.repl.co/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "蓝魔",
+        "server": "https://alistcn.repl.co",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "小白",
+        "server": "https://xgs.rainyun.pro/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "一只鱼",
+        "server": "https://alist.youte.ml",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "神族",
+        "server": "https://alist.shenzjd.com",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "姬路",
+        "server": "https://pan.jlbx.xyz",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "听闻",
+        "server": "https://wangpan.sangxuesheng.com",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "DISK",
+        "server": "http://124.222.140.243:8080",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "云播放",
+        "server": "https://quanzi.laoxianghuijia.cn",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "星梦",
+        "server": "https://pan.bashroot.top",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "触光",
+        "server": "https://pan.ichuguang.com",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "好汉吧",
+        "server": "https://8023.haohanba.cn",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "小光组",
+        "server": "https://6vv.app",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "SB盘",
+        "server": "http://sbpan.tk",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "repl",
+        "server": "https://ali.liucn.repl.co",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "秋雨分享",
+        "server": "https://share.laowang.me",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "梓澪",
+        "server": "https://zi0.cc",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    },
+    {
+        "name": "讯维",
+        "server": "https://pan.xwbeta.com",
+        "startPage": "/",
+        "showAll": false,
+        "search": true
+    }
+]

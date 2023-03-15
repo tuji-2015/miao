@@ -1,10 +1,10 @@
+// 搜索验证
+muban.mxone5.二级.desc = ';;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
+muban.mxone5.二级.content = '.sqjj_a--span&&Text';
 var rule={
-title:'来看点播',
-host:'https://www.lkvod.cc',
-//url:'/show/fyclass--hits------fypage---.html',
-searchUrl:'/search/**----------fypage---.html',
-searchable:2,
-quickSearch:0,
+    title:'来看点播',
+    模板:'mxone5',
+    host:'https://www.lkvod.cc',
 	url:'/show/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
@@ -15,15 +15,12 @@ quickSearch:0,
 		3:{cateId:'3'},
 		4:{cateId:'4'}
 	},
-headers:{'User-Agent':'MOBILE_UA', },
-class_name:'电影&电视剧&综艺&动漫',
-class_url:'1&2&3&4',
-play_parse:true,
-lazy:'',
-limit:6,
-推荐:'.module-list;.module-items&&.module-item;a&&title;img&&data-src;.module-item-caption.right&&Text;a&&href',
-double:true, // 推荐内容是否双层定位
-一级:'.module-items .module-item;a&&title;img&&data-src;.module-item-caption.right&&Text;a&&href',
-二级:{"title":"h1&&Text;.video-info-aux&&div&&a:eq(0)&&Text","img":".module-item-pic&&img&&data-src","desc":";.video-info-aux&&a:eq(1)&&Text;.video-info-aux&&a:eq(2)&&Text;.video-info-items:eq(1)&&Text;.video-info-items:eq(0)&&Text","content":".sqjj_a&&Text","tabs":".module-tab-content&& span","lists":".module-player-list:eq(#id)&&.scroll-content&&a"},
-搜索:'.module-items .module-item;a&&title;img&&data-src;.module-item-caption.right&&Text;a&&href',
+    class_parse: '.nav-menu-items .nav-menu-item:gt(0):lt(5);a&&Text;a&&href;.*/(.*?).html',
+    推荐: '*',
+    double: false,
+    一级: '.module-items .module-item;a&&title;img&&data-src;.module-item-caption.right&&Text;a&&href',
+
+    searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
+	搜索:'json:list;name;pic;;id',
 }

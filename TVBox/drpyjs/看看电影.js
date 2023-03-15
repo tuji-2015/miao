@@ -1,10 +1,10 @@
+muban.首图.二级.desc = '.data--span:eq(1)&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(3)&&Text';
+muban.首图.二级.content = '.sketch&&Text';
 var rule={
-    title:'看看电影',
-    host:'https://www.kkdy.live',
-   // url:'/vod-type-id-fyclass-page-fypage.html',
-    searchUrl:'/vod-search-page-fypage-wd-**.html',
-    searchable:2,//是否启用全局搜索,
-    quickSearch:0,//是否启用快速搜索,
+	title:'看看电影',
+	模板:'首图',
+	host:'https://www.kkdy.live',
+	// url:'/vod-show-id-fyclass-page-fypage.html',
 	url:'/vod-show-id-fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}-page-fypage{{fl.year}}',
@@ -16,19 +16,7 @@ var rule={
 		dongman:{cateId:'dongman',by:'-by-time'},
 		documentary:{cateId:'documentary',by:'-by-time'}
 	},
-    headers:{
-        'User-Agent':'UC_UA',
-    },
-    // class_parse:'.fed-pops-navbar&&ul.fed-part-rows&&a.fed-part-eone:gt(0):lt(5);a&&Text;a&&href;.*/(.*?).html',
-    //class_parse:'.myui-header__menu&&li:gt(0):lt(6);a&&Text;a&&href;.*/(.*?).html',
-    class_name:'电影&电视剧&综艺&动漫&纪录片',
-    class_url:'movie&tvplay&zongyi&dongman&documentary',
-    play_parse:true,
-    lazy:'',
-    limit:6,
-    推荐:'ul.myui-vodlist.clearfix;li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
-    double:true, // 推荐内容是否双层定位
-    一级:'.myui-vodlist li;a&&title;a&&data-original;.pic-text&&Text;a&&href',
-    二级:{"title":".myui-content__detail .title&&Text;.myui-content__detail p:eq(-1)&&Text","img":".myui-content__thumb .lazyload&&data-original","desc":".myui-content__detail p:eq(-1)&&Text;.myui-content__detail p:eq(-1)&&Text;.myui-content__detail p:eq(-2)&&Text;.myui-content__detail p:eq(3)&&Text;.myui-content__detail p:eq(4)&&Text","content":".content&&Text","tabs":".nav-tabs:eq(0) li","lists":".myui-content__list:eq(#id) li"},
-    搜索:'#searchList li;a&&title;.lazyload&&data-original;.pic_text.text_right&&Text;a&&href;.text-muted:eq(-1)&&Text',
+	searchUrl:'/vod-search-page-fypage-wd-**.html',
+	class_parse: '.myui-header__menu li.hidden-sm;a&&Text;a&&href;/vod-type-id-(\\w+).html',
+	lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}input="https://www.kkdy.live/addons/dp/player/index.php?key=0&id="+html.id+"&from="+html.from+"&url="+url',
 }

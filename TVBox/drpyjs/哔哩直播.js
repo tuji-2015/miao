@@ -6,8 +6,10 @@ DMBox下载:https://t.me/pipixiawerun
 
 /* Cookie设置
 Cookie获取方法 https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
+
 Cookie设置方法1: DR-PY 后台管理界面
 CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
+
 Cookie设置方法2: 手动替换Cookie
 底下代码 headers的
 "Cookie":"$bili_cookie"

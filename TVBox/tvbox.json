@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo0313.jar;md5;4d4928e4505e301355aedfa1e43e9d71",
+"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo0316.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 
 //"wallpaper":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -98,6 +98,7 @@
 {"key":"csp_Xinsj","name":"🌊新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
+{"key":"csp_zxzjH3","name":"📗在线H3(SP)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"csp_Dy1010","name":"❤️双十影院(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},

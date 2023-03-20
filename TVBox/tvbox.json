@@ -106,6 +106,7 @@
 {"key":"Tangrenjie","name":"🏯唐人街(SP)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"直播","name":"📡电视","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/biliych.json"},
 {"key":"Tbook","name":"🌿听书网(SP)","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},

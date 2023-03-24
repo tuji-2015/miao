@@ -1,5 +1,5 @@
 {
-"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0316.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
+"spider":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0320.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
 
 //"wallpaper":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -65,7 +65,7 @@
 //{"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://hk1.monika.love/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
 
 #爬虫站
-{"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
+{"key":"csp_SP33","name":"🎾360(SP)","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 {"key":"csp_AppTT","name":"📍图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -88,6 +88,7 @@
 //{"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0103.jar"},
 {"key":"csp_Ddrk","name":"🎬低端影视(SP)","api":"csp_Ddrk","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nbys","name":"📺泥巴(SP)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeiJu69","name":"🗽69美剧┃直连","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/"},
 {"key":"csp_BuLei","name":"🍺布蕾影视(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.bulei.cc"},
 //{"key":"csp_Zjdr","name":"🌐追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/xo0103.jar"},
 {"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},

@@ -48,7 +48,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             pic = a.xpath('./@data-original')[0]
             mark = a.xpath("./span[2]/text()")[0]
             sid = a.xpath("./@href")[0]
-            sid = self.regStr(sid, "/detail/(\\d+).html")
+            sid = self.regStr(sid, "/detail_(\\d+).html")
             videos.append({
                 "vod_id": sid,
                 "vod_name": name,
@@ -69,7 +69,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         for key in extend:
             urlParams[int(key)] = extend[key]
         params = '-'.join(urlParams)
-        url = 'https://www.libvio.me/show/{0}.html'.format(params)
+        url = 'https://www.libvio.me/show_{0}.html'.format(params)
         print(url)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
@@ -80,7 +80,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             pic = a.xpath('./@data-original')[0]
             mark = a.xpath("./span[2]/text()")[0]
             sid = a.xpath("./@href")[0]
-            sid = self.regStr(sid, "/detail/(\\d+).html")
+            sid = self.regStr(sid, "/detail_(\\d+).html")
             videos.append({
                 "vod_id": sid,
                 "vod_name": name,
@@ -97,7 +97,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self, array):
         tid = array[0]
-        url = 'https://www.libvio.me/detail/{0}.html'.format(tid)
+        url = 'https://www.libvio.me/detail_{0}.html'.format(tid)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
         node = root.xpath("//div[@class='stui-pannel__bd']")[0]

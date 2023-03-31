@@ -1,12 +1,14 @@
 muban.首图2.二级.title = 'h1&&Text;.data:eq(0)&&Text'
 muban.首图2.二级.desc = '.data.hidden-xs&&Text;;;.data:eq(1)&&Text;.data:eq(4)&&Text'
+muban.首图2.二级.content = '.detail-content&&Text'
 var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
 	// host:'https://libvio.fun',
-	// host:'https://tv.libvio.cc',
-	host:'https://www.libvio.me',
-	//url:'/type_fyclass-fypage.html',
+	host:'https://tv.libvio.cc',
+	// host:'https://libvio.me',
+	// url:'/type/fyclass-fypage.html',
+	// url:'/show/fyclassfyfilter.html',
 	url:'/show_fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',
@@ -20,11 +22,14 @@ var rule = {
 	},
 	headers:{//网站的请求头,完整支持所有的,常带ua和cookies
 		'User-Agent':'MOBILE_UA',
-		'Referer':'https://www.libvio.me'
+		'Referer':'https://tv.libvio.cc/'
 	},
-	class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
+	// class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
+	class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
 	tab_exclude:'夸克网盘',
+	pagecount:{"27":1},
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**',
+	// detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
 	detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接
 	// searchUrl:'/search/**----------fypage---.html',
 	搜索:'json:list;name;pic;;id',

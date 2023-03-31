@@ -1,5 +1,5 @@
 {
-    "title": "",
+    "title": "神马影视",
     "author": "香雅情",
     "UserAgent": "Mozilla/5.0 (Linux; Android 12; V2049A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36",
     "firstpage": "1",
@@ -727,7 +727,7 @@
     "tab_twice_suf": "",
     "tab_arr_pre": "<h3 class=\"iconfont icon",
     "tab_arr_suf": "/h3>",
-    "tab_title": ">&&<",
+    "tab_title": ">&&<[不包含:更多]",
     "list_YN_twice": "0",
     "list_twice_pre": "空",
     "list_twice_suf": "空",
@@ -741,5 +741,9 @@
     "epi_title": ">&&<",
     "epi_url": "href=\"&&\"",
     "epiurl_prefix": "https://www.smdyy.cc",
-    "epiurl_suffix": ""
+    "epiurl_suffix": "",
+    //是否开启手动嗅探
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv"
 }

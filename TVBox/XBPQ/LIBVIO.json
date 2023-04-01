@@ -20,7 +20,7 @@
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索后缀":"/detail_",
+"搜索后缀":"/detail/",
 "搜索链接前缀":"",
 "线路数组":"class=\"stui-pannel__head&&</div>[不包含:夸克网盘]",
 "线路标题":">&&</h3>",
@@ -36,7 +36,7 @@
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
 "分类":"电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
-"分类url":"https://www.libvio.me/show_{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.libvio.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {

@@ -19,9 +19,8 @@
   },
 
   
-  "cateUrl": "https://dy18.fun/catalog?column={cateId}&page={catePg}",
-  
-  
+  "cateUrl": "https://dy18.fun/catalog?column={cateId}&sort=1&per_page=72&page={catePg}",
+	
 
   
   "cateVodNode": "json:JsonR",

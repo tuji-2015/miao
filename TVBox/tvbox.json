@@ -973,7 +973,7 @@
 ],
 
 "parses":[
-{"name":"JSON聚合","type":3,"url":"Demo"},
+//{"name":"JSON聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["sohu","SoHu","搜狐","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"🆗H8","type":0,"url":"http://www.h8jx.com/jiexi.php?url=","ext":{"flag":["sohu","SoHu","搜狐","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},

@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;e911ef9b3f3c5101a90cdfd022f566f0",
+"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;528559dc26fc8138875e8bf32f670cac",
 
 //"wallpaper":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -73,6 +73,7 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 //{"key":"csp_FanYY","name":"💦剥饭(SP)","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
+{"key":"csp_Pansearch","name":"😾盘寻","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"Yunsou","name":"🍭云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"YiSou","name":"1️⃣易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/alitoken"},
@@ -102,7 +103,7 @@
 {"key":"csp_Xinsj","name":"🌊新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
-{"key":"csp_zxzjH3","name":"📗在线H3(SP)","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_zxzj","name":"📗在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Dy1010","name":"❤️双十影院(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -130,9 +131,9 @@
 {"key":"csp_Jianying","name":"✨简影(SP)","api":"csp_JianYing","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"},
 
 #官站资源
-{"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"优酷(官源)","name":"⚡优酷(官源)","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 {"key":"搜狐(官源)","name":"🦊搜狐(官源)","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},
 {"key":"PPTV(官源)","name":"🍒PPTV(官源)","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},

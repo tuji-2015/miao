@@ -12,7 +12,7 @@
     //分类链接起始页码,禁止负数于合含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "https://www.libvio.me/type/{cateId}-{catePg}.html",
+    "class_url": "https://www.libvio.fun/type/{cateId}-{catePg}.html",
     //分类名
     "class_name": "电影&连续剧&动漫&日韩剧&欧美剧&即将上线",
     //分类名替换词，替换词中有英文&的用两个中文＆＆代替

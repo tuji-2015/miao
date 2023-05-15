@@ -1,13 +1,11 @@
 {
-"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;50fc29b6bdddd0b1d1b8a4b995620404",
+"spider":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;f8f76c056bd4f099a4b545173b16ac2e",
 
 //"wallpaper":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
 "wallpaper":"https://jianbian.chuqiuyu.tk/",
-    
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHVqaS0yMDE1L21pYW8vbWFpbi9UVkJveC90di9iYy50eHQ="]}]}],
-"lives":[{"name":"live","type":0,"url":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/tv/bc.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vdHYv"]}]}],    
+
+"lives":[{"name":"live","type":0,"url":"http://ftyyy.tk/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name":"live","type":0,"url":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/tv/bc.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
     
 "rules":[
     {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},

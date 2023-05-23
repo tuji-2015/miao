@@ -11,7 +11,7 @@
     {"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
     {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]}],
+    {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
     {"host":"*","rule":["douyin.com/aweme", "video_id="]},
     {"host":"*","rule":["default.365yg.com","/video/tos/cn/"]},
     {"host":"*","rule":["ysting.ysxs8.vip","m4a"]},

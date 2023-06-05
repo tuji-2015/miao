@@ -128,6 +128,8 @@
 {"key":"csp_如意","name":"🏵如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_红红","name":"🌈红红","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_黄黄","name":"😎黄黄","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"csp_多米","name":"🌽️多米","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
+{"key":"csp_爱迪","name":"💖爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"csp_YQK_spider","name":"👒一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_niketv_spider","name":"💮耐客TV(SP)","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},
 {"key":"csp_棉花影视","name":"🌾棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},

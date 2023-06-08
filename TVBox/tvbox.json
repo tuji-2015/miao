@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.fastgit.org/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;07099ea7d907106be7990ad9db491f2a",
+"spider":"https://raw.fastgit.org/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;5ce71caef727c72289254da2925f7af5",
 
 //"wallpaper":"https://raw.fastgit.org/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -73,6 +73,7 @@
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Miaobo","name":"🔥秒播(SP)","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_FanYY","name":"💦剥饭(SP)","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},

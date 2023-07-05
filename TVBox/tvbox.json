@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+"spider":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
 
 //"wallpaper":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -85,7 +85,7 @@
 {"key":"csp_TuGou","name":"😿土狗","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$fanfan$$$qqq111"},
 {"key":"csp_AppMr","name":"👻明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DuoX","name":"💢多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DuoX","name":"💢多线(SP)","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"key":"csp_YT探探","name":"🏵探探(APP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys01","name":"📯哔嘀影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -105,7 +105,7 @@
 {"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun"},
 {"key":"csp_Tkys","name":"❄️天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/jar/xo0103.jar"},
 //{"key":"csp_Yht","name":"🍀野荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc","jar":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/jar/mao.jar"},
-{"key":"csp_fantuan","name":"🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"csp_fantuan","name":"🍙饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Xinsj","name":"🌊新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
@@ -125,6 +125,7 @@
 {"key":"csp_Xinsj","name":"🐼新视觉(APP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy4.com"},
 {"key":"csp_Vofl","name":"🎈Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_陌陌","name":"🍄陌陌(SP)","type":3,"api":"csp_MmYs","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Nkdy","name":"🗽南柯(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fgit.ml/tuji-2015/miao/main/TVBox/jar/xo0103.jar"},
 {"key":"csp_Nmys","name":"🌾农民(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.饭太硬.ga/x/json/nmys.json"},
 {"key":"csp_如意","name":"🏵如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},

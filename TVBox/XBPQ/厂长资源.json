@@ -1,13 +1,13 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "厂长资源",
-  "主页url": "https://czzy.pro",
+  "主页url": "https://cz01.cc",
   "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54#Cookie$myannoun=1; Hm_lvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1670321007,1671784910,1672743612; Hm_lvt_d06dda04a24e89e1117ee1455e217c30=1670321007,1671784910,1672743612; Hm_lpvt_d06dda04a24e89e1117ee1455e217c30=1672743885; Hm_lpvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1672743885",
   
   "分类": "豆瓣电影Top250&最新电影&高分影视&电视剧&国产剧&美剧&韩剧&番剧&动漫",
   "分类值": "dbtop250&zuixindianying&gaofenyingshi&dsj&gcj&meijutt&hanjutv&fanju&dm",
   
-  "分类url": "https://czzy.pro/{cateId}/page/{catePg}",
+  "分类url": "https://cz01.cc/{cateId}/page/{catePg}",
   
   "数组": "<li>&&</li>",
   "图片": "data-original=\"&&\"",

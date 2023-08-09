@@ -387,7 +387,7 @@
 {"key":"csp_xbu_5G","name":"📼5G影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_9sha","name":"📼9杀影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_webdillo","name":"📼宝仙HD(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_xbu_cokemv","name":"📼Cokemv(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","playerType":1},
+{"key":"csp_xbu_cokemv","name":"📼Cokemv(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.cokemv.fun/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_REPEN","name":"📼RENPE(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 
 #XYQB系列

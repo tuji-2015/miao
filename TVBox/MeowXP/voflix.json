@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.voflix.com/",
+  "homeUrl": "https://www.voflix.me/",
   "cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype')]",
   "cateName": "/text()",
   "cateId": "/@href",
@@ -19,7 +19,7 @@
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[@class='module-item-note']/text()",
   
-  "cateUrl": "https://www.voflix.com/show/{cateId}-{area}-{by}-{catelog}-{lang}----{catePg}---{year}.html",
+  "cateUrl": "https://www.voflix.me/show/{cateId}-{area}-{by}-{catelog}-{lang}----{catePg}---{year}.html",
   "cateVodNode": "//a[contains(@class, 'module-poster-item module-item')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
@@ -28,7 +28,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//div[@class='module-item-note']/text()",
   
-  "dtUrl": "https://www.voflix.com/detail/{vid}.html",
+  "dtUrl": "https://www.voflix.me/detail/{vid}.html",
   "dtNode": "//div[@class='module-main']",
   "dtName": "//h1/text()",
   "dtNameR": "",
@@ -59,7 +59,7 @@
   "dtUrlName": "/span/text()",
   "dtUrlNameR": "",
 
-  "playUrl": "https://www.voflix.com/play/{playUrl}.html",
+  "playUrl": "https://www.voflix.me/play/{playUrl}.html",
   "playUa": "",
 
   "filter": {

@@ -1,6 +1,6 @@
 {
 "name": "009-🥒饭团影院",
-"url": "https://www.fantuantva.com",
+"url": "https://www.fantuan3.com",
 "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
 "fenlei": "动作片$/t/dongzuopian-#喜剧片$/t/xijupian-#爱情片$/t/aiqingpian-#科幻片$/t/kehuanpian-#动作片$/t/kongbupian-#剧情片$/t/juqingpian-#战争片$/t/zhanzhengpian-#国产剧$/t/guochanju-#港台剧$/t/gangtaiju-#日韩剧$/t/rihanju-#欧美剧$/t/oumeiju-#其他剧$/t/qitaju-#综艺$/t/zongyi-#动漫$/t/dongman-",

@@ -9,7 +9,7 @@
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
   "shifouercijiequ": "1",
-  "jiequqian": "class="vod-item-img shining\"", 
+  "jiequqian": "class=\"vod-item-img shining\"", 
   "jiequhou": "</div>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "<a",

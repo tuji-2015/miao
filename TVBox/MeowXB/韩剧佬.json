@@ -24,10 +24,10 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
 //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuoqian": "/search/-------------.html?wd=",
   "sousuohou": "&limit=500",
 //------搜索页影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/vod/",
+  "sousuohouzhui": "/hj/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -47,7 +47,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
 //播放截取的列表数组的前关键词
-  "bfjiequshuzuqian": "class=\"myui-content__list",
+  "bfjiequshuzuqian": "id="ewave-playlist-2\"",
 //播放截取的列表数组的后关键词
   "bfjiequshuzuhou": "</ul>",
 //------下面的是详情内容可以不动

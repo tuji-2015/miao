@@ -47,7 +47,7 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
 //播放截取的列表数组的前关键词
-  "bfjiequshuzuqian": "id="ewave-playlist-2\"",
+  "bfjiequshuzuqian": "class=\"row",
 //播放截取的列表数组的后关键词
   "bfjiequshuzuhou": "</ul>",
 //------下面的是详情内容可以不动

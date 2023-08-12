@@ -37,7 +37,7 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"fed-part-rows",
+"bfjiequshuzuqian": "detail-play-list\"",
 "bfjiequshuzuhou": "</ul>",
 "zhuangtaiqian": "更新：</span>",
 "zhuangtaihou": "</p >",
@@ -57,6 +57,6 @@
 "bfyjiequshuzuqian": "<a", 
 "bfyjiequshuzuhou": "/a>",
 "bfbiaotiqian": ">",
-"bfbiaotihou": "</span>", 
+"bfbiaotihou": "<",, 
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""}

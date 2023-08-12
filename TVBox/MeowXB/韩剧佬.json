@@ -8,9 +8,9 @@
   "fenlei": "电影$/show/1--------#电视剧$/show/2--------#综艺$/show/3--------#动作片$/show/6--------#喜剧片$/show/7--------#爱情片$/show/8--------#科幻片$/show/9--------#恐怖片$/show/10--------#剧情片$/show/11--------#战争片$/show/12--------#动画片$/show/24--------#国产剧$/show/22--------#港台剧$/show/14--------#韩国剧$/show/13--------#日本剧$/show/15--------#欧美剧$/show/16--------#泰国剧$/show/20--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "class=\"vod-item\">"
+  "jiequhou": "</div>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "class=\"vod-item-img shining\"",   
 //------ //截取的列表数组的后关键词

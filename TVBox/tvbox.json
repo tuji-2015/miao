@@ -308,7 +308,7 @@
 #XBiu系列
 {"key":"csp_xbu_shdy","name":"📼骚火电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shdy3.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_ybkk","name":"📼云播看看(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/"},
-{"key":"csp_xbu_vofixys","name":"📼Voflix影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
+{"key":"csp_xbu_vofixys","name":"📼Voflix影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_xbu_fqys","name":"📼番茄影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
 {"key":"csp_xbu_fttv","name":"📼饭团TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuan3.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
 {"key":"csp_xbu_hmtv","name":"📼花猫TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.huamaotv.com/type/{cateId}-{catePg}.html"},

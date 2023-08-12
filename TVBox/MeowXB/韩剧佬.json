@@ -12,9 +12,9 @@
   "jiequqian": "空",
   "jiequhou": "空",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"vod-item\">",   
+  "jiequshuzuqian": "class=\"vod-item-img shining\"",   
 //------ //截取的列表数组的后关键词
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</a>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义

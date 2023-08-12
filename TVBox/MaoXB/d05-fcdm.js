@@ -2,7 +2,7 @@
   "author":"20220529",
   "issue":"起始页码为0,有别于其他网站都是1,无法解决,所以各类别都会少了第一页的内容",
   "name": "风车动漫",
-  "url": "https://www.dm530p.net",
+  "url": "https://www.dm530w.org",
   "User": "空",
   "shouye": "1",
   "fenlei": "日本动漫$/list/?region=日本&pagesize=24&pageindex=#国产动漫$/list/?region=中国&pagesize=24&pageindex=#欧美$/list/?region=欧美&pagesize=24&pageindex=#TV$/list/?genre=TV&pagesize=24&pageindex=#剧场版$/list/?genre=剧场版&pagesize=24&pageindex=#OVA$/list/?genre=OVA&pagesize=24&pageindex=",

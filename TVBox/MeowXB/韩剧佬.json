@@ -10,9 +10,9 @@
   "houzhui": "---.html",   
   "shifouercijiequ": "1",
   "jiequqian": "class=\"vod-item\">"
-  "jiequhou": "</div>",
+  "jiequhou": "</p>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "shining\"",   
+  "jiequshuzuqian": "<a",   
 //------ //截取的列表数组的后关键词
   "jiequshuzuhou": "</a>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义

@@ -8,13 +8,13 @@
   "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------#最新推荐$/vodshow/4--------#Running Man$/vodshow/20--------",
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
+  "shifouercijiequ": "1",
+  "jiequqian": "class="vod-item-img shining\"", 
+  "jiequhou": "</div>",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class="vod-item-img shining\"",   
+  "jiequshuzuqian": "<a",
 //------ //截取的列表数组的后关键词
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</a>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义

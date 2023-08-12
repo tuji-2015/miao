@@ -37,7 +37,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"play_link\"",
+  "bfjiequshuzuqian": "class=\"stui-content__playlist clearfix sort-list\">",
   "bfjiequshuzuhou": "</ul>",
   "zhuangtaiqian": "状态：</span>",
   "zhuangtaihou": "</li>",

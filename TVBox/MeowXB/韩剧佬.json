@@ -9,12 +9,12 @@
 //------网站翻页链接的后缀
   "houzhui": "---.html",   
   "shifouercijiequ": "1",
-  "jiequqian": "class=\"col-xs-4 col-lg-3 col-xl-2\">"
-  "jiequhou": "</div>",
+  "jiequqian": "class=\"col-xs-4 col-lg-3 col-xl-2"
+  "jiequhou": "<ul class=\"ewave-page text-center clearfix",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "<a class=\"vod-item-img shining\"",   
+  "jiequshuzuqian": "<div class=\"vod-item\">",   
 //------ //截取的列表数组的后关键词
-  "jiequshuzuhou": "</a>",
+  "jiequshuzuhou": "</div>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"",
 //------//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义

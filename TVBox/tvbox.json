@@ -306,14 +306,11 @@
 {"key":"csy_XYQHiker_子子影视","name":"🚧子子影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/ZZYS.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/XYQ.jar;md5;df0b8697608d18937ed8ed6113dadf37"},
 
 #XBiu系列
-{"key":"csp_xbu_Jiuku","name":"📼九酷影院(X)","type":3,"api":"csp_XBiu","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiuku.site/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_xbu_shdy","name":"📼骚火电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shdy2.com/list/{cateId}-{catePg}.html"},
+{"key":"csp_xbu_shdy","name":"📼骚火电影(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://shdy3.com/list/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_ybkk","name":"📼云播看看(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.135kan.com/type/{cateId}-{catePg}/"},
-{"key":"csp_xbu_heitao","name":"📼核桃影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
-{"key":"csp_xbu_vofixys","name":"📼Voflix影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.voflix.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
-{"key":"csp_xbu_mztys","name":"📼莫扎兔影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.mozhatu.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xbu_vofixys","name":"📼Voflix影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},
 {"key":"csp_xbu_fqys","name":"📼番茄影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html"},
-{"key":"csp_xbu_fttv","name":"📼饭团TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuantva.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
+{"key":"csp_xbu_fttv","name":"📼饭团TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.fantuan3.com/s/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html"},
 {"key":"csp_xbu_hmtv","name":"📼花猫TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.huamaotv.com/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_jurenyy","name":"📼巨人影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_panghuys","name":"📼胖虎影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html"},

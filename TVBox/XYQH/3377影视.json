@@ -10,9 +10,9 @@
     "首页片单列表数组规则": ".myui-vodlist__box",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://zghcy.com/vod-show-area-{area}-id-{cateId}-lang-{lang}-page-{catePg}-year-{year}.html",
+    "分类链接": "https://zghcy.com/show/{cateId}-{area}--{class}-{lang}----page---{year}.html",
     "分类名称": "电影&电视剧&动漫&综艺&纪录片",
-    "分类名称替换词": "1&2&4&3&5",
+    "分类名称替换词": "movie&tvplay&zongyi&dm&documentary",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}

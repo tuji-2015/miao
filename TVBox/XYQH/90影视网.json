@@ -64,7 +64,7 @@
     "地区详情": "",
     "演员详情": "",
     "简介详情": "简介：&&</",
-    "线路列表数组规则": ".playlist-tab&&li",
+    "线路列表数组规则": ".nav&&li",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.ewave-content__playlist.clearfix.column8.overflow",
     "选集列表数组规则": "li",

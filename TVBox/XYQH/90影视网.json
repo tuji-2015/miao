@@ -66,7 +66,7 @@
     "简介详情": "简介：&&</",
     "线路列表数组规则": ".playlist-tab&&li",
     "线路标题": "Text",
-    "播放列表数组规则": "body&&.ewave-playlist-sort-content",
+    "播放列表数组规则": "body&&.ewave-content__playlist.clearfix.column8.overflow",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",

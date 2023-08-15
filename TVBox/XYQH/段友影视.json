@@ -15,7 +15,7 @@
     "分类名称替换词": "1&2&4&3&31",
     "筛选数据": {},
     "分类截取模式": "1",
-    "分类列表数组规则": ".module&&.module-main",
+    "分类列表数组规则": ".content&&.module",
     "分类片单是否Jsoup写法": "是",
     "分类片单标题": ".module-poster-item-title&&Text",
     "分类片单链接": "a&&href",

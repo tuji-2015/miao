@@ -1,13 +1,13 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "低端影视",
-  "主页url": "https://ddys.pro",
+  "主页url": "https://ddys.one",
   
   
   "分类": "所有电影&连载剧集&本季新番&欧美电影&日韩电影&华语电影&豆瓣电影Top250&欧美剧&日剧&韩剧&华语剧&其他地区&动画",
   "分类值": "category/movie&category/airing&category/anime/new-bangumi&category/movie/western-movie&category/movie/asian-movie&category/movie/chinese-movie&tag/douban-top250&category/drama/western-drama&category/drama/jp-drama&category/drama/kr-drama&category/drama/cn-drama&category/drama/other&category/anime",
   
-  "分类url": "https://ddys.pro/{cateId}/page/{catePg}/",
+  "分类url": "https://ddys.one/{cateId}/page/{catePg}/",
   
   "数组": "<article id=\"post&&<div class=\"post-complete",
   "图片": "url(&&)",
@@ -36,6 +36,6 @@
   "播放数组": "tracks\":&&</script>",
   "播放列表": "javascript&&\"image\"[替换:.mp4>>你我他.mp5#/v/*你>>空#我>>/?ep=#他>><序号>]",
   "播放标题": "caption\":\"&&\"",
-  "播放链接": "src0\":\"&&.mp5",
-  "播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.art>>https://ddys.pro]"
+  "播放链接": "src0\":\"&&.mp4",
+  "播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.art>>https://ddys.one]"
 }

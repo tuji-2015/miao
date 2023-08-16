@@ -6,8 +6,8 @@
 	"图片是否需要代理": "否",
 	"是否开启获取首页数据": "1",
 	"首页推荐链接": "https://www.oftens.top",
-	"首页列表数组规则": "body&&.module-items",
-	"首页片单列表数组规则": "a",
+        "首页列表数组规则": "body&&.module-main.tab-list.active",
+        "首页片单列表数组规则": ".module-item",
 	"首页片单是否Jsoup写法": "1",
 	"分类起始页码": "1",
 	//http://www.tebotv.com/index.php/vod/show/area/%E5%A4%A7%E9%99%86/by/hits/class/%E5%96%9C%E5%89%A7/id/6/lang/%E5%9B%BD%E8%AF%AD/letter/A/year/2018.html

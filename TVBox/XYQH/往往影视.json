@@ -1,7 +1,7 @@
 {
     "规则名": "UM影院",
     "规则作者": "香雅情",
-    "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+    "请求头参数": "Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "0",
@@ -42,7 +42,7 @@
     "分类片单副标题": ".module-item-note&&Text",
     "分类片单链接加前缀": "https://www.oftens.top",
     "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$MOBILE_UA",
+    "搜索请求头参数": "Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
     "搜索链接": "https://www.oftens.top/oftenssearch/{wd}-------------.html",
     "POST请求数据": "",
     "搜索截取模式": "1",

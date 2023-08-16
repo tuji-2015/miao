@@ -10,9 +10,9 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "",
-    "分类链接": "https://ldtv.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}year/{year}.html",
-    "分类名称": "电影&电视剧&综艺&动漫&B站&记录",
-    "分类名称替换词": "1&2&3&4&20&5",
+    "分类链接": "https://ldtv.top/vodshow/{cateId}--------{catePg}---.html",
+    "分类名称": "电影&电视剧&综艺&动漫&记录",
+    "分类名称替换词": "dianying&lianxuju&zongyi&dongman&jilupian",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{class}

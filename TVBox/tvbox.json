@@ -314,7 +314,7 @@
 {"key":"csp_xbu_hmtv","name":"📼花猫TV(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.huamaotv.com/type/{cateId}-{catePg}.html"},
 {"key":"csp_xbu_jurenyy","name":"📼巨人影院(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_panghuys","name":"📼胖虎影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html"},
-{"key":"csp_xbu_UMys","name":"📼UM影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xbu_UMys","name":"📼UM影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.oftens.top/oftensshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xbu_wannengys","name":"📼万能影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wnvod.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"key":"csp_xbu_免费影视","name":"📼免费影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://qqmzpt.cn/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xbu_23ys","name":"📼23影视(X)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://222.186.150.32/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"},

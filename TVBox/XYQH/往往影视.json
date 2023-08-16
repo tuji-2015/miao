@@ -11,8 +11,8 @@
 	"首页片单是否Jsoup写法": "1",
 	"分类起始页码": "1",
 	"分类链接": "https://www.oftens.top/oftensshow/{cateId}--------{catePg}---.html",
-	"分类名称": "电影&电视剧&综艺&动漫&纪录片&体育",
-	"分类名称替换词": "dianying&dianshiju&zongyi&dongman&jilupian&tiyu",
+	"分类名称": "电影&电视剧&综艺&动漫&纪录片",
+	"分类名称替换词": "dianying&dianshiju&zongyi&dongman&jilupian",
 	//"筛选数据": {},
 	"筛选数据": {},
 	//{cateId}

@@ -58,7 +58,7 @@
     "演员详情": "主演：</span>&&</div>",
     "简介详情": "introduction\">&&</p>",
     "线路列表数组规则": "body&&.stui-vodlist__head",
-    "线路标题": "Text",
+    "线路标题": "h3&&Text",
     "播放列表数组规则": "body&&.stui-content__playlist",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",
@@ -68,7 +68,7 @@
     "选集链接加前缀": "https://www.libvio.fun",
     "选集链接加后缀": "",
     "分析MacPlayer": "0",
-    "是否开启手动嗅探": "1",
+    "是否开启手动嗅探": "0",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html"
 }

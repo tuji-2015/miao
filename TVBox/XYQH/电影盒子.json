@@ -16,7 +16,7 @@
     "首页片单链接加前缀": "https://www.tv2box.com",
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
-    "分类链接": "https://www.tv2box.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime.html",
+    "分类链接": "https://www.tv2box.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html",
     "分类名称": "电影&电视剧&综艺&动漫",
     "分类名称替换词": "1&2&4&3&",
     "筛选数据": "ext",

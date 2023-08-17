@@ -109,8 +109,8 @@
 {"key":"csp_如意","name":"🏵如意(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_酷酷","name":"💡酷酷(APP)","type":3,"api":"csp_Kuying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_黄黄","name":"😎黄黄(APP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"csp_哈喽","name":"✌哈喽(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},    
 {"key":"csp_YQK_spider","name":"👒一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"csp_555","name":"5️⃣️555(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dianying.cc/"},
 
 #官站资源
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},

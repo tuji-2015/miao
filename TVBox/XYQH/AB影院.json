@@ -12,7 +12,7 @@
     "分类起始页码": "1",
     "分类链接": "https://www.hdmoli.top/show/{cateId}--------{catePg}---.html",
     "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "moive&tvplay&variety&anime",
+    "分类名称替换词": "movie&tvplay&variety&anime",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
@@ -42,7 +42,7 @@
     "分类片单副标题": ".module-item-note&&Text",
     "分类片单链接加前缀": "https://www.hdmoli.top",
     "分类片单链接加后缀": "",
-    "搜索请求头参数": "Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
+    "搜索请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
     "搜索链接": "https://www.hdmoli.top/search/-------------.html?wd={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
@@ -75,7 +75,7 @@
     "选集链接加前缀": "https://www.hdmoli.top",
     "选集链接加后缀": "",
     "分析MacPlayer": "2",
-    "是否开启手动嗅探": "1",
+    "是否开启手动嗅探": "0",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html"
 }

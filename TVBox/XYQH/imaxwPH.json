@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".col-6.col-sm-4.col-lg-3",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://m.mp4pa.com/vodtype/{cateId}/page/{catePg}.html",
+    "分类链接": "https://m.mp4pa.com/vodshow/{cateId}--------{catePg}---.html",
     "分类名称": "电影&电视剧",
     "分类名称替换词": "38&79",
     "筛选数据": "ext",

@@ -30,7 +30,7 @@
     //分类页面截取数据模式，0为json，其它数字为普通网页。
     "cat_mode": "1",
     //分类列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
-    "cat_arr_rule": "body&&.myui-panel_hd&&li",
+    "cat_arr_rule": ".myui-panel_hd&&.col-lg-6.col-md-6.col-sm-4.col-xs-3",
     //分类片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "cat_is_jsoup":"1",
     //分类片单标题
@@ -76,7 +76,7 @@
     
     //片单链接是否直接播放，0否，1分类片单链接直接播放，2详情选集链接直接播放。
     //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
-    "force_play": "1",
+    "force_play": "0",
     //直接播放链接补前缀
     "play_prefix": "",
     //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接

@@ -7,13 +7,13 @@
 
 "lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tv/bc.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     
-"rules":[{"name":"lz","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	 {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	 {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
-	 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
-	 {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
-],
+//"rules":[{"name":"lz","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	 //{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	//{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	 //{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
+	 //{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+	 //{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
+//],
 
 "drives":[
 {"name":"🔮米奇妙妙屋","server":"https://anime.mqmmw.ga","type":"alist"},

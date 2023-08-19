@@ -10,7 +10,7 @@
     "首页片单列表数组规则": ".col-6.col-sm-4.col-lg-3",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "http://www.3bt0.com/movie/{cateId}.html?sb=&sc=&sct=&scn=&sd=&sdt=&sdn=&se=&set=&sen=&sf=&sft=&sfn=&sg=1&sh=&sht=&shn=&page={catePg}",
+    "分类链接": "https://www.3bt0.com/movie/{cateId}.html?sb=&sc=&sct=&scn=&sd=&sdt=&sdn=&se=&set=&sen=&sf=&sft=&sfn=&sg=1&sh=&sht=&shn=&page={catePg}",
     "分类名称": "电影&电视剧",
     "分类名称替换词": "1&2",
     "筛选数据": "ext",

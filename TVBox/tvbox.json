@@ -15,29 +15,6 @@
 	 //{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}
 //],
 
-"drives":[
-{"name":"🔮米奇妙妙屋","server":"https://anime.mqmmw.ga","type":"alist"},
-{"name":"🥗小雅的盘","server":"http://alist.xiaoya.pro","type":"alist"},
-{"name":"📀纪录片","server":"https://al.chirmyram.com/mov/纪录片","type":"alist"},
-{"name":"🌊七米蓝","server":"https://al.chirmyram.com","type":"alist"},
-{"name":"🌊小江","server":"https://dyj.me","type":"alist"},
-{"name":"🐋一只鱼","server":"https://alist.youte.ml","type":"alist"},
-{"name":"🅰️AR7资源","server":"https://alist.arhomenet.tk","type":"alist"},
-{"name":"🚆资源小站","server":"https://pan.142856.xyz","type":"alist"},
-{"name":"🌤晴园的宝藏库","server":"https://alist.52qy.repl.co","type":"alist"},
-{"name":"💂小兵组网盘影视","server":"https://6vv.app","type":"alist"},
-{"name":"🥼帅盘","server":"https://hi.shuaipeng.wang","type":"alist"},
-{"name":"🐉神族九帝","server":"https://alist.shenzjd.com","type":"alist"},
-{"name":"☃姬路白雪","server":"https://pan.jlbx.xyz","type":"alist"},
-{"name":"💾DISK","server":"http://124.222.140.243:8080","type":"alist"},
-{"name":"✨星梦","server":"https://pan.bashroot.top","type":"alist"},
-{"name":"💫触光","server":"https://pan.ichuguang.com","type":"alist"},
-{"name":"🕵好汉吧","server":"https://8023.haohanba.cn","type":"alist"},
-{"name":"🎡资源小站","server":"https://960303.xyz/","type":"alist"},
-{"name":"🎢轻弹浅唱","server":"https://g.xiang.lol","type":"alist"},
-{"name":"🦀9T","server":"https://drive.9t.ee","type":"alist"}
-],
-
 "sites":[
 
 #豆瓣首页

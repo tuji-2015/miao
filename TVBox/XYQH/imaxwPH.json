@@ -34,11 +34,11 @@
     //分类片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "cat_is_jsoup":"1",
     //分类片单标题
-    "cat_title": "a&&title",
+    "cat_title": ".lazyload&&title",
     //分类片单链接
-    "cat_url": "a&&href",
+    "cat_url": ".lazyload&&href",
     //分类片单图片，支持自定义图片链接
-    "cat_pic": "a&&data-original",
+    "cat_pic": ".lazyload&&data-original",
     //分类片单副标题
     "cat_subtitle":".pic-text text-right&&Text",
     //分类片单链接补前缀  

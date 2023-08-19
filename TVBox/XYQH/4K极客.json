@@ -65,7 +65,7 @@
     "简介详情": ".module-info-introduction-content,0&&p,0&&Text",
     "线路列表数组规则": "body&&.module-tab-item",
     "线路标题": "span,0&&Text",
-    "播放列表数组规则": ".module-blocklist&&.scroll-content",
+    "播放列表数组规则": "body&&.module-blocklist.scroll-box.scroll-box-y",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",

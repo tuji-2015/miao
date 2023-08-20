@@ -51,26 +51,26 @@
     "SHeaders":"User-Agent$PC_UA#Content-Type$charset=gb2312",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "https://www.dyg123.cc/e/search/index.php;post",
+    "search_url": "https://www.dygang.tv/e/search/index123.php;post",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"keyboard={wd}&submit=&show=title&tempid=1",
+    "sea_PtBody":"keyboard={wd}&submit=搜+索&show=title,smalltext&tempid=1&tbname=article",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
-    "search_mode": "0",
+    "search_mode": "1",
     //搜索列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
-    "sea_arr_rule": "",
+    "sea_arr_rule": "body&&table[width=388]",
     //搜索片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "sea_is_jsoup":"1",
     //搜索片单图片，支持自定义图片链接
-    "sea_pic": "",
+    "sea_pic": "img&&src",
     //搜索片单标题
-    "sea_title": "",
+    "sea_title": "img&&alt",
     //搜索片单链接
-    "sea_url": "",
+    "sea_url": "a&&href",
     //搜索片单副标题
     "sea_subtitle":"",
     //搜索片单链接补前缀
-    "search_prefix": "",
+    "search_prefix": "https://www.dygang.tv",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "search_suffix": "",
     

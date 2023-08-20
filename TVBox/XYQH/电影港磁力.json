@@ -56,19 +56,19 @@
     "sea_PtBody":"keyboard={wd}&submit=&show=title&tempid=1",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
-    "search_mode": "1",
+    "search_mode": "0",
     //搜索列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
-    "sea_arr_rule": "body&&.p1.m1",
+    "sea_arr_rule": "",
     //搜索片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "sea_is_jsoup":"1",
     //搜索片单图片，支持自定义图片链接
-    "sea_pic": "img&&src",
+    "sea_pic": "",
     //搜索片单标题
-    "sea_title": "img&&alt",
+    "sea_title": "",
     //搜索片单链接
-    "sea_url": "a&&href",
+    "sea_url": "",
     //搜索片单副标题
-    "sea_subtitle":".name&&Text",
+    "sea_subtitle":"",
     //搜索片单链接补前缀
     "search_prefix": "",
     //搜索片单链接补后缀，这个一般json搜索的需要

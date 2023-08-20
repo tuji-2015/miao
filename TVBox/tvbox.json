@@ -31,9 +31,9 @@
 {"key":"csp_Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},
 {"key":"Yunsou","name":"🍭云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"Gitcafe","name":"🔖小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key":"csp_XYQHiker_DOVX搜索","name":"📀DOVX","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/DOVX搜索.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key":"YiSou","name":"1️⃣易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
-{"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_AliPanSou","name":"🐱盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_TuGou","name":"😿土狗","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$fanfan$$$qqq111"},
@@ -75,6 +75,8 @@
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 
 #优质站点1
 {"key": "csp_Mp4Mov","name": "🧲Mp4电影(SP)","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},

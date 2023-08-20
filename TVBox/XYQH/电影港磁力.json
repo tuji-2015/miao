@@ -48,7 +48,7 @@
     
     //搜索请求头参数,不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
     //多个请求头参数写法示例，键名$键值，每一组用#分开。"User-Agent$PC_UA#Referer$http://ww.baidu.com#Cookie$ser=ok"。
-    "SHeaders":"User-Agent$PC_UA",
+    "SHeaders":"User-Agent$PC_UA#Content-Type$charset=gb2312",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
     "search_url": "https://www.dygang.tv/e/search/index123.php;post",

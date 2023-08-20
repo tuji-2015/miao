@@ -19,7 +19,7 @@
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "https://www.dygang.cc/{cateId}/index_{catePg}.htm[firstPage=https://www.dygang.cc/{cateId}/index.htm]",
+    "class_url": "https://www.dygang.tv/{cateId}/index_{catePg}.htm[firstPage=https://www.dygang.tv/{cateId}/index.htm]",
     //分类名，分类1&分类2&分类3
     "class_name": "最新电影&经典高清&国配电影&经典港片&国剧&日韩剧&美剧&综艺&动漫&纪录片&高清原盘&4K高清区&3D电影&电影专题",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
@@ -51,9 +51,9 @@
     "SHeaders":"User-Agent$PC_UA",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "https://www.dygang.cc/e/search/index.php;post",
+    "search_url": "https://www.dygang.tv/e/search/index.php;post",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"keyboard={wd}&submit=搜+索&show=title,zhuyan&tempid=1",
+    "sea_PtBody":"tempid=1&tbname=article&keyboard={wd}&show=title&Submit=%CB%D1%CB%F7",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
     "search_mode": "0",

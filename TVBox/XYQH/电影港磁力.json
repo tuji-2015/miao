@@ -53,7 +53,7 @@
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
     "search_url": "https://www.dygang.tv/e/search/index.php;post",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"tempid=1&tbname=article&keyboard={wd}&show=title&Submit=搜索",
+    "sea_PtBody":"&tempid=1&tbname=article&keyboard={wd}&show=title&Submit=搜+索",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
     "search_mode": "1",

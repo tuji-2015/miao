@@ -58,7 +58,7 @@
     "演员详情": "主演：</span>&&</div>",
     "简介详情": "introduction\">&&</p>",
     "线路列表数组规则": "body&&.stui-vodlist__head",
-    "线路标题": "h3&&Text[替换:BD3>>牛逼]",
+    "线路标题": "h3&&Text[替换:BD3=>牛逼]",
     "播放列表数组规则": "body&&.stui-content__playlist",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",

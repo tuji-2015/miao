@@ -77,7 +77,7 @@
 {"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
 #优质站点1
-{"key": "csp_Mp4Mov","name": "🧲Mp4电影(SP)","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
+{"key":"csp_Mp4Mov","name":"🧲Mp4电影(SP)","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key":"csp_SeedHub","name":"🧲SeedHub(SP)","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key":"csp_KubaCL","name":"🧲酷吧电影(SP)","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key":"csp_MeijuTT","name":"🧲美剧天堂(SP)","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},

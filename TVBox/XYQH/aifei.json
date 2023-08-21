@@ -10,9 +10,9 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.meijumi.net/usa/{cateId}/page/{catePg}/",
-    "分类名称": "灵异&魔幻",
-    "分类名称替换词": "xuanyi&mohuan",
+    "分类链接": "https://www.meijumi.net/{cateId}/{class}/page/{catePg}/",
+    "分类名称": "美剧&英剧",
+    "分类名称替换词": "usa&en",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}

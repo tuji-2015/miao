@@ -106,7 +106,7 @@
     //列表数组截取，必须
     "list_arr_rule": "#dede_content",
     //集数数组截取，必须
-    "epi_arr_rule": "table&&[href*=magnet]",
+    "epi_arr_rule": "table&&[href^=magnet]",
     //集数标题，截取前缀&&截取后缀
     "epi_title": "a&&Text",
     //集数链接，截取前缀&&截取后缀

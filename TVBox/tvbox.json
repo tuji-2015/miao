@@ -115,7 +115,7 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
 
 #优质站点2
-//{"key":"csp_xpath_biditdcl","name":"🔖哔嘀磁力(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
+{"key":"csp_xpath_biditdcl","name":"🔖哔嘀磁力(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 {"key":"csp_xpath_mp4dycl","name":"🧲MP4电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},
 {"key": "csp_XYQHiker_极影网","name":"🧲极影网(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/极影网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyq.jar;md5;ab7a2bf5947c745657f25c80b337224b"},

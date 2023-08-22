@@ -8,7 +8,7 @@
     "图片是否需要代理":"0",
     "是否开启获取首页数据":"0",
     "分类起始页码": "2",
-    "分类链接": "https://www.ikanbot.com/hot/index-{cateId}-热门-p-{catePg).html",
+    "分类链接": "https://www.ikanbot.com/hot/index-{cateId}-热门-p-{catePg}.html",
     "分类名称": "电影&剧集",
     "分类名称替换词": "movie&tv",
     "筛选数据":{},

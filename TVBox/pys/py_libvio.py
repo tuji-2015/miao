@@ -97,7 +97,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self, array):
         tid = array[0]
-        url = 'https://www.libvio.fun/detail_{0}.html'.format(tid)
+        url = 'https://www.libvio.fun/detail/{0}.html'.format(tid)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))
         node = root.xpath("//div[@class='stui-pannel__bd']")[0]

@@ -1,9 +1,12 @@
 # coding=utf-8
 # !/usr/bin/python
 import sys
+
 sys.path.append('..')
-from spider import Spider
+from base.spider import Spider
 import json
+
+
 class Spider(Spider):  # 元类 默认的元类 type
     def getName(self):
         return "Libvio"
@@ -32,32 +35,31 @@ class Spider(Spider):  # 元类 默认的元类 type
         result['class'] = classes
         if (filter):
             result['filters'] = self.config['filter']
-        print(result)
         return result
 
     def homeVideoContent(self):
         rsp = self.fetch("https://www.libvio.fun")
-        #print(rsp.text)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[@class='stui-pannel__bd']/ul/li/div/a")
+
         videos = []
         for a in aList:
             name = a.xpath('./@title')[0]
             pic = a.xpath('./@data-original')[0]
             mark = a.xpath("./span[2]/text()")[0]
             sid = a.xpath("./@href")[0]
-            sid = self.regStr(sid, "/detail/(\\d+).html")
+            sid = self.regStr(sid, "/detail_(\\d+).html")
             videos.append({
                 "vod_id": sid,
                 "vod_name": name,
                 "vod_pic": pic,
                 "vod_remarks": mark
             })
-        #print(videos)
         result = {
             'list': videos
         }
         return result
+
     def categoryContent(self, tid, pg, filter, extend):
         result = {}
 
@@ -187,8 +189,9 @@ class Spider(Spider):  # 元类 默认的元类 type
     }
     header = {
         "Referer": "https://www.libvio.fun",
-         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
     }
+
     def playerContent(self, flag, id, vipFlags):
         result = {}
         url = 'https://www.libvio.fun/play/{0}.html'.format(id)
@@ -229,4 +232,3 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def localProxy(self, param):
         return [200, "video/MP2T", action, ""]
-a=Spider().homeVideoContent()

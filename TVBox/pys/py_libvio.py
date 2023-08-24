@@ -69,7 +69,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         for key in extend:
             urlParams[int(key)] = extend[key]
         params = '-'.join(urlParams)
-        url = 'https://www.libvio.fun/detail/{0}.html'.format(params)
+        url = 'https://www.libvio.fun/show/{0}.html'.format(params)
         print(url)
         rsp = self.fetch(url)
         root = self.html(self.cleanText(rsp.text))

@@ -224,7 +224,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				result["parse"] = 0
 				result["playUrl"] = "" 
 				result["url"] = realUrl
-				result["header"] = ''
+				result["header"] = ""
 			else:
 				result["parse"] = 1
 				result["playUrl"] = "" 

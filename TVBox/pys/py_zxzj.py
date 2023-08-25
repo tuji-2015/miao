@@ -206,7 +206,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
-		url = 'https://www.zxzj.pro/video/{0}.html'.format(id)
+		url = 'https://www.zxzjhd.com/video/{0}.html'.format(id)
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
 		scripts = root.xpath("//script/text()")
@@ -216,18 +216,18 @@ class Spider(Spider):  # 元类 默认的元类 type
 				target = script[script.index('{'):]
 				jo = json.loads(target)
 				break;
-		parseUrl = ''
 		# src="(\S+url=)
 		# playerConfig = self.config['player']
 		# if jo['from'] in self.config['player']:
 		# 	playerConfig = self.config['player'][jo['from']]
 		# 	parseUrl = playerConfig['pu'] + jo['url']
-		scriptUrl = 'https://zxzj.vip/static/player/{0}.js'.format(jo['from'])
-		scriptRsp = self.fetch(scriptUrl)
-		parseUrl = self.regStr(scriptRsp.text,'src="(\\S+url=)')
+		scriptUrl = '{0}'.format(jo['url'])
+		scriptRsp = self.fetch(scriptUrl,header)
+		sroot=self.html(scriptRsp.text)
+		srsCrp=sroot.xpath("//script/text()")[0].strip()
+		parseUrl=self.regStr(srsCrp,"'(.+?)'")
+		realUrl=str(base64.b16decode(parseUrl[::-1]),'utf-8')
 		if len(parseUrl) > 0:
-			parseRsp = self.fetch(parseUrl+jo['url'])
-			realUrl = self.regStr(parseRsp.text,"(?<=urls\\s=\\s').*?(?=')",0)
 			if len(realUrl) > 0 :
 				result["parse"] = 0
 				result["playUrl"] = "" 

@@ -4,6 +4,7 @@ import sys
 sys.path.append('..') 
 from base.spider import Spider
 import json
+import base64
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):

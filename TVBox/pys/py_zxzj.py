@@ -192,10 +192,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	header = {
 		"referer": "https://www.zxzj.pro/",
-		"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
-		"Accept":" */*",
-		"Accept-Language":"zh-CN,zh;q=0.9,en-US;q=0.3,en;q=0.7",
-		"Accept-Encoding":"gzip, deflate"
 	}
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
@@ -219,9 +215,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		sroot=self.html(scriptRsp.text)
 		srsCrp=sroot.xpath("//script/text()")[0].strip()
 		parseUrl=self.regStr(srsCrp,"'(.+?)'")
-		#realUrl=str(base64.b16decode(parseUrl[::-1]),'utf-8')
-		realUrl='https://media-zjhz-fy-home.zj6oss.ctyunxs.cn/FAMILYCLOUD/b9f9fe26-e272-4e80-8a29-6bf347d86736.mp4?response-content-disposition=attachment;filename="超异能族01.mp4";filename*=UTF-8''%E8%B6%85%E5%BC%82%E8%83%BD%E6%97%8F01.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=sf/uQNB/mlYaPhbQocIWvLXg0T0=&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1692959344&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=673435019&x-amz-UID=951609026966715&x-amz-UFID=11348317428886573'
-		if len(parseUrl) > 0:
+		realUrl=str(base64.b16decode(parseUrl[::-1]),'utf-8')
 			if len(realUrl) > 0 :
 				result["parse"] = 0
 				result["playUrl"] = "" 

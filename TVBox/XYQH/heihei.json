@@ -12,7 +12,7 @@
     //是否开启获取首页数据，0关闭，1开启
     "homeContent":"1",
     //首页推荐数据获取链接
-    "rcmed_url": "http://heiheiys.com",
+    "rcmed_url": "https://www.69mj.com",
     //首页列表数组截取。
     "home_arr_rule": "body&&.module-items",
     //首页片单列表数组定位。
@@ -46,7 +46,7 @@
     //分类片单副标题
     "cat_subtitle":".module-item-text&&Text",
     //分类片单链接补前缀  
-    "cat_prefix": "http://heiheiys.com",
+    "cat_prefix": "https://www.69mj.com",
     //分类片单链接补后缀
     "cat_suffix": "",
     
@@ -118,7 +118,7 @@
     //选集是否反转显示
     "epi_reverse": "0",
     //集数链接补前缀
-    "epiurl_prefix": "http://heiheiys.com",
+    "epiurl_prefix": "https://www.69mj.com",
     //集数链接补后缀
     "epiurl_suffix": "",
     

@@ -36,7 +36,7 @@
 {"key":"csp_TuGou","name":"😿土狗(搜索)","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Zhaozy","name":"🔍找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$fanfan$$$qqq111"},
 {"key":"csp_DiDuan","name":"🧲新6V磁力(SP)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/"},
-{"key":"csp_Bdys","name":"🐞哔嘀影视(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
+{"key":"csp_Bdys","name":"🅱️哔嘀在线(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
 {"key":"csp_AppMr","name":"👻明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YT探探","name":"🏵探探(APP)","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_贱贱","name":"🧲贱贱(APP)","type":3,"api":"http://xhww.fun:63/js/drpy1.min.js","ext":"http://smallmi.xiaohewanwan.love:63/jp.js"},
@@ -122,7 +122,7 @@
 
 #优质站点2
 {"key": "csp_XYQHikerAL_4KHDR","name":"🧲4KHDR(XH)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/4KHDR.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
-{"key":"csp_xpath_biditdcl","name":"🧲哔嘀磁力(XPCL)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
+{"key":"csp_xpath_biditdcl","name":"🧲哔嘀磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 {"key":"csp_xpath_mp4dycl","name":"🧲MP4电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},
 {"key": "csp_XYQHiker_极影网","name":"🧲极影网(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/极影网.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;043138513bc3e41ebec51665bb417ebc"},

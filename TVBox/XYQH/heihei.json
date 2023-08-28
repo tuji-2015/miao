@@ -23,11 +23,11 @@
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "class_url": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html",
+    "class_url": "https://www.69mj.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
     //分类名，分类1&分类2&分类3
-    "class_name": "电影&电视剧&动漫&综艺",
+    "class_name": "电影&电视剧&综艺&动漫",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "1&2&4&3",
+    "class_value": "1&2&3&4",
     //筛选数据，json格式，参考xpath的筛选写法
     "filterdata":{},
     
@@ -55,28 +55,28 @@
     "SHeaders":"User-Agent$PC_UA",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "http://heiheiys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://www.69mj.com/index.php/vod/search/wd/{wd}.html",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"wd={wd}&search=",
+    "sea_PtBody":"",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
-    "search_mode": "0",
+    "search_mode": "1",
     //搜索列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
-    "sea_arr_rule": "list",
+    "sea_arr_rule": "body&&.module-search-item",
     //搜索片单信息jsoup与xb截取写法切换，只作用于html网页，1为jsoup写法(默认)，0为xb写法
     "sea_is_jsoup":"1",
     //搜索片单图片，支持自定义图片链接
-    "sea_pic": "pic",
+    "sea_pic": "img&&src",
     //搜索片单标题
-    "sea_title": "name",
+    "sea_title": "a&&title",
     //搜索片单链接
-    "sea_url": "id",
+    "sea_url": "a&&href",
     //搜索片单副标题
-    "sea_subtitle":"",
+    "sea_subtitle":"a&&Text",
     //搜索片单链接补前缀
-    "search_prefix": "http://heiheiys.com/voddetail/",
+    "search_prefix": "https://www.69mj.com",
     //搜索片单链接补后缀，这个一般json搜索的需要
-    "search_suffix": ".html",
+    "search_suffix": "",
     
     //片单链接是否直接播放，0否，1分类片单链接直接播放，2详情选集链接直接播放。
     //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
@@ -108,7 +108,7 @@
     "tab_title": "span&&Text",
     
     //列表数组截取，必须
-    "list_arr_rule": "body&&body&&.module-blocklist",
+    "list_arr_rule": "body&.scroll-content",
     //集数数组截取，必须
     "epi_arr_rule": "a",
     //集数标题，截取前缀&&截取后缀

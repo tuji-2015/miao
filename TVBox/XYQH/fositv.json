@@ -39,7 +39,7 @@
     "搜索链接": "https://www.bttwo.net/xssearch?q={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&li:has(.hdinfo)",
+    "搜索列表数组规则": "body&&li:has(.dytit)",
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": "img&&data-original",
     "搜索片单标题": "img&&alt",

@@ -9,7 +9,7 @@ var rule = {
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/p/0/socks5%3A%2F%2F192.168.101.1%3A1080/https://www.meijumi.net/?s=**',
+	searchUrl: '/p/0/s/https://www.meijumi.net/?s=**',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,

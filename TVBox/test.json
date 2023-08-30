@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;bf1f28d65240042a470d4f80035e529f",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fm.jar",
 
 //"wallpaper":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -16,6 +16,10 @@
 ],
 
 "sites":[
+
+{"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":1},
+{"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
+
 
 #PY系列
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},

@@ -17,7 +17,7 @@
 
 "sites":[
 
-{"key":"drpy_js_美剧迷","name":"美剧迷","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/meijumiip.js","searchable":1,"quickSearch":0,"changeable":1},
+{"key":"drpy_js_美剧迷","name":"美剧迷","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/meijumip.js","searchable":1,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/dygang.js","searchable":1,"quickSearch":0,"changeable":1},
 
 

@@ -7,7 +7,7 @@ var rule = {
 	// host:'https://tv.libvio.cc',
 	host:'http://127.0.0.1:10078',
 	// url:'/type/fyclass-fypage.html',
-	url:'/p/0/s/https://libvio.me/show/fyclassfyfilter.html',
+	url:'/p/0/s/https://libvio.me/show/fyclassfyfilter.html?',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'-{{fl.area}}-{{fl.by}}--{{fl.lang}}----fypage---{{fl.year}}',
 	filter: {

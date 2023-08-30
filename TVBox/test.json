@@ -21,7 +21,9 @@
 {"key":"drpy_js_磁力熊搜索","name":"熊搜","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"./pg/js/dygang.js","searchable":2,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_6V","name":"6V","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"./pg/js/xb6v.js","searchable":2,"quickSearch":0,"changeable":1},
 {"key":"drpy_ddys","name":"🎬低端影视[DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/ddys.js"},
+{"key":"drpy_LIBVIO","name":"📁LIBVIO[DRPY]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/LIBVIO.js"},    
 
+    
 #PY系列
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},
 {"key":"py_libvio","name":"🃏Libvio(PY)","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},

@@ -102,7 +102,7 @@ var rule={
     title:'ddys',
     // host:'https://ddys.wiki', 
     // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":MOBILE_UA}});HOST = jsp.pdfh(html,"a:eq(1)&&href")',
-    host:'http://127.0.0.1:10079',
+    host:'http://127.0.0.1:10078',
     // host:'https://ddys.mov',
     url:'/p/0/s/https://ddys.pro/fyclass/page/fypage/',
     searchUrl:'/p/0/s/https://ddys.pro/?s=**&post_type=post',

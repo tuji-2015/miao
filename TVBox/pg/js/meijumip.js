@@ -4,7 +4,7 @@ var rule = {
 	//homeUrl:'/',
 	//url: '/fyclass/page/fypage/?',
 	host:'http://127.0.0.1:10078',
-	homeUrl:'/p/0/s/https://www.meijumi.net/',
+	homeUrl:'/p/0/s/https://www.meijumi.xyz/',
 	url: '/p/0/s/https://www.meijumi.xyz/fyclass/page/fypage/',
 	filter_url:'{{fl.class}}',
 	filter:{

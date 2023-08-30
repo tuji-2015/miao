@@ -1,12 +1,12 @@
 var rule = {
 	title:'新版6V[磁]',
-	host:'http://www.xb6v.com',
-	homeUrl:'/',
-	url: '/fyclass/index_fypage.html?',
+	host:'http://127.0.0.1:10078',
+	homeUrl:'/p/0/s/http://www.xb6v.com/',
+	url: '/p/0/s/http://www.xb6v.com/fyclass/index_fypage.html?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/e/search/index.php#tempid=1&tbname=article&mid=1&dopost=search&submit=&keyborad=**;post',
+	searchUrl: '/p/0/s/http://www.xb6v.com/e/search/index.php#tempid=1&tbname=article&mid=1&dopost=search&submit=&keyborad=**;post',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,

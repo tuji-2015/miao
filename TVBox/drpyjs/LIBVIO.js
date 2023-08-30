@@ -6,6 +6,7 @@ var rule = {
 	// host:'https://libvio.fun',
 	// host:'https://tv.libvio.cc',
 	host:'http://127.0.0.1:10078',
+	homeUrl:'/p/0/s/https://libvio.me/'
 	// url:'/type/fyclass-fypage.html',
 	url:'/p/0/s/https://libvio.me/show/fyclassfyfilter.html?',
 	filterable:1,//是否启用分类筛选,

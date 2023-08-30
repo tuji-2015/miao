@@ -2,9 +2,9 @@ var rule = {
 	title:'电影港[磁]',
 	编码:'gb2312',
 	搜索编码:'gb2312',
-	host:'https://www.dygang.tv',
-	homeUrl:'/',
-	url: '/fyclass/index_fypage.htm?',
+	host:'http://127.0.0.1:10078',
+	homeUrl:'/p/0/s/https://www.dygang.tv/',
+	url: ''/p/0/s/https://www.dygang.tv/fyclass/index_fypage.htm?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},

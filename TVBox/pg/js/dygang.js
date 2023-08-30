@@ -4,7 +4,7 @@ var rule = {
 	搜索编码:'gb2312',
 	host:'http://127.0.0.1:10078',
 	homeUrl:'/p/0/s/https://www.dygang.tv/',
-	url: '/p/0/s/https://www.dygang.tv/fyclass/index_fypage.htm?',
+	url: '/p/0/s/https://www.dygang.tv/fyclass/index_fypage.htm',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},

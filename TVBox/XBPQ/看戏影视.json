@@ -1,15 +1,15 @@
 {
 "作者":"张弘",
 "站名":"看戏影视",
-"主页url":"https://www.kanxi123.net/",
+"主页url":"https://www.ikanxi.com/",
 "热门推荐":"1",
 "数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url": "https://www.kanxi123.net/search/-------------.html?wd={wd}&submit=",
-"搜索链接前缀":"https://www.kanxi123.net",
+"搜索url": "https://www.ikanxi.com/search/-------------.html?wd={wd}&submit=",
+"搜索链接前缀":"https://www.ikanxi.com",
 "搜索链接后缀":"",
 "搜索模式": "1",
 "线路数组":"stui-vodlist__head&&</div>",
@@ -24,7 +24,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电视剧$2#电影$1#动漫$4#综艺$3",
-"分类url":"https://www.kanxi123.net/tags/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+"分类url":"https://www.ikanxi.com/tags/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
 "筛选":
 {
 "1":[

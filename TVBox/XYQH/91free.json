@@ -65,7 +65,7 @@
     "地区详情": "",
     "演员详情": "主演：</span>&&</p",
     "简介详情":"class=\"sketch content\">&&</span",
-    "线路列表数组规则": "#y-playList&&.module-tab-item.tab-item",
+    "线路列表数组规则": "body&&.module-tab-item",
     "线路标题": "span&&Text",
     "播放列表数组规则": "body&&.module-play-list-content",
     "选集列表数组规则": "a",

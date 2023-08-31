@@ -67,7 +67,7 @@
     "简介详情":"class=\"sketch content\">&&</span",
     "线路列表数组规则": "body&&.module-tab-item",
     "线路标题": "span&&Text",
-    "播放列表数组规则": "body&&.module-play-list-content",
+    "播放列表数组规则": "body&&.module-play-list-content:has(.module-play-list-link)",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "&&Title",

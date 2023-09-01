@@ -76,11 +76,11 @@ var rule = {
 		var dd=[];
 		TABS.forEach(function(tab) {
 			if (/磁力链接/.test(tab)) {
-				var d = pdfa(html, '.mv_down&&.container');
+				var d = pdfa(html, '.mv_down&&.container:has(.border-bottom)');
 				d = d.map(function(it) {
-					var title = pdfh(it, '.border-bottom.pt-2.pb-4.mb-3&&a:eq(0)&&Text');
+					var title = pdfh(it, '.border-bottom.pt-2.pb-4.mb-3&&a:eq(-1)&&Text');
 					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					var burl = pd(it, '.border-bottom.pt-2.pb-4.mb-3&&a:eq(0)&&href');
+					var burl = pd(it, '.border-bottom.pt-2.pb-4.mb-3&&a:eq(-1)&&href');
 					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 					return title + '$' + burl
 				});

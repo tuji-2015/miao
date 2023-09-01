@@ -76,7 +76,7 @@ var rule = {
 		var dd=[];
 		TABS.forEach(function(tab) {
 			if (/磁力链接/.test(tab)) {
-				var d = pdfa(html, '.mv_down&&.border-bottom');
+				var d = pdfa(html, '.mv_down&&.ms-3');
 				d = d.map(function(it) {
 					var title = pdfh(it, 'a&&Text');
 					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);

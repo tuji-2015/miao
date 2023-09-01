@@ -96,7 +96,7 @@ var rule = {
     `,
     headers:{
         'User-Agent':'PC_UA',
-        'Cookie':'searchneed=ok'
+        "Cookie":"searchneed=ok"
     },
     class_name:'电影&剧集',
     class_url:'movie&tv',

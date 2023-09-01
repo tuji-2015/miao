@@ -67,7 +67,7 @@
     "线路列表数组规则": "body&&.row.col-md-12.text-white.p-3.pt-1",
     "线路标题": ".h6.pb-3&&Text",
     "播放列表数组规则": "body&&.mv_down.p-5.pb-3.rounded-4.text-center",
-    "选集列表数组规则": ".container[href^=magnet]",
+    "选集列表数组规则": ".container:has(.border-bottom.pt-2.pb-4.mb-3)",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",
     "选集链接": "a&&href",

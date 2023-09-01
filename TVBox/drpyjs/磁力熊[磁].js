@@ -78,9 +78,9 @@ var rule = {
 			if (/磁力链接/.test(tab)) {
 				var d = pdfa(html, '.mv_down&&.border-bottom');
 				d = d.map(function(it) {
-					var title = pdfh(it, 'a&&Text:not(:contains(详情))');
+					var title = pdfh(it, '".border-bottom&&a:eq(0)&&Text');
 					log('title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
-					var burl = pd(it, 'a&&href:not(:contains(详情))');
+					var burl = pd(it, '.border-bottom&&a:eq(0)&&href');
 					log('burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 					return title + '$' + burl
 				});

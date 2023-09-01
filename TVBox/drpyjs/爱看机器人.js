@@ -94,7 +94,10 @@ var rule = {
     let data = {'tv': [{'key': 'tag', 'name': '标签', 'value': value}]};
     console.log(JSON.stringify(data));
     `,
-    headers:{'User-Agent':'PC_UA',},
+    headers:{
+        'User-Agent':'PC_UA',
+        'Cookie':'searchneed=ok'
+    },
     class_name:'电影&剧集',
     class_url:'movie&tv',
     play_parse:true,

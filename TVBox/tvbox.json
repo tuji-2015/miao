@@ -28,7 +28,7 @@
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥(SP)","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dovx","name":"😾七夜(搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{"key":"csp_Dovx","name":"😾DovX(搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻(搜索)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0},
 {"key":"Yunsou","name":"🍭云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"YiSou","name":"1️⃣易搜(搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},

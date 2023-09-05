@@ -145,7 +145,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			aList = vl.xpath('./a')
 			for tA in aList:
 				href = tA.xpath('./@href')[0]
-				name = tA.xpath('./@title')[0]
+				name = tA.xpath('.//text()')[0]
 				tId = self.regStr(href,'/vodplay/(\\S+).html')
 				vodItems.append(name + "$" + tId)
 			joinStr = '#'

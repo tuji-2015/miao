@@ -4,8 +4,8 @@ import sys
 sys.path.append('..') 
 from base.spider import Spider
 import json
-import base64
-import math
+import hashlib
+import urllib
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
@@ -32,7 +32,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 		if(filter):
 			result['filters'] = self.config['filter']	
 		return result
-		
 	def homeVideoContent(self):
 		rsp = self.fetch("https://www.moguys.xyz/")
 		root = self.html(rsp.text)
@@ -54,7 +53,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 			'list':videos
 		}
 		return result
-		
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
 		if 'id' not in extend.keys():
@@ -91,8 +89,8 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['limit'] = 90
 		result['total'] = 999999
 		return result
-		
-        def detailContent(self,array):
+	
+	def detailContent(self,array):
 		tid = array[0]
 		url = 'https://www.moguys.xyz/voddetail/{0}.html'.format(tid)
 		rsp = self.fetch(url)
@@ -190,10 +188,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	headera = {}
 	headerp={
-		    "referer": "https://www.zxzj.pro/",
+		    "referer": "https://www.moguys.xyz/",
 	}
-
-        def playerContent(self,flag,id,vipFlags):
+	def playerContent(self,flag,id,vipFlags):
 		result = {}
 		url = 'https://www.moguys.xyz/vodplay/{0}.html'.format(id)
 		rsp = self.fetch(url)
@@ -241,3 +238,4 @@ class Spider(Spider):  # 元类 默认的元类 type
 		pass
 	def localProxy(self,param):
 		return [200, "video/MP2T", action, ""]
+

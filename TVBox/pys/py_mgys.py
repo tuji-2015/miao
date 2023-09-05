@@ -164,7 +164,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		return result
 
 	def searchContent(self,key,quick):		
-		url = 'https://www.zxzjhd.com/index.php/ajax/suggest?mid=1&wd={0}'.format(key)
+		url = 'https://www.moguys.xyz/index.php/ajax/suggest?mid=1&wd={0}'.format(key)
 		# getHeader()
 		rsp = self.fetch(url)
 		jo = json.loads(rsp.text)

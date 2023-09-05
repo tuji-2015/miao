@@ -32,6 +32,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		if(filter):
 			result['filters'] = self.config['filter']	
 		return result
+		
 	def homeVideoContent(self):
 		rsp = self.fetch("https://www.moguys.xyz/")
 		root = self.html(rsp.text)
@@ -53,6 +54,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			'list':videos
 		}
 		return result
+		
 	def categoryContent(self,tid,pg,filter,extend):
 		result = {}
 		if 'id' not in extend.keys():
@@ -89,6 +91,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['limit'] = 90
 		result['total'] = 999999
 		return result
+		
 	def detailContent(self,array):
 		tid = array[0]
 		url = 'https://www.moguys.xyz/voddetail/{0}.html'.format(tid)

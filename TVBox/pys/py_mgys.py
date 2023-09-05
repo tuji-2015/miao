@@ -188,7 +188,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	headera = {}
 	headerp={
-			"User-Agent": "Mozilla/5.0 (Linux; Android 12; V2049A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36",
+		    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
 		    "referer": "https://www.moguys.xyz/"
 	}
 	def playerContent(self,flag,id,vipFlags):

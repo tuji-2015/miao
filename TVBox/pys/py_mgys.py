@@ -145,7 +145,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			aList = vl.xpath('./a')
 			for tA in aList:
 				href = tA.xpath('./@href')[0]
-				name = tA.xpath('.//text()')[0]
+				name = tA.xpath('./@title')[0]
 				tId = self.regStr(href,'/vodplay/(\\S+).html')
 				vodItems.append(name + "$" + tId)
 			joinStr = '#'
@@ -194,6 +194,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	headerp={
 		    "referer": "https://www.moguys.xyz/",
 	}
+	
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
 		url = 'https://www.moguys.xyz/vodplay/{0}.html'.format(id)
@@ -213,7 +214,12 @@ class Spider(Spider):  # 元类 默认的元类 type
 		# if jo['from'] in self.config['player']:
 		# 	playerConfig = self.config['player'][jo['from']]
 		# 	parseUrl = playerConfig['pu'] + jo['url']
-		parseUrl = '{0}'.format(jo['url'])+'&next=https://www.moguys.xyz'+'{0}'.format(jo['link_next'])+'&title='+hdta+'&thumb=undefined'
+		nextUrl = '{0}'.format(jo['link_next'])
+		if len(nextUrl)>0:
+			nexUrl = '&next=https://www.moguys.xyz'+'{0}'.format(jo['link_next'])
+		else:
+			nexUrl=''
+		parseUrl = '{0}'.format(jo['url'])+nexUrl+'&title='+hdta+'&thumb=undefined'
 		parseMid = urllib.parse.quote(parseUrl,safe=";/?:@&=+$,")
 		parseMd5 = hashlib.md5(parseMid.encode(encoding='UTF-8')).hexdigest()
 		realUrl = 'https://json.moguys.work/json/video.php?f='+parseMd5+'.m3u8'
@@ -226,10 +232,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		#realUrl='https://media-zjhz-fy-home.zj6oss.ctyunxs.cn/FAMILYCLOUD/b9f9fe26-e272-4e80-8a29-6bf347d86736.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E8%B6%85%E5%BC%82%E8%83%BD%E6%97%8F01.mp4%22%3Bfilename*%3DUTF-8%27%27%25E8%25B6%2585%25E5%25BC%2582%25E8%2583%25BD%25E6%2597%258F01.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=VeqzzHBvui4BKVDnoVVX0jtuAM0%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1692980387&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=673435019&x-amz-UID=951609026966715&x-amz-UFID=11348317428886573'
 		if len(parseUrl) > 0:
 			if len(realUrl) > 0 :
-				result["parse"] = 0
+				result["parse"] = 1
 				result["playUrl"] = "" 
 				result["url"] = realUrl
-				result["header"] = json.dumps(self.headera)
+				result["header"] = ""
 			else:
 				result["parse"] = 1
 				result["playUrl"] = "" 

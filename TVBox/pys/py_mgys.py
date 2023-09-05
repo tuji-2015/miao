@@ -92,7 +92,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result['total'] = 999999
 		return result
 		
-def detailContent(self,array):
+        def detailContent(self,array):
 		tid = array[0]
 		url = 'https://www.moguys.xyz/voddetail/{0}.html'.format(tid)
 		rsp = self.fetch(url)

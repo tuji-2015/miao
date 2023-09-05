@@ -145,7 +145,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			aList = vl.xpath('./a')
 			for tA in aList:
 				href = tA.xpath('./@href')[0]
-				name = tA.xpath('./span/text()')[0]
+				name = tA.xpath('./@title')[0]
 				tId = self.regStr(href,'/vodplay/(\\S+).html')
 				vodItems.append(name + "$" + tId)
 			joinStr = '#'
@@ -211,10 +211,10 @@ class Spider(Spider):  # 元类 默认的元类 type
 		# 	parseUrl = playerConfig['pu'] + jo['url']
 		nextUrl = '{0}'.format(jo['link_next'])
 		if len(nextUrl)>0:
-			nexUrl = '&next=https://www.moguys.xyz'+'{0}'.format(jo['link_next'])
+			nexUrl = 'https://www.moguys.xyz'+'{0}'.format(jo['link_next'])
 		else:
 			nexUrl=''
-		parseUrl = '{0}'.format(jo['url'])+nexUrl+'&title='+hdta+'&thumb=undefined'
+		parseUrl = '{0}'.format(jo['url'])+'&next='+nexUrl+'&title='+hdta+'&thumb=undefined'
 		parseMid = urllib.parse.quote(parseUrl,safe=";/?:@&=+$,")
 		parseMd5 = hashlib.md5(parseMid.encode(encoding='UTF-8')).hexdigest()
 		realUrl = 'https://json.moguys.work/json/video.php?f='+parseMd5+'.m3u8'

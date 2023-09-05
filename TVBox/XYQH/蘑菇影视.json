@@ -68,7 +68,7 @@
     "播放列表数组规则": "body&&.module-blocklist:has(.scroll-content)",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
-    "选集标题": "a&Text",
+    "选集标题": "a&&Text",
     "选集链接": "a&&href",
     "是否反转选集序列": "0",
     "选集链接加前缀": "https://www.moguys.xyz",

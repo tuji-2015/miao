@@ -33,7 +33,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 			result['filters'] = self.config['filter']	
 		return result
 	def homeVideoContent(self):
-		rsp = self.fetch("https://www.moguys.xyz/")
+		rsp = self.fetch("https://www.moguys.xyz/",self.headerp)
 		root = self.html(rsp.text)
 		aList = root.xpath("//div[@class='module-items']/div")
 		videos = []
@@ -66,7 +66,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 				params[idx] = extend[fp]
 		suffix = '-'.join(params)
 		url = 'https://www.moguys.xyz/vodshow/{0}.html'.format(suffix)
-		rsp = self.fetch(url)
+		rsp = self.fetch(url,self.headerp)
 		root = self.html(rsp.text)
 		aList = root.xpath("//div[@class='module-items']/div")
 		videos = []
@@ -93,7 +93,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def detailContent(self,array):
 		tid = array[0]
 		url = 'https://www.moguys.xyz/voddetail/{0}.html'.format(tid)
-		rsp = self.fetch(url)
+		rsp = self.fetch(url,self.headerp)
 		root = self.html(rsp.text)
 		node = root.xpath("//div[@class='video-info']")[0]
 		pic = node.xpath("//div[@class='video-cover']/div/div/img/@data-src")[0]
@@ -166,7 +166,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def searchContent(self,key,quick):		
 		url = 'https://www.moguys.xyz/index.php/ajax/suggest?mid=1&wd={0}'.format(key)
 		# getHeader()
-		rsp = self.fetch(url)
+		rsp = self.fetch(url,self.headerp)
 		jo = json.loads(rsp.text)
 		result = {}
 		jArray = []
@@ -188,12 +188,13 @@ class Spider(Spider):  # 元类 默认的元类 type
 	}
 	headera = {}
 	headerp={
-		    "referer": "https://www.moguys.xyz/",
+			"User-Agent": "Mozilla/5.0 (Linux; Android 12; V2049A Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36",
+		    "referer": "https://www.moguys.xyz/"
 	}
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
 		url = 'https://www.moguys.xyz/vodplay/{0}.html'.format(id)
-		rsp = self.fetch(url)
+		rsp = self.fetch(url,self.headerp)
 		root = self.html(rsp.text)
 		scripts = root.xpath("//script/text()")
 		hdt='{0}'.format(root.xpath("//title/text()")[0])
@@ -227,7 +228,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		#realUrl='https://media-zjhz-fy-home.zj6oss.ctyunxs.cn/FAMILYCLOUD/b9f9fe26-e272-4e80-8a29-6bf347d86736.mp4?response-content-disposition=attachment%3Bfilename%3D%22%E8%B6%85%E5%BC%82%E8%83%BD%E6%97%8F01.mp4%22%3Bfilename*%3DUTF-8%27%27%25E8%25B6%2585%25E5%25BC%2582%25E8%2583%25BD%25E6%2597%258F01.mp4&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=CORP&x-amz-CLIENTTYPEIN=UNKNOWN&Signature=VeqzzHBvui4BKVDnoVVX0jtuAM0%3D&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&Expires=1692980387&x-amz-limitrate=102400&response-content-type=video/mp4&x-amz-FSIZE=673435019&x-amz-UID=951609026966715&x-amz-UFID=11348317428886573'
 		if len(parseUrl) > 0:
 			if len(realUrl) > 0 :
-				result["parse"] = 1
+				result["parse"] = 0
 				result["playUrl"] = "" 
 				result["url"] = realUrl
 				result["header"] = ""

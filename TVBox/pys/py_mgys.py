@@ -35,7 +35,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeVideoContent(self):
 		rsp = self.fetch("https://www.moguys.xyz/")
 		root = self.html(rsp.text)
-		aList = root.xpath("//div[@class='module-items']/div/div")
+		aList = root.xpath("//div[@class='module-items']/div")
 		videos = []
 		for a in aList:
 			name = a.xpath('.//@title')[0]
@@ -68,7 +68,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		url = 'https://www.moguys.xyz/vodshow/{0}.html'.format(suffix)
 		rsp = self.fetch(url)
 		root = self.html(rsp.text)
-		aList = root.xpath("//div[@class='module-items']/div/div")
+		aList = root.xpath("//div[@class='module-items']/div")
 		videos = []
 		for a in aList:
 			name = a.xpath('.//@title')[0]

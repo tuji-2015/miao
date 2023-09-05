@@ -29,7 +29,7 @@
 #PY系列
 {"key":"py_yixi","name":"🃏一席(PY)","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_yixi.py"},
 {"key":"py_libvio","name":"🃏Libvio(PY)","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
-{"key":"py_qie","name":"🃏QE体育(PY)","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_qie.py"},
+{"key":"py_mgys","name":"🃏蘑菇影视(PY)","type":3,"api":"py_mgys","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_mgys.py"},
 {"key":"py_lezhu","name":"🃏乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_lezhu.py"},
 {"key":"py_star","name":"🃏星光影视(PY)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_star.py"},
 {"key":"py_kuyun77","name":"🃏酷云77(PY)","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_kunyu77.py"},

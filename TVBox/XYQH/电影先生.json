@@ -65,7 +65,7 @@
     "演员详情": "主演：&&</p>",
     "简介详情": "简介：</span>&&</p>",
     "线路列表数组规则": "body&&.module-tab-item",
-    "线路标题": "Text",
+    "线路标题": "span&&Text",
     "播放列表数组规则": "body&&.module-blocklist:has(.scroll-content)",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",

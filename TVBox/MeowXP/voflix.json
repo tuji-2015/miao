@@ -11,7 +11,7 @@
     "综艺": "3",
     "动漫": "4"
   },
-  "homeVodNode": "/html/body/div/div[3]/div/div/div[4]/div[1]/a",
+  "homeVodNode": "//body/div/div[3]/div/div/div[4]/div[1]/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/detail/(\\S+).html",
@@ -20,7 +20,7 @@
   "homeVodMark": "//div[@class='module-item-note']/text()",
   
   "cateUrl": "https://www.voflix.me/show/{cateId}-{area}-{by}-{catelog}-{lang}----{catePg}---{year}.html",
-  "cateVodNode": "/html/body/div/div[3]/div/div/div[4]/div[1]/a",
+  "cateVodNode": "//body/div/div[3]/div/div/div[4]/div[1]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/detail(\\S+).html",

@@ -11,7 +11,7 @@
     "综艺": "3",
     "动漫": "4"
   },
-  "homeVodNode": "//a[contains(@class,'module-poster-item')]",
+  "homeVodNode": "/html/body/div/div[3]/div/div/div[4]/div[1]/a",
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/detail/(\\S+).html",

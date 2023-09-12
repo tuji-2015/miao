@@ -51,10 +51,10 @@
   "dtFromName": "/h3/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//body/div[4]/div/div[2]/div[2]/div[2]/ul",
-  "dtUrlSubNode": "//li",
-  "dtUrlId": "/a/@href",
+  "dtUrlSubNode": "/li//a",
+  "dtUrlId": "@href",
   "dtUrlIdR": "",
-  "dtUrlName": "/a/text()",
+  "dtUrlName": "/text()",
   "dtUrlNameR": "",
 
   "playUrl": "",

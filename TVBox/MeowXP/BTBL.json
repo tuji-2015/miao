@@ -6,8 +6,8 @@
   "cateId": "",
   "cateIdR": "",
   "cateManual": {
-    "电影": "1",
-    "剧集": "2"
+    "电影": "moive",
+    "剧集": "tv"
   },
   "homeVodNode": "//body/div[4]/div/div[2]/div/div/div",
   "homeVodName": "//@title",

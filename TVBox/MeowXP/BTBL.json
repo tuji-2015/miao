@@ -52,11 +52,11 @@
   "dtFromNameR": "",
   "dtUrlNode": "//body/div[4]/div/div[2]/div[2]/div[2]/ul",
   "dtUrlSubNode": "//li",
-  "dtUrlId": "@href",
+  "dtUrlId": "/a/@href",
   "dtUrlIdR": "",
-  "dtUrlName": "/text()",
+  "dtUrlName": "/a/text()",
   "dtUrlNameR": "",
 
-  "playUrl": "",
+  "playUrl": "{playUrl}",
   "playUa": ""
 }

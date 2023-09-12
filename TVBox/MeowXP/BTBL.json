@@ -51,7 +51,7 @@
   "dtFromName": "/h3/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//body/div[4]/div/div[2]/div[2]/div[2]/ul",
-  "dtUrlSubNode": "/li/a[contains(@href,'magnet')]",
+  "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
   "dtUrlIdR": "",
   "dtUrlName": "/text()",

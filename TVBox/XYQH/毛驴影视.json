@@ -1,6 +1,6 @@
 {
-    "规则名": "大豆",
-    "规则作者": "",
+    "规则名": "毛驴影视",
+    "规则作者": "tuji2015",
     "请求头参数": "User-Agent$PC_UA",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
@@ -48,7 +48,7 @@
     "分类片单链接加前缀": "https://www.maolvys.com",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$PC_UA",
-    "搜索链接": "https://www.maolvys.com/vod/search/wd/{wd}/",
+    "搜索链接": "https://www.maolvys.com/vod/search/?wd={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.public-list-box",

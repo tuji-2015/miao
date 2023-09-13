@@ -45,7 +45,7 @@
     "分类片单链接": "a&&href",
     "分类片单图片": "img&&data-src",
     "分类片单副标题": ".public-list-prb&&Text",
-    "分类片单链接加前缀": "https://www.dadou.cm/Vod/",
+    "分类片单链接加前缀": "https://www.dadou.cm",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$PC_UA",
     "搜索链接": "https://dadou.pro/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",

@@ -87,13 +87,13 @@
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_pre置空或者全部不要填。
     //线路截取数组前
-    "tab_arr_rule": "body&&.playlist",
+    "tab_arr_rule": "body&&.col-lg-wide-75.col-xs-1",
     //线路标题，截取前缀&&截取后缀
     "tab_title": "h3&&Text",
     
     //列表数组截取前，必须
     "list_arr_rule": "body&&.stui-content__playlist",
-    //集数数组截取前，必须
+    //集数数组截取。前，必须
     "epi_arr_rule": "li",
     //集数标题，截取前缀&&截取后缀
     "epi_title": "a&&Text",
@@ -109,7 +109,7 @@
     //如果网页源码里没有这种请设置为0
     "Anal_MacPlayer":"2",
     //是否开启手动嗅探，只对网页嗅探有效，0否，1是
-    "ManualSniffer":"1",
+    "ManualSniffer":"0",
     //手动嗅探视频链接关键字，每个用#隔开
     "VideoFormat":".mp4#.m3u8#.flv",
     //手动嗅探视频链接过滤关键词,每个用#隔开

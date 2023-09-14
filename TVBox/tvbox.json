@@ -134,8 +134,6 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
 
 #优质站点2
-{"key":"csp_xpath_btbl","name":"🧲BT部落(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/BTBL.json"},
-{"key": "csp_XYQHikerAL_4KHDR","name":"🧲4KHDR(XH)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/4KHDR.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"csp_xpath_biditdcl","name":"🧲哔嘀磁力(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/biditd.json"},
 {"key":"csp_xpath_mp4dycl","name":"🧲MP4电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/mp4dycl.json"},
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},

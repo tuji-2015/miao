@@ -57,6 +57,6 @@
   "dtUrlName": "//text()",
   "dtUrlNameR": "",
 
-  "playUrl": "",
+  "playUrl": "{playUrl}",
   "playUa": ""
 }

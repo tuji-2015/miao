@@ -11,10 +11,10 @@
     //图片需要代理
     "PicNeedProxy":"0",
     //是否开启获取首页数据，0关闭，1开启
-     "是否开启获取首页数据": "1",
-    "首页推荐链接": "https://dyxs29.com",
-    "首页列表数组规则": "body&&.module-items",
-    "首页片单列表数组规则": ".module-item:has(.module-item-cover)",
+    "是否开启获取首页数据": "1",
+    "首页推荐链接": "https://www.ikandy2.fun",
+    "首页列表数组规则": "body&&.stui-vodlist",
+    "首页片单列表数组规则": ".col-md-6.col-sm-4.col-xs-3",
     "首页片单是否Jsoup写法": "1",
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",

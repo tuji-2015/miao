@@ -30,15 +30,15 @@
     "cat_mode": "1",
     
     //分类列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
-    "cat_arr_rule": ".stui-vodlist&&li",
+    "cat_arr_rule": "body&&.col-md-7.col-sm-4.col-xs-3",
     //分类片单标题
-    "cat_title": "h4&&a&&Text",
+    "cat_title": "a&&title",
     //分类片单链接
-    "cat_url": "h4&&a&&href",
+    "cat_url": "a&&href",
     //分类片单图片
     "cat_pic": ".lazyload&&data-original",
     //分类片单副标题
-    "cat_subtitle":".pic-text&&Text",
+    "cat_subtitle":".pic-text.text-right&&Text",
     //分类片单链接补前缀  
     "cat_prefix": "https://www.ikandy2.fun",
     //分类片单链接补后缀

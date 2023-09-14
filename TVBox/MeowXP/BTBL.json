@@ -52,7 +52,7 @@
   "dtFromNameR": "",
   "dtUrlNode": "//body/div[4]/div/div[2]/div[2]/div[2]/ul",
   "dtUrlSubNode": "/li/a",
-  "dtUrlId": "/@href",
+  "dtUrlId": "@href",
   "dtUrlIdR": "",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",

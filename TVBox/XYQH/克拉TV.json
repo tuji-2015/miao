@@ -1,7 +1,7 @@
 {
     "规则名": "克拉TV",
     "规则作者": "tuji2015",
-    "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+    "请求头参数": "User-Agent$MOBILE_UA",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
@@ -34,7 +34,7 @@
     "筛选排序名称": "时间&人气&评分",
     "筛选排序替换词": "time&hits&score",
     "分类截取模式": "1",
-    "分类列表数组规则": "body&&.layui-col-md2",
+    "分类列表数组规则": "body&&.layui-col-md2.layui-col-sm4.layui-col-xs6.item",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "h5&&Text",
     "分类片单链接": "a&&href",

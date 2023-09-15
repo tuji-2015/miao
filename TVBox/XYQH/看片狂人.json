@@ -68,7 +68,7 @@
     "线路列表数组规则": "body&&.fed-btns-info.fed-rims-info.fed-part-eone.line-select",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.fed-play-item.fed-drop-item",
-    "选集列表数组规则": ".fed-padding.fed-col-xs3.fed-col-md2.fed-col-lg1",
+    "选集列表数组规则": ".fed-btns-info.fed-rims-info.fed-part-eone",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": "a&&Text",
     "选集链接": "a&&href",

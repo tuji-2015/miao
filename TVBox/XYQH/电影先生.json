@@ -48,7 +48,7 @@
     "搜索截取模式": "1",
     "搜索列表数组规则": "body&&.module-search-item",
     "搜索片单是否Jsoup写法": "1",
-    "搜索片单图片": ". lazyload&&data-src",
+    "搜索片单图片": "img&&data-src",
     "搜索片单标题": "h3&&Text",
     "搜索片单链接": "a&&href",
     "搜索片单副标题": ".video-serial&&Text",

@@ -64,7 +64,7 @@
 {"key":"csp_XYQH_免费影视","name":"👘免费影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"timeout":60,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/免费影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"csp_XYQH_蓝光影院","name":"💧蓝光影院(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/蓝光影院.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"csp_maolv_open","name":"🌄毛驴影视(SP)","type": 3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":0,"timeout":60,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/OpenSpider.jar"},
-{"key":"csp_蚂蚁","name":"🥷忍者影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}, 
+{"key":"csp_蚂蚁","name":"🏯忍者影视(SP)","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"}, 
 {"key":"csp_Tangrenjie","name":"🏯唐人街(SP)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},

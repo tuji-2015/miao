@@ -39,7 +39,8 @@
 {"key":"csp_New6v","name":"🧲新6V磁力(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"changeable":0,"timeout":60,"ext": "http://www.xb6v.com/","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_Bdys","name":"🅱️哔嘀在线(SP)","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_AppMr","name":"👻明明影视(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_贱贱","name":"🧲荐片[DR]","type":3,"timeout":60,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/jp.js"},
+//{"key":"csp_贱贱","name":"🧲荐片[DR]","type":3,"timeout":60,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/jp.js"},
+{"key":"csp_JianPian","name":"🧲荐片(SP)","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"drpy_Ikanbot","name":"👾爱看机器人[DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/爱看机器人.js"},
 //{"key":"csp_Ikanbot","name": "👾Ikanbot(SP)","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_Cokemv","name":"🚗Cokemv(ijk)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
@@ -77,7 +78,11 @@
 {"key":"csp_奇奇","name":"🍓奇奇(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://mp4.ghlyys.com/api.php/app/"},
 {"key":"csp_迪迪","name":"🚗迪迪(APP)","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"csp_黄黄","name":"😎黄黄(APP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"csp_哈喽","name":"✌哈喽(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},    
+{"key":"csp_哈喽","name":"✌哈喽(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"csp_暴風","name":"⛈️暴風(CJ)","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"csp_索尼","name":"🆘索尼(CJ)","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"csp_快帆","name":"⛵快帆(CJ)","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"csp_量子","name":"🔰量子(CJ)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"csp_YQK_spider","name":"👒一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 
 #官站资源

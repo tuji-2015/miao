@@ -84,7 +84,6 @@
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭芒果TV(SP)","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"SNzy","name":"索尼资源","type":1,"api":"https://suoniapi com/api.php/provide/vod/?ac=List","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_push_agent","name":"推送(FAN)","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 //{"key":"push_agent","name":"推送(XH)","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 

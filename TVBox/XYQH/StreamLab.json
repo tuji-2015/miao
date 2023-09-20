@@ -63,7 +63,7 @@
     "地区详情": "",
     "演员详情": ".video-info-items,1&&Text",
     "简介详情": ".video-info-content&&Text",
-    "线路列表数组规则": ".head-nav&&.swiper-slide",
+    "线路列表数组规则": ".anthology-tab&&.swiper-slide",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.anthology-list-play",
     "选集列表数组规则": "li",

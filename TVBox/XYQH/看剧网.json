@@ -55,7 +55,7 @@
 	"epiurl_prefix": "https://www.kanjuw.net",
 	"epiurl_suffix": "",
 	"Anal_MacPlayer": "0",
-	"ManualSniffer": "1",
+	"ManualSniffer": "0",
 	"VideoFormat": ".mp4#.m3u8#.flv#.m3u8?#st=",
 	"VideoFilter": ".html#=http"
 }

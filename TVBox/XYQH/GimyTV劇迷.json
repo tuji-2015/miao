@@ -100,12 +100,12 @@
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
-    "线路列表数组规则": "body&&.playlist-mobile",
+    "线路列表数组规则": "body&&.gico.jsm3u8",
     //线路标题，截取前缀&&截取后缀
-    "线路标题": ".gico.jsm3u8&&Text",
+    "线路标题": "Text",
     
     //列表数组截取，必须
-    "播放列表数组规则": "body&&#con_playlist_1",
+    "播放列表数组规则": "body&&.clearfix.fade.in.active",
     //集数数组截取，必须
     "选集列表数组规则": "li",
     //集数标题与链接jsoup与正则截取写法切换，1为jsoup写法(默认)，0为正则截取写法

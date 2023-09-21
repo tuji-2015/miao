@@ -103,12 +103,12 @@
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
-    "tab_arr_rule": "body&&.module-tab-item.tab-item",
+    "tab_arr_rule": "body&&.module-tab-item",
     //线路标题，截取前缀&&截取后缀
     "tab_title": "span&&Text",
     
     //列表数组截取，必须
-    "list_arr_rule": "body&&.module-blocklist",
+    "list_arr_rule": ".module-blocklist&&.scroll-content",
     //集数数组截取，必须
     "epi_arr_rule": "a",
     //集数标题，截取前缀&&截取后缀

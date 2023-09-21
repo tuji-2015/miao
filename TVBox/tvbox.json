@@ -84,6 +84,7 @@
 {"key":"csp_迪迪","name":"🚗迪迪[APP]","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://22222.yiyingys.asia/api.php/app/"},
 {"key":"csp_黄黄","name":"😎黄黄[APP]","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_哈喽","name":"✌哈喽[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"csp_速看","name":"💯速看100[APP]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/"},
 {"key":"csp_YQK_spider","name":"👒一起看TV[SP]","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 
 #官站资源

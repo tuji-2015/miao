@@ -40,7 +40,7 @@
 {"key":"csp_AliPanSou","name":"🐱盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_TuGou","name":"😿土狗(搜索)","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Zhaozy","name":"🔍找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"http://ali.饭太硬.ml/alitoken$$$fanfan$$$qqq111"},
-{"key":"lf_js_p2p","name":"🧲路飞磁力搜[DR]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","timeout":30},
+{"key":"lf_js_p2p","name":"🧲路飞磁力[DR]","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/lib/lf_p2p2_min.js","timeout":60},
 {"key":"csp_New6v","name":"🧲新6V磁力[SP]","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"changeable":0,"timeout":60,"ext": "http://www.xb6v.com/","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_Bdys","name":"🅱️哔嘀在线[SP]","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_AppMr","name":"👻明明影视[SP]","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},

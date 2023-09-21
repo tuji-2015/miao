@@ -1,6 +1,6 @@
 {
     //规则名
-    "title": "嘿嘿视频",
+    "title": "69mj",
     //作者
     "author": "香雅情",
     //请求头UA,键名$键值，每一组用#分开，不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
@@ -103,12 +103,12 @@
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
-    "tab_arr_rule": "body&&.module-tab-item",
+    "tab_arr_rule": "body&&module-tab-item",
     //线路标题，截取前缀&&截取后缀
     "tab_title": "span&&Text",
     
     //列表数组截取，必须
-    "list_arr_rule": ".module-blocklist&&.scroll-content",
+    "list_arr_rule": "body&&.module-blocklist",
     //集数数组截取，必须
     "epi_arr_rule": "a",
     //集数标题，截取前缀&&截取后缀

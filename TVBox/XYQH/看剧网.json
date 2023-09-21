@@ -23,7 +23,7 @@
 	"cat_prefix": "https://www.kanjuw.net",
 	"cat_suffix": "",
 	"SHeaders": "User-Agent$MOBILE_UA",
-    "search_url": "https://www.kanjuw.net/search.php?searchword={wd}",
+        "search_url": "https://www.kanjuw.net/search.php?searchword={wd}",
 	"sea_PtBody": "",
 	"search_mode": "1",
 	"sea_arr_rule": "body&&.thumb",

@@ -1,6 +1,7 @@
 var rule={
 	title:'if101[飞]',
-	host:'https://olvod.vip',
+	// host:'https://olevod.live',
+	host:'https://olevod.io',
 	url:'/index.php/vod/show/id/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',

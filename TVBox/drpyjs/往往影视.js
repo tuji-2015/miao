@@ -28,7 +28,7 @@ var rule={
     headers: {
         'User-Agent': 'PC_UA',
     },
-//class_parse: '.navbar-items&&li;a&&title;a&&href;/(\\w+).html',
+class_parse: '.navbar-items&&li;a&&title;a&&href;/(\\w+).html',
 	lazy:`js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;

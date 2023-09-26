@@ -82,7 +82,6 @@
 {"key":"csp_Biliych","name":"🅱看演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/biliych.json"},
 {"key":"csp_Vofl","name":"🎈Voflix[SP]","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_探探","name":"🏵影探[SP]","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
-{"key":"csp_YuMi","name":"🌽玉米[V2]","type":3,"api":"csp_AppYsV2","playUrl":"parse:玉米","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ym.dytt996.com:3/api.php/app/","categories":["电影","电视剧","综艺","动漫","国产剧"]},
 {"key": "csp_嘉靓","name":"🏖️嘉良[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 {"key":"csp_陌陌","name":"🍄MXONE[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"csp_奇奇","name":"🍓创意影视[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.30dian.cn/api.php/v1.vod/"},

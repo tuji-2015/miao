@@ -53,7 +53,6 @@
 //{"key":"csp_Ikanbot","name": "👾Ikanbot[SP]","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 //{"key":"csp_Cokemv","name":"🥤Cokemv[SP]","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CandyMuj_cokemv","name":"🥤Cokemv[SP]","type":3,"api":"csp_CandyMuj_cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec5095c1dfc3e2679f693d1bc37d74be"},
-{"key":"csp_Yj1211","name":"📽️直播合集[SP]","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫[SP]","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQH_Bttwo","name":"📚两个BT[XH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/bttwo.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 //{"key":"csp_Bttoo","name":"📚2BT[SP]","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},

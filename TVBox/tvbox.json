@@ -11,6 +11,7 @@
 	 {"name":"海外看","hosts":["haiwaikan"],"regex":["8.1748","10.0099","10.3333"]},
 	 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	 {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	 {"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	 {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
 	 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 	 {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}

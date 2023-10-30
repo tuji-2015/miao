@@ -7,7 +7,7 @@
 
 "lives":[{"name":"live","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/tv/bc.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     
-"rules":[{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+"rules":[{"name":"量子廣告","hosts":["vip.lz","hd.lz","v.cdnlz1"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	 {"name":"海外看","hosts":["haiwaikan"],"regex":["8.1748","10.0099","10.3333"]},
 	 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	 {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
@@ -28,7 +28,7 @@
 {"key":"csp_SP33","name":"🎾360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 {"key":"csp_Kuaikan","name":"👀快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czspp","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_索尼","name":"📌索尼[CJ]","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_快帆","name":"⛵快帆[CJ]","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
@@ -64,7 +64,7 @@
 //{"key":"py_libvio","name":"🔷Libvio[PY]","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
 {"key":"csp_Lib","name":"🔷Libvio[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun"},
 {"key":"drpy_ddj","name":"🥚蛋蛋剧[DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/蛋蛋剧.js"},
-{"key":"csp_Xinsj","name":"🌊新视觉[SP]","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy1.com"},
+{"key":"csp_Xinsj","name":"🌊新视觉[SP]","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com"},
 {"key":"csp_Dm84","name":"🚌动漫巴士[SP]","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂[SP]","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 {"key":"py_zxzj","name":"📗在线之家[PY]","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_zxzj.py"},

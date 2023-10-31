@@ -25,10 +25,6 @@
 {"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
 
 #优质站点
-{"key":"csp_SP33","name":"🎾360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
-{"key":"csp_Kuaikan","name":"👀快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77","name":"👒七七[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czspp","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_索尼","name":"📌索尼[CJ]","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_快帆","name":"⛵快帆[CJ]","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"changeable":1},
@@ -101,6 +97,10 @@
 {"key":"drpy_js_热剧猫[V2]","name":"🐱热剧猫[V2]","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/热剧猫[V2].js"},	
 {"key":"csp_Mino","name":"👻Mino[V2]","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
 {"key":"csp_JOJO","name":"🕊︎JOJO[SP]","type":3,"api":"csp_JOJO","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_SP33","name":"🎾360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
+{"key":"csp_Kuaikan","name":"👀快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"👒七七[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czspp","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
 {"key":"drpy_米爱影视","name":"🧤米爱影视[DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/米爱影视.js"},	
 {"key":"csp_YQK_spider","name":"👒一起看TV[SP]","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_CandyMuj_sstv","name":"🛸速搜影院[SP]","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec5095c1dfc3e2679f693d1bc37d74be"},
@@ -111,7 +111,6 @@
 {"key":"csp_CandyMuj_qiqiyy","name":"🎲琪琪影院[SP]","type":3,"api":"csp_CandyMuj_qiqiyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec5095c1dfc3e2679f693d1bc37d74be"},
 {"key":"csp_CandyMuj_yzzy","name":"💲优质资源[SP]","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec5095c1dfc3e2679f693d1bc37d74be"},
 {"key":"csp_BTPiaoHua","name":"🧲新飘花[SP]","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec5095c1dfc3e2679f693d1bc37d74be"},
-{"key":"drpy_好趣网","name":"📺电视直播[DR]","type":3,"timeout":60,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/好趣网.js"},
 
 #官站资源
 {"key":"csp_QQ","name":"🐧腾讯[SP]","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},

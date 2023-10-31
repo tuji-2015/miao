@@ -101,7 +101,7 @@
 {"key":"csp_SP33","name":"🎾360[SP]","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 {"key":"csp_Kuaikan","name":"👀快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czspp","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
+{"key":"csp_Czspp","name":"🚬厂长资源[SP]","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy88.com/"},
 {"key":"drpy_米爱影视","name":"🧤米爱影视[DR]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/米爱影视.js"},	
 {"key":"csp_YQK_spider","name":"👒一起看TV[SP]","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_CandyMuj_sstv","name":"🛸速搜影院[SP]","type":3,"api":"csp_CandyMuj_sstv","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},

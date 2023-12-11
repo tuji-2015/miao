@@ -51,7 +51,7 @@
     "搜索链接": "https://haoxi.vip/vodsearch/-------------/?wd={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.search-box",
+    "搜索列表数组规则": "body&&.public-list-box",
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": ".lazy&&data-src",
     "搜索片单标题": ".thumb-txt&&Text",

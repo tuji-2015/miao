@@ -1,5 +1,5 @@
 {
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;4d0c466a2f079b0b55c138d738076244",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
 
 //"wallpaper":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/bg/mo.png",
 //"wallpaper":"https://饭太硬.ga/深色壁纸/api.php",
@@ -69,6 +69,7 @@
 {"key":"csp_XYQH_免费影视","name":"👘免费影视[XH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/免费影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_XYQH_蓝光影院","name":"💧蓝光影院[XH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/蓝光影院.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_maolv","name":"🌄毛驴影视[SP]","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"csp_九六","name":"🎀九六[SP]","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_忍者影视","name":"⛩️忍者影视[SP]","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz"}, 
 {"key":"csp_Tangrenjie","name":"🏯唐人街[SP]","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花动漫[SP]","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},

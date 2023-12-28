@@ -117,11 +117,7 @@
 {"key":"csp_CandyMuj_taoju","name":"🌈淘剧影院[SP]","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
 {"key":"csp_CandyMuj_dmxq","name":"👒极速影视[SP]","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
 	
-
-#官站资源
-{"key":"csp_QQ","name":"🐧腾讯[SP]","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"🥝爱奇艺[SP]","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV","name":"🥭芒果TV[SP]","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
+#推送
 {"key":"csp_push_agent","name":"推送[FAN]","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 //{"key":"push_agent","name":"推送[XH]","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 

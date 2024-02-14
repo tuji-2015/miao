@@ -61,7 +61,7 @@
 {"key":"csp_MeiJu69","name":"🗽69美剧[SP]","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_XYQH_Lib","name":"🔷Libvio[XH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/Libvio.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 //{"key":"py_libvio","name":"🔷Libvio[PY]","type":3,"api":"py_libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_libvio.py"},
-{"key":"csp_Lib","name":"🔷Libvio[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.la"},
+//{"key":"csp_Lib","name":"🔷Libvio[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.la"},
 {"key":"drpy_ddj","name":"🥚蛋蛋剧[DR]","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/蛋蛋剧.js"},
 {"key":"csp_Xinsj","name":"🌊新视觉[SP]","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com"},
 {"key":"csp_Dm84","name":"🚌动漫巴士[SP]","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},

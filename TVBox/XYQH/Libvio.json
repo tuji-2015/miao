@@ -36,7 +36,7 @@
     "分类片单链接加前缀": "https://tv.libvio.cc",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://tv.libvio.cc/index.php/ajax/suggest?mid=1&wd={wd}",
+    "搜索链接": "https://tv.libvio.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".stui-vodlist&&li",

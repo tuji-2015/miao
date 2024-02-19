@@ -26,7 +26,7 @@ var rule = {
 	},
 	class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
 	// class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
-	tab_exclude: '夸克|阿里|百度',
+	tab_exclude: '视频下载 (夸克)|百度',
 	pagecount:{"27":1},
 	二级: {
 		"title": ".stui-content__detail .title&&Text;.stui-content__detail p:eq(-2)&&Text",

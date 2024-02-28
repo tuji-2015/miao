@@ -106,10 +106,6 @@
 {"key":"csp_BTPiaoHua","name":"🧲新飘花[SP]","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
 {"key":"csp_CandyMuj_taoju","name":"🌈淘剧影院[SP]","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
 {"key":"csp_CandyMuj_dmxq","name":"👒极速影视[SP]","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69"},
-	
-#推送
-{"key":"csp_push_agent","name":"推送[FAN]","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-//{"key":"push_agent","name":"推送[XH]","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 
 #优质站点1
 {"key": "csp_XYQHiker_BT天堂","name":"🧲BT天堂[XH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
@@ -286,6 +282,13 @@
 {"key":"csp_XYQBiu_TVB云播","name":"📹TVB云播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/TVB云播.json"},
 {"key":"csp_XYQBiu_酷奇MV","name":"📹酷奇MV(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/酷奇MV.json"},
 {"key":"csp_XYQBiu_分享短视频","name":"📹分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/xyq/分享短视频.json"},
+
+#推送
+{"key":"csp_push_agent","name":"推送[FAN]","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+//{"key":"push_agent","name":"推送[XH]","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
+{"key": "push_quark","name": "夸克|推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/TV/quark.txt", "timeout":30,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;9bf3f56804cff25d540caf628a861d17"},
+{"key":"push_agentp","name":"手机|推送[jar]","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;9bf3f56804cff25d540caf628a861d17"},
+{"key":"csp_配置中心","name":"配置中心[jar]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;9bf3f56804cff25d540caf628a861d17"},
 
 #XBPQ系列
 {"key":"csp_XBPQ_端木","name":"🧀端木[XQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/端木.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/XBPQ2.jar;md5;6e12873c628020196fe9400d1ef51f1c"},

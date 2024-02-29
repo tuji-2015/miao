@@ -38,7 +38,7 @@
 {"key":"csp_量子","name":"🔰量子[CJ]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"csp_夸克资源","name":"🥦夸克[CJ]","type":1,"api":"http://kuakezy1.com/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"csp_WoGG","name":"👽玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_玩偶哥哥","name":"👽玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"csp_Dovx","name":"😾DovX[云盘]","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Pansearch","name":"😾盘寻[云盘]","type":3,"api":"csp_PanSearch","searchable":1,"filterable":1,"changeable":0},
 {"key":"Yunsou","name":"🍭云搜[云盘]","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

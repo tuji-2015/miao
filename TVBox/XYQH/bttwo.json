@@ -57,7 +57,7 @@
     "地区详情": "",
     "演员详情": "主演：</span>&&</div>",
     "简介详情": "introduction\">&&</p>",
-    "线路列表数组规则": "body&&.mi_ne_kd",
+    "线路列表数组规则": ".mi_paly_box:has(.paly_list_btn)&&.mi_ne_kd",
     "线路标题": "span&&Text",
     "播放列表数组规则": "body&&.paly_list_btn",
     "选集列表数组规则": "a",

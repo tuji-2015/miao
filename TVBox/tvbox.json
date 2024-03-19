@@ -42,7 +42,7 @@
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_索尼","name":"📌索尼[CJ]","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_量子","name":"🔰量子[CJ]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-{"key":"csp_快云","name":"☁️快云[CJ]","type":0,"api":"https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyunbo","playUrl":"https://www.kuaiyunplayer.com/dplayer/?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"csp_快云","name":"☁️快云[CJ]","type":1,"api":"https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyunbo","playUrl":"https://www.kuaiyunplayer.com/dplayer/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"csp_海兔","name":"🐰海兔[CJ]","type":0,"api":"https://www.haituu.tv/api.php/provide/vod/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_玩偶哥哥","name":"👽玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},

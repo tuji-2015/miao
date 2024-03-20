@@ -17,14 +17,14 @@
     "图片是否需要代理":"0",
     //是否开启获取首页数据，0关闭，1开启
     "是否开启获取首页数据":"1",
-    "首页推荐链接": "https://www.jren.tv",
+    "首页推荐链接": "https://www.juren.co",
     "首页列表数组规则": "body&&.myui-vodlist",
     "首页片单列表数组规则": "li",
     "首页片单是否Jsoup写法": "1",
     //分类链接起始页码,禁止负数和含小数点。
     "分类起始页码": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-    "分类链接": "https://www.jren.tv/show/{cateId}--------{catePg}---.html",
+    "分类链接": "https://www.juren.co/show/{cateId}--------{catePg}---.html",
     //分类名，分类1&分类2&分类3
     "分类名称": "电影&电视剧&综艺&动漫",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
@@ -47,7 +47,7 @@
     //分类片单副标题
     "分类片单副标题":".tag&&Text",
     //分类片单链接补前缀  
-    "分类片单链接加前缀": "https://www.jren.tv",
+    "分类片单链接加前缀": "https://www.juren.co",
     //分类片单链接补后缀
     "分类片单链接加后缀": "",
     
@@ -56,7 +56,7 @@
     "搜索请求头参数":"User-Agent$PC_UA",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "搜索链接": "https://www.jren.tv/search.html?wd={wd}&submit=",
+    "搜索链接": "https://www.juren.co/search.html?wd={wd}&submit=",
     //POST搜索Params参数，只支持utf-8编码的请求，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "POST请求数据":"wd={wd}&search=",
     
@@ -75,7 +75,7 @@
     //搜索片单副标题
     "搜索片单副标题":".hl-pic-text&&Text",
     //搜索片单链接补前缀
-    "搜索片单链接加前缀": "https://www.jren.tv",
+    "搜索片单链接加前缀": "https://www.juren.co",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "搜索片单链接加后缀": "",
     
@@ -121,7 +121,7 @@
     //选集是否反转显示
     "是否反转选集序列": "0",
     //集数链接补前缀
-    "选集链接加前缀": "https://www.jren.tv",
+    "选集链接加前缀": "https://www.juren.co",
     //集数链接补后缀
     "选集链接加后缀": "",
     

@@ -45,6 +45,7 @@
 {"key":"csp_kuaikan","name":"👀快看[CJ]","type":1,"searchable":1,"changeable":1,"api":"https://kuaikan-api.com/api.php/provide/vod/at/json","categories":[]},
 {"key":"csp_快云","name":"☁️快云[CJ]","type":1,"searchable":1,"changeable":1,"api":"https://www.kuaiyunzy.com/api.php/provide/vod/at/json","categories":[]},
 {"key":"csp_海兔","name":"🐰海兔[CJ]","type":0,"api":"https://www.haituu.tv/api.php/provide/vod/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
+{"key":"T4_采集合集","name":"4️⃣采集聚合[CJ]","type":4,"api":"https://catbox.n13.club/caiji.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_玩偶哥哥","name":"👽玩偶哥哥[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"csp_Dovx","name":"😾DovX[云盘]","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},

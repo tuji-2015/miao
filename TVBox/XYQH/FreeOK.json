@@ -27,7 +27,7 @@
     "筛选排序名称": "时间&人气&评分",
     "筛选排序替换词": "time&hits&score",
     "分类截取模式": "1",
-    "分类列表数组规则": ".module-items&&.module-poster-item",
+    "分类列表数组规则": ".module-items:has(.module-item-pic)&&a",
     "分类片单是否Jsoup写法": "1",
     "分类片单标题": "a&&title",
     "分类片单链接": "a&&href",

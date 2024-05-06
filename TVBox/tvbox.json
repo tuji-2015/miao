@@ -35,6 +35,7 @@
 
 #豆瓣首页
 {"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"},
+{"key":"csp_配置中心","name":"PG配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;036ff477b87aaf394771bf99eadfa052"},
 
 #优质站点
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
@@ -307,7 +308,6 @@
 {"key":"csp_BtSearch","name":"🧲磁力搜[SP]","type":3,"api":"csp_BtSearch","timeout":60,"ext":"","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;036ff477b87aaf394771bf99eadfa052"},
 {"key":"push_agent","name":"FAN推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 {"key":"csp_pg_pushagent","name":"PG推送","type": 3,"api":"csp_Push","changeable":0,"timeout":30,"ext":"./lib/tokenm.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;036ff477b87aaf394771bf99eadfa052"},
-{"key":"csp_配置中心","name":"PG配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;036ff477b87aaf394771bf99eadfa052"},
 
 #XBPQ系列
 {"key":"csp_XBPQ_4kvm","name":"🧀4K影院[XQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/4K影院.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/XBPQ2.jar;md5;6e12873c628020196fe9400d1ef51f1c"},

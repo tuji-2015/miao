@@ -152,7 +152,7 @@ d.forEach(function(it) {
 			magfn = resolution + "." + magfn;
 			log("tabs magnet filename>>>>>>>>>>>" + magfn);
 			playObj["magnet"][purl]=magfn;
-		}else if (purl.startsWith("https://www.aliyundrive.com/s/")){
+	        }else if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 			playObj["ali"][purl]=title;
 		}else if (purl.startsWith("https://pan.quark.cn/s/")){
 			playObj["quark"][purl]=title;
@@ -189,7 +189,7 @@ playGroups.forEach(function (it) {
 				haveDelay = true;
 				TABS.push("選擇右側綫路");
 			}
-			TABS.push("夸克雲盤" + groupIndex);
+			TABS.push("夸克網盤" + groupIndex);
 		}
 		groupIndex = groupIndex + 1;
 	}
@@ -229,7 +229,7 @@ if (false && LISTS.length>0 && typeof LISTS[0] === "object"){
 				magfn = resolution + "." + magfn;
 				log("tabs magnet filename>>>>>>>>>>>" + magfn);
 				playObj["magnet"][purl]=magfn;
-			}else if (purl.startsWith("https://www.aliyundrive.com/s/")){
+			}else if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
 				playObj["ali"][purl]=title;
 			}else if (purl.startsWith("https://pan.quark.cn/s/")){
 				playObj["quark"][purl]=title;

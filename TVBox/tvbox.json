@@ -118,7 +118,6 @@
 {"key":"csp_Tvbyunv2","name":"🐮云播[SP]","type":3,"api":"csp_Tvbyunv2","searchable":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
 	
 #优质站点1
-{"key":"drpy_js_美剧迷","name":"磁力 | 美剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./drpyjs/meijumi.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"csp_PG_Wo4k","name":"🧲玩偶4K[SP]","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;281f4f9830c3777bcbcb23eb70b9f025"},
 {"key":"csp_PG_Gaoqing","name":"🧲高清网[SP]","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gaoqing.la","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;281f4f9830c3777bcbcb23eb70b9f025"},
 {"key":"csp_XYQHikerAL_4KHDR","name":"🧲4KHDR[XH]","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/4KHDR.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},

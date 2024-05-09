@@ -114,10 +114,10 @@
 {"key":"csp_WexBDys","name":"🐮哔嘀[SP]","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
 {"key":"csp_WexF4kvm","name":"🐮纯享[SP]","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
 {"key":"csp_Tvbyunv2","name":"🐮云播[SP]","type":3,"api":"csp_Tvbyunv2","searchable":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
-{"key":"Wexjiohub","name":"🎉啾啾[SP]","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable":,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
-{"key":"Wexwencai","name":"🎇文才[SP]","type": 3,"api": "csp_Wexwencai","searchable": 1,"changeable":,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
-{"key":"Fangniu4k","name":"👎放牛[SP]","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable":,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
-{"key":"Wexshandian","name":"⚡️闪电[SP]","type": 3,"api": "csp_Wexshandian","searchable": 1,"changeable":,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
+{"key":"Wexjiohub","name":"🎉啾啾[SP]","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
+{"key":"Wexwencai","name":"🎇文才[SP]","type": 3,"api": "csp_Wexwencai","searchable": 1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
+{"key":"Fangniu4k","name":"👎放牛[SP]","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
+{"key":"Wexshandian","name":"⚡️闪电[SP]","type": 3,"api": "csp_Wexshandian","searchable": 1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
 	
 #优质站点1
 {"key":"csp_PG_Wo4k","name":"🧲玩偶4K[SP]","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/pg.jar;md5;281f4f9830c3777bcbcb23eb70b9f025"},

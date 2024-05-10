@@ -2,8 +2,8 @@
 //最新域名 www.btbdys.com，备用域名 bde4.icu,旧站https://www.mp4er.cc/,https://www.52bdys.com/
 {
 	"ua": "",
-	"homeUrl": "https://www.bdys10.com",
-    "dcPlayUrl": "true",
+	"homeUrl": "https://www.yjys.me",
+        "dcPlayUrl": "true",
 	"cateNode": "//a[contains(@href,'/s/')]",
 	"cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
 	"cateId": "/@href",
@@ -33,8 +33,8 @@
 	"dtCate": "//div[@class='col mb-2']/p/a[contains(@target,'new')]/text()",
 	"dtArea": "//div[@class='col mb-2']//strong[contains(text(),'地区')]/parent::text()",
 	"dtAreaR": "\\[(\\S+)\\]",
-    "dtYear": "//div[@class='col mb-2']//strong[contains(text(),'上映日期')]/parent::text()",
-    "dtYearR": "(\\w+)",
+        "dtYear": "//div[@class='col mb-2']//strong[contains(text(),'上映日期')]/parent::text()",
+        "dtYearR": "(\\w+)",
 	"dtActor": "//div[@class='col mb-2']//a[contains(@href,'performer')]/text()",
 	"dtDirector": "//div[@class='col mb-2']//a[contains(@href,'director')]/text()",
 	"dtDesc": "//div[@class='card collapse']//div[@class='card-body']/text()'",

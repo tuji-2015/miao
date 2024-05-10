@@ -38,7 +38,6 @@
 #优质站点
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_ikun","name":"🍕Ikun[CJ]","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"changeable":1},
-{"key":"csp_索尼","name":"📌索尼[CJ]","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_量子","name":"🔰量子[CJ]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
 {"key":"csp_kuaikan","name":"👀快看[CJ]","type":1,"searchable":1,"changeable":1,"api":"https://kuaikan-api.com/api.php/provide/vod/at/json","categories":[]},
 {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},

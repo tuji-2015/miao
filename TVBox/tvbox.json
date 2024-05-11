@@ -3,7 +3,8 @@
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"lives":[{"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[
+	{"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"LIVE","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"俊于","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"YZLLive","type":0,"url":"https://gh.isteed.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","epg":"https://epg.imxd.top/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/{name}.png"},

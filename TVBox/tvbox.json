@@ -141,7 +141,7 @@
 {"key":"csp_Fangniu4k","name":"👎放牛[SP]","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/wex.jar"},
 	
 #优质站点1
-{"key":"csp_BLSGod","name":"🧲BLSGod[SP]","type":3,"api":"csp_BLSGod","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,},
+{"key":"csp_BLSGod","name":"🧲BLSGod[SP]","type":3,"api":"csp_BLSGod","quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
 {"key":"csp_PG_Wo4k","name":"🧲玩偶4K[SP]","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
 {"key":"csp_PG_Gaoqing","name":"🧲高清网[SP]","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
 {"key":"csp_XYQHikerAL_4KHDR","name":"🧲4KHDR[XH]","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/4KHDR.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},

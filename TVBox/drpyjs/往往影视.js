@@ -6,7 +6,7 @@ var rule={
     host:'https://www.oftens.top',
     homeUrl:'/label/new.html',
     // url:'/oftensshow/fyclass--------fypage---.html',
-    url:'/oftensshow/fyfilter.html',
+    url:'/show/fyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     filter:{
@@ -18,12 +18,10 @@ var rule={
         "tiyu":[{"key":"cateId","name":"类型","value":[{"n":"全部","v":"tiyu"},{"n":"足球","v":"zuqiu"},{"n":"篮球","v":"lanqiu"},{"n":"台球","v":"taiqiu"}]},{"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"},{"n":"2006","v":"2006"},{"n":"2005","v":"2005"},{"n":"2004","v":"2004"}]},{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
     },
     filter_def:{
-        dianying:{cateId:'dianying'},
-        dianshiju:{cateId:'dianshiju'},
-        dongman:{cateId:'dongman'},
-        zongyi:{cateId:'zongyi'},
-        jilupian:{cateId:'jilupian'},
-        tiyu:{cateId:'tiyu'}
+        1:{cateId:'dianying'},
+        2:{cateId:'dianshiju'},
+        4:{cateId:'dongman'},
+        3:{cateId:'zongyi'}
     },
     headers: {
         'User-Agent': 'PC_UA',
@@ -64,6 +62,6 @@ class_parse: '.navbar-items&&li;a&&title;a&&href;/(\\w+).html',
 
     // searchUrl:'/oftenssearch/**----------fypage---.html',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
-	detailUrl:'/oftensdetail/fyid.html', //非必填,二级详情拼接链接
+	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
 	搜索:'json:list;name;pic;;id',
 }

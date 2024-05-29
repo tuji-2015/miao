@@ -92,7 +92,6 @@
 {"key":"秒搜","name":"☁️秒搜[云盘]搜索","type":3,"api":"csp_MiaoSou","timeout":60,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1}},
 {"key":"Funletu","name":"☁️趣盘搜[夸克]搜索","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1}},
 {"key":"QuarkPanso","name":"☁️夸克盘搜[夸克]搜索","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1}},
-{"key":"Panta","name":"☁️盘TA[云盘]","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"DaPanSo","name":"☁️大盘搜[云盘]搜索","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$proxy$$$1"},
 {"key":"PikaSo","name":"☁️皮卡搜[云盘]搜索","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null","style":{"type":"list","ratio":1.1}},
 {"key":"Qianfan","name":"☁️千帆[云盘]搜索","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"},

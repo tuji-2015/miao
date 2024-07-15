@@ -56,6 +56,7 @@
 {"key":"Ppxzy","name":"☁️皮皮虾[云盘]","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$noproxy$$$1"},
 {"key":"校长影视","name":"☁️校长影视[云盘]","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$noproxy$$$1"},
 {"key":"YunPan","name":"☁️云盘资源[云盘]","type":3,"api":"csp_YunPan","timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
+{"key":"csp_蜡笔网盘","name":"☁️蜡笔网盘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"csp_Ikanbot","name":"👾爱看机器人[SP]","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.aikanbot.com$$$proxy"},
 {"key":"csp_CandyMuj_cokemv","name":"🥤Cokemv[SP]","type":3,"api":"csp_CandyMuj_cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
 {"key":"csp_Anime1","name":"🌸动漫[SP]","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt"},

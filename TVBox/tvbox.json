@@ -3,7 +3,7 @@
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+"logo":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/lib/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240730113910.jpg",
 
 "lives":[
 	{"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

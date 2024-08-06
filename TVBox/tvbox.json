@@ -36,6 +36,7 @@
 #豆瓣首页
 {"key":"pg_豆瓣","name":"🍥豆瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/douban.json"},
 {"key":"csp_配置中心","name":"⚙️PG配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
+{"key":"csp_config","name":"🐼配置中心","type":3,"api":"csp_Config","playerType":2,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 
 #优质站点
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},

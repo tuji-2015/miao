@@ -43,7 +43,7 @@
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_ikun","name":"🍕Ikun[CJ]","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":1,"changeable":1},
 {"key":"csp_量子","name":"🔰量子[CJ]","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
-{"key":"csp_kuaikan","name":"👀快看[CJ]","type":1,"searchable":1,"changeable":1,"api":"https://kuaikan-api.com/api.php/provide/vod/at/json","categories":[]},
+{"key":"csp_kuaikan","name":"👀快看[CJ]","type":1,"searchable":0,"changeable":1,"api":"https://kuaikan-api.com/api.php/provide/vod/at/json","categories":[]},
 {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_115Share","name":"5️⃣115云盘分享[云盘]","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":120,"ext":"./lib/tokenm.json$$$./lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_Xpanpan","name":"☁️小盘盘[云盘]","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1","style":{"type":"list","ratio":1.1}},

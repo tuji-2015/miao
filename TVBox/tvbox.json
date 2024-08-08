@@ -57,7 +57,7 @@
 {"key":"pg_yydsys","name":"☁️多多影音[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"pg_ddys","name":"🎬低端影视[夸克]","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ddys.pro/$$$noproxy$$$1$$$"},
 {"key":"pg_Xinshijue","name":"🌊新视觉[云盘]","type":3,"api":"csp_Xinshijue","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"pg_Hdhive","name":"☁️影巢[云盘]","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$noproxy$$$1"},
+{"key":"pg_Hdhive","name":"☁️影巢[云盘]","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.hdhive.online/$$$noproxy$$$1"},
 {"key":"pg_Ppxzy","name":"☁️皮皮虾[云盘]","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$noproxy$$$1"},
 {"key":"pg_校长影视","name":"☁️校长影视[云盘]","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$noproxy$$$1"},
 {"key":"pg_团长资源","name":"☁️团长资源[云盘]","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$noproxy$$$1"},

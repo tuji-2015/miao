@@ -71,7 +71,6 @@
 {"key":"csp_毛驴","name":"🦙毛驴影视[SP]","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"csp_Taozi","name":"🍑桃子影视[SP]","type":3,"api":"csp_Taozi","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"csp_FengGo","name":"🐕疯狗影视[SP]","type":3,"api":"csp_FengGo","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
-{"key":"csp_Juqq","name":"⭕剧圈影视[SP]","type":3,"api":"csp_Juqq","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"csp_Netfixtv","name":"💌至臻影视[SP]","type":3,"api":"csp_Netfixtv","filterable":1,"ext":"http://mpanso.com","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"csp_Vidhub2","name":"🎼Vid影视[SP]","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
 {"key":"csp_Anime1","name":"🌸动漫[SP]","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt"},

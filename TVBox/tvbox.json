@@ -37,7 +37,6 @@
 {"key":"pg_豆瓣","name":"🍥豆瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/douban.json"},
 {"key":"csp_配置中心","name":"⚙️PG配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
 {"key":"csp_config","name":"🐼配置中心A","type":3,"api":"csp_Config","playerType":2,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/cat.jar"},
-{"key":"duo_ConfigCenter","name":"🎚️配置中心B","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"./peizhi.json"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/duo.jar"},
 {"key":"fan_玩偶","name":"👽玩偶哥哥[配置]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt"},
 
 #优质站点
@@ -68,7 +67,6 @@
 {"key":"pg_YingSo","name":"☁️影搜[云盘]","type":3,"api":"csp_YingSo","timeout":60,"ext":"./lib/tokenm.json"},
 {"key":"pg_Mogg","name":"☁️木偶哥哥[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 {"key":"pg_Xpanpan","name":"☁️小盘盘[云盘]","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"duo_网盘集合","name":"☁️网盘集合[云盘]","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"./peizhi.json","share":"./lib/网盘集合.json"}},
 {"key":"pg_TGYunPanL","name":"☁️TGLocal[云盘]","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 {"key":"pg_YunPan","name":"☁️云盘资源[云盘]","type":3,"api":"csp_YunPan","timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
 {"key":"csp_蜡笔网盘","name":"☁️蜡笔网盘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"},

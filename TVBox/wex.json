@@ -92,7 +92,7 @@
 {"key":"Wexyingso","name":"🎠影子┃综合🎠","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0},
 {"key":"Wextyso","name":"🎠给力┃天逸🎠","type":3,"api":"csp_Wextyso","searchable":1,"changeable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0
-}]
+}],
 
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},

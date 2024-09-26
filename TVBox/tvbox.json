@@ -67,7 +67,6 @@
 {"key":"pg_YingSo","name":"☁️影搜[云盘]","type":3,"api":"csp_YingSo","timeout":60,"ext":"./lib/tokenm.json"},
 {"key":"pg_Mogg","name":"☁️木偶哥哥[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 {"key":"pg_Xpanpan","name":"☁️小盘盘[云盘]","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"pg_TGYunPan","name":"☁️TG搜索[云盘]","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"},
 {"key":"pg_TGYunPanL","name":"☁️TGLocal[云盘]","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 {"key":"pg_YunPan","name":"☁️云盘资源[云盘]","type":3,"api":"csp_YunPan","timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
 {"key":"csp_蜡笔网盘","name":"☁️蜡笔网盘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"},

@@ -143,6 +143,18 @@
 {"key":"csp_CandyMuj_dmxq","name":"👒极速影视[SP]","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},
 {"key":"csp_qiao3_时常_QJ","name":"🕐时常[SP]","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/lem.jar"},
 {"key":"csp_KanKan_QJ","name":"👁看看视频[SP]","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/lem.jar"},
+{"key":"csp_Nmys","name":"🎇农民影视[SP]","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"wex_哔嘀影视","name":"🎇哔滴影视[SP]","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"wex_F4kvm","name":"🎇4K纯享[SP]","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexbaipiao","name":"🎇星星[SP]","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexsaohuo","name":"🎇火火[SP]","type":3,"api":"csp_Wexsaohuo","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},	
+{"key":"Wexzxzj","name":"🎇外剧[SP]","type":3,"api":"csp_Wexzxzj","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexbaozitv","name":"🎇包子[SP]","type":3,"api":"csp_Wexbaozitv","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexnullname","name":"💓无名[SP]","type":3,"api":"csp_Wexnullname","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexkoukou","name":"🌺扣扣[SP]","type":3,"api":"csp_Wexkoukou","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexjiazitv","name":"🌺甲子[SP]","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexwencai","name":"🌺文才[SP]","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
+{"key":"Wexshandian","name":"🌺闪电[SP]","type":3,"api":"csp_Wexshandian","searchable":1,"changeable":1,"jar":"https://d.kstore.space/download/10833/jar/wex.jar"},
 	
 #优质站点1
 {"key":"csp_BTPiaoHua","name":"🧲新飘花[SP]","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/candymuj.jar"},

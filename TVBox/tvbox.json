@@ -59,7 +59,6 @@
 {"key":"csp_Wogg","name":"☁️玩偶哥哥[云盘]","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"/lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
 {"key":"csp_Wobg_td","name":"☁️玩偶土豆[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"pg_夸克云星","name":"☁️云星[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://4k.4u4.cn$$$noproxy$$$1$$$./lib/wogg.json"},
-{"key":"pg_夸克奥秘","name":"☁️奥秘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://vip.omii.top$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"pg_小米网盘","name":"☁️小米网盘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"},
 {"key":"pg_yydsys","name":"☁️多多影音[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"pg_ddys","name":"🎬低端影视[夸克]","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://ddys.pro/$$$noproxy$$$1$$$"},

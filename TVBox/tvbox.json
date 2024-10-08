@@ -72,6 +72,7 @@
 {"key":"pg_Mogg","name":"☁️木偶哥哥[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 {"key":"pg_Xpanpan","name":"☁️小盘盘[云盘]","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"pg_TGYunPanL","name":"☁️TGLocal[云盘]","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
+{"key":"pg_TGYunPan","name":"☁️TGOnline[云盘]","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"./lib/tokenm.json$$$http://127.0.0.1:10199$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
 {"key":"pg_YunPan","name":"☁️云盘资源[云盘]","type":3,"api":"csp_YunPan","timeout":60,"ext":"./lib/tokenm.json$$$null$$$noproxy$$$1"},
 {"key":"csp_蜡笔网盘","name":"☁️蜡笔网盘[云盘]","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json"},
 {"key":"pg_糯米","name":"🍓糯米[SP]","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/fan.txt"},

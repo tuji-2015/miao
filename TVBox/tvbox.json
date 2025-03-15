@@ -3,7 +3,7 @@
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"logo":"https://github.catvod.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/lib/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240730113910.jpg",
+"logo":"https://cdn.jsdelivr.net/gh/tuji-2015/Picbed/pic/wallhaven-0139o1.jpg",
 
 "lives":[
         {"name":"最强国内直播","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},

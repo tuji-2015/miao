@@ -1,0 +1,43 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "url": "",
+        "icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg"
+      }
+    ]
+  },
+  {
+    "name": "当前版本",
+    "list": [
+      {
+        "name": "单线路",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png"
+      },
+      {
+        "name": "多线路",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/.版本.png"
+      }
+    ]
+  },
+  {
+    "name": "检查更新",
+    "list": [
+      {
+        "name": "单线路",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/单线路.zip",
+        "icon": "",
+        "version": "4.15"
+      },
+      {
+        "name": "多线路",
+        "url": "https://gitee.com/PizazzXS/another-d/raw/master/多线路.zip",
+        "icon": "",
+        "version": "4.15"
+      }
+    ]
+  }
+]

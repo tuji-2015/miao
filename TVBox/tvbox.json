@@ -10,10 +10,10 @@
         {"name":"Gather.电视直播","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"},
         {"name":"最强国内直播[backup]","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua": "okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
         {"name":"猫影视直播","type":0,"playerType":2,"url":"https://6296.kstore.vip/25.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-        {"name":"饭聚合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-        {"name":"范明明","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2},
+        {"name":"饭聚合","type":0,"url":"https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
+        {"name":"范明明","type":0,"url":"https://github.catvod.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2},
         {"name":"Gather.网络直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"},
-        {"name":"Local","type":0,"url":"./lib/live.txt","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"}
+        {"name":"本地ITV","type":0,"url":"./lib/live.txt","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "rules":[

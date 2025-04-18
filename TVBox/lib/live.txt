@@ -37,9 +37,9 @@ http://192.168.2.2:4022/udp/239.49.8.31:8000
 http://192.168.2.2:4022/udp/239.49.8.52:9810
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/CCTV4K.png" group-title="央视", CCTV4K
 http://192.168.2.2:4022/udp/239.49.0.82:8000
-#EXTINF:-1,tvg-id="江西电视指南" tvg-name="江西电视指南" tvg-logo="https://epg.v1.mk/logo/江西电视指南.png" group-title="央视", CCTV电视指南
+#EXTINF:-1,tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="央视", CCTV电视指南
 http://192.168.2.2:4022/udp/239.49.8.84:8000
-#EXTINF:-1,tvg-id="南京综合" tvg-name="南京综合" tvg-logo="https://epg.v1.mk/logo/南京综合.png" group-title="其他",南京综合
+#EXTINF:-1,tvg-id="南京综合" tvg-name="南京综合" tvg-logo="https://epg.v1.mk/logo/南京新闻综合.png" group-title="其他",南京综合
 http://192.168.2.2:4022/udp/239.49.0.25:8192
 #EXTINF:-1,tvg-id="南京生活" tvg-name="南京生活" tvg-logo="https://epg.v1.mk/logo/南京生活.png" group-title="其他",南京生活
 http://192.168.2.2:4022/udp/239.49.0.184:9438
@@ -59,7 +59,7 @@ http://192.168.2.2:4022/udp/239.49.8.94:8000
 http://192.168.2.2:4022/udp/239.49.8.89:8000
 #EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视", 风云音乐
 http://192.168.2.2:4022/udp/239.49.8.92:8000
-#EXTINF:-1,tvg-id=" CCTV奥林匹克4K" tvg-name=" CCTV奥林匹克4K" tvg-logo="https://epg.v1.mk/logo/CCTV奥林匹克4K.png" group-title="央视", CCTV奥林匹克4K
+#EXTINF:-1,tvg-id=" CCTV奥林匹克4K" tvg-name=" CCTV奥林匹克4K" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视", CCTV奥林匹克4K
 http://192.168.2.2:4022/udp/239.49.0.109:8000
 #EXTINF:-1,tvg-id=" CGTN英语" tvg-name=" CGTN英语" tvg-logo="https://epg.v1.mk/logo/CGTN英语.png" group-title="央视", CGTN英语
 http://192.168.2.2:4022/udp/239.49.1.9:6000
@@ -163,7 +163,7 @@ http://192.168.2.2:4022/udp/239.49.8.120:8000
 http://192.168.2.2:4022/udp/239.49.8.107:8000
 #EXTINF:-1,tvg-id="江苏教育电视台" tvg-name="江苏教育电视台" tvg-logo="https://epg.v1.mk/logo/江苏教育电视台.png" group-title="江苏", 江苏教育
 http://192.168.2.2:4022/udp/239.49.8.122:8000
-#EXTINF:-1,tvg-id=" 江苏体育休闲" tvg-name=" 江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏体育休闲.png" group-title="江苏", 江苏体育休闲
+#EXTINF:-1,tvg-id=" 江苏体育休闲" tvg-name=" 江苏体育休闲" tvg-logo="https://epg.v1.mk/logo/江苏休闲体育.png" group-title="江苏", 江苏体育休闲
 http://192.168.2.2:4022/udp/239.49.8.117:8000
 #EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.v1.mk/logo/江苏影视.png" group-title="江苏", 江苏影视
 http://192.168.2.2:4022/udp/239.49.8.118:8000

@@ -13,7 +13,7 @@
         {"name":"饭聚合","type":0,"url":"https://github.catvod.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
         {"name":"范明明","type":0,"url":"https://github.catvod.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2},
         {"name":"Gather.网络直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"},
-        {"name":"本地ITV","type":0,"url":"./lib/live.txt","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/noproxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/noproxy/https://epg.112114.xyz/logo/{name}.png"}
+        {"name":"本地ITV","type":0,"url":"./lib/live.txt","ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
 ],
 
 "rules":[

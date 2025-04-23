@@ -201,8 +201,6 @@ http://192.168.2.2:4022/rtp/239.49.0.197:8000
 http://192.168.2.2:4022/rtp/239.49.8.45:8044
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="其他",欢笑剧场HD
 http://192.168.2.2:4022/rtp/239.49.8.47:8060
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.v1.mk/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
-http://192.168.2.2:4022/rtp/239.49.8.106:8000
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.v1.mk/logo/上海第一财经.png" group-title="其他",第一财经
 http://192.168.2.2:4022/rtp/239.49.0.30:8232
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.v1.mk/logo/金色学堂.png" group-title="其他",金色学堂
